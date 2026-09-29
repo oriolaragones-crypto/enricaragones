@@ -15,5 +15,22 @@
       "es": "Entrevista con motivo de los 150 años del Museu Geològic del Seminari de Barcelona (1874-2024). Enric Aragonès, colaborador científico estrechamente vinculado al Museo, repasa su historia, sus directores, su patrimonio y sus retos de futuro, y explica su trabajo con el Arxiu Històric i Biogràfic.",
       "en": "Interview marking the 150th anniversary of the Museu Geològic del Seminari de Barcelona (1874-2024). Enric Aragonès, a scientific collaborator closely linked to the Museum, reviews its history, directors, holdings and future challenges, and describes his work on its Historical and Biographical Archive."
     }
+  },
+  {
+    "id": "sapiens-239-2022-lyell",
+    "year": 2022,
+    "type": "mention",
+    "outlet": "Sapiens, núm. 239",
+    "url": "https://www.sapiens.cat/revista/sapiens-239/viatge-charles-lyell-olot_208094_102.html",
+    "title": {
+      "ca": "El viatge de Charles Lyell a Olot",
+      "es": "El viatge de Charles Lyell a Olot",
+      "en": "El viatge de Charles Lyell a Olot"
+    },
+    "summary": {
+      "ca": "Reportatge de Sapiens, amb entrevista al geòleg Isaac Camps, sobre el viatge de Charles Lyell a la zona volcànica de la Garrotxa. Camps destaca la tasca d’Enric Aragonès: «Per sort, l’historiador de la geologia Enric Aragonès ha fet una gran tasca de reconstrucció del periple de Lyell per Catalunya, després de descobrir unes fotocòpies dels seus blocs al Museu Geològic del Seminari de Barcelona.» (Text complet per a subscriptors.)",
+      "es": "Reportaje de Sapiens, con entrevista al geólogo Isaac Camps, sobre el viaje de Charles Lyell a la zona volcánica de la Garrotxa. Camps destaca la labor de Enric Aragonès: «Por suerte, el historiador de la geología Enric Aragonès ha hecho una gran labor de reconstrucción del periplo de Lyell por Cataluña, tras descubrir unas fotocopias de sus blocs en el Museu Geològic del Seminari de Barcelona.» (Texto completo para suscriptores.)",
+      "en": "A Sapiens feature, with an interview with the geologist Isaac Camps, on Charles Lyell’s journey to the volcanic area of the Garrotxa. Camps highlights Enric Aragonès’s work: “Fortunately, the historian of geology Enric Aragonès has done a great job of reconstructing Lyell’s journey through Catalonia, after discovering photocopies of his notebooks at the Museu Geològic del Seminari de Barcelona.” (Full text for subscribers.)"
+    }
   }
 ]

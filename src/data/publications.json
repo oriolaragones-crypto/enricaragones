@@ -28,5 +28,94 @@
       "Suïssa"
     ],
     "featured": true
+  },
+  {
+    "id": "faura-espeleoleg-2010",
+    "year": 2010,
+    "type": "book",
+    "topic": "regional",
+    "authors": [
+      "Enric Aragonès"
+    ],
+    "lang": "ca",
+    "venue": "Federació Catalana d'Espeleologia, Barcelona (106 p.)",
+    "doi": "",
+    "pdf": "",
+    "url": "http://museugeologic.blogspot.com/2017/05/enric-aragones-recordant-maria-faura-i.html",
+    "title": {
+      "ca": "Marià Faura i Sans espeleòleg (1883-1941)",
+      "es": "Marià Faura i Sans espeleòleg (1883-1941)",
+      "en": "Marià Faura i Sans espeleòleg (1883-1941)"
+    },
+    "abstract": {
+      "ca": "",
+      "es": "",
+      "en": ""
+    },
+    "keywords": [
+      "Marià Faura i Sans",
+      "espeleologia",
+      "història de la geologia"
+    ],
+    "featured": true
+  },
+  {
+    "id": "tmgb-14-2006-faura",
+    "year": 2006,
+    "type": "article",
+    "topic": "cartografia",
+    "authors": [
+      "Enric Aragonès"
+    ],
+    "lang": "ca",
+    "venue": "Treballs del Museu de Geologia de Barcelona, 14: 81-264",
+    "doi": "",
+    "pdf": "",
+    "url": "http://museugeologic.blogspot.com/2017/05/enric-aragones-recordant-maria-faura-i.html",
+    "title": {
+      "ca": "Marià Faura i Sans i el Servei Geològic de Catalunya (1914-1924)",
+      "es": "Marià Faura i Sans i el Servei Geològic de Catalunya (1914-1924)",
+      "en": "Marià Faura i Sans i el Servei Geològic de Catalunya (1914-1924)"
+    },
+    "abstract": {
+      "ca": "",
+      "es": "",
+      "en": ""
+    },
+    "keywords": [
+      "Marià Faura i Sans",
+      "Servei Geològic de Catalunya",
+      "cartografia geològica"
+    ],
+    "featured": true
+  },
+  {
+    "id": "agora-naturalistes-2016",
+    "year": 2016,
+    "type": "conference",
+    "topic": "regional",
+    "authors": [
+      "Enric Aragonès"
+    ],
+    "lang": "ca",
+    "venue": "Àgora dels Naturalistes, Ateneu Barcelonès i Amics del Museu de Ciències Naturals de Barcelona (19/10/2016)",
+    "doi": "",
+    "pdf": "",
+    "url": "https://amicsnat.cat/node/179",
+    "title": {
+      "ca": "Geologia a Catalunya: dels viatgers il·lustrats a la recerca especialitzada",
+      "es": "Geologia a Catalunya: dels viatgers il·lustrats a la recerca especialitzada",
+      "en": "Geologia a Catalunya: dels viatgers il·lustrats a la recerca especialitzada"
+    },
+    "abstract": {
+      "ca": "",
+      "es": "",
+      "en": ""
+    },
+    "keywords": [
+      "història de la geologia",
+      "Catalunya"
+    ],
+    "featured": false
   }
 ]

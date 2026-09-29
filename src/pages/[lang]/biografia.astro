@@ -6,10 +6,19 @@ export function getStaticPaths() {
 }
 const lang = Astro.params.lang as Lang;
 const tr = t(lang);
+const links = [
+  { label: 'Academia.edu', url: 'https://independent.academia.edu/EnricAragones' },
+  { label: 'Amics del Museu de Ciències Naturals de Barcelona', url: 'https://amicsnat.cat/taxonomy/term/81' },
+  { label: 'Amics del Museu Geològic del Seminari de Barcelona', url: 'http://museugeologic.blogspot.com/2017/05/enric-aragones-recordant-maria-faura-i.html' },
+];
 ---
 <Base lang={lang} section="biografia" title={tr.bio.title}>
   <div class="wrap page">
     <h1>{tr.bio.title}</h1>
     <p class="note">{tr.placeholder}</p>
+    <h2>{tr.bio.links}</h2>
+    <ul>
+      {links.map((l) => <li><a href={l.url} rel="noopener">{l.label}</a></li>)}
+    </ul>
   </div>
 </Base>

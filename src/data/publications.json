@@ -1,18 +1,143 @@
 [
-  { "id": "p1", "year": 1985, "type": "article", "topic": "estratigrafia", "authors": ["E. Aragonès"], "lang": "ca", "venue": "Revista d'exemple", "doi": "", "pdf": "",
-    "title": { "ca": "Títol d'exemple d'un article d'estratigrafia", "es": "Título de ejemplo de un artículo de estratigrafía", "en": "Sample title of a stratigraphy article" },
-    "abstract": { "ca": "Resum provisional del treball.", "es": "Resumen provisional del trabajo.", "en": "Placeholder abstract of the work." },
-    "keywords": ["estratigrafia", "exemple"], "featured": true },
-  { "id": "p2", "year": 1994, "type": "map", "topic": "cartografia", "authors": ["E. Aragonès", "A. Col·laborador"], "lang": "ca", "venue": "Institut d'exemple", "doi": "", "pdf": "",
-    "title": { "ca": "Mapa geològic d'exemple 1:25.000", "es": "Mapa geológico de ejemplo 1:25.000", "en": "Sample geological map 1:25,000" },
-    "abstract": { "ca": "Resum provisional.", "es": "Resumen provisional.", "en": "Placeholder abstract." },
-    "keywords": ["cartografia"], "featured": true },
-  { "id": "p3", "year": 2003, "type": "report", "topic": "hidrogeologia", "authors": ["E. Aragonès"], "lang": "es", "venue": "Informe técnico", "doi": "", "pdf": "",
-    "title": { "ca": "Informe d'exemple sobre aqüífers", "es": "Informe de ejemplo sobre acuíferos", "en": "Sample report on aquifers" },
-    "abstract": { "ca": "Resum provisional.", "es": "Resumen provisional.", "en": "Placeholder abstract." },
-    "keywords": ["hidrogeologia", "aqüífers"], "featured": true },
-  { "id": "p4", "year": 2011, "type": "book", "topic": "regional", "authors": ["E. Aragonès"], "lang": "en", "venue": "Editorial d'exemple", "doi": "", "pdf": "",
-    "title": { "ca": "Llibre d'exemple de geologia regional", "es": "Libro de ejemplo de geología regional", "en": "Sample book on regional geology" },
-    "abstract": { "ca": "Resum provisional.", "es": "Resumen provisional.", "en": "Placeholder abstract." },
-    "keywords": ["regional"], "featured": false }
+  {
+    "id": "tmgb-11-2002-gimbernat",
+    "year": 2002,
+    "type": "article",
+    "topic": "regional",
+    "authors": [
+      "Enric Aragonès"
+    ],
+    "lang": "fr",
+    "venue": "Treballs del Museu de Geologia de Barcelona, 11",
+    "doi": "",
+    "pdf": "",
+    "url": "https://museucienciesjournals.cat/tmgb/issue/11-2002-tmgb/etude-analytique-des-planos-geognosticos-de-los-alpes-y-de-la-suiza-de-carles-de-gimbernat-1803-1808",
+    "title": {
+      "ca": "Étude analytique des «Planos geognósticos de los Alpes y de la Suiza» de Carles de Gimbernat (1803-1808)",
+      "es": "Étude analytique des «Planos geognósticos de los Alpes y de la Suiza» de Carles de Gimbernat (1803-1808)",
+      "en": "Étude analytique des «Planos geognósticos de los Alpes y de la Suiza» de Carles de Gimbernat (1803-1808)"
+    },
+    "abstract": {
+      "ca": "",
+      "es": "",
+      "en": ""
+    },
+    "keywords": [
+      "Gimbernat",
+      "Alps",
+      "Suïssa"
+    ],
+    "featured": true
+  },
+  {
+    "id": "p1",
+    "year": 1985,
+    "type": "article",
+    "topic": "estratigrafia",
+    "authors": [
+      "E. Aragonès"
+    ],
+    "lang": "ca",
+    "venue": "Revista d'exemple",
+    "doi": "",
+    "pdf": "",
+    "title": {
+      "ca": "Títol d'exemple d'un article d'estratigrafia",
+      "es": "Título de ejemplo de un artículo de estratigrafía",
+      "en": "Sample title of a stratigraphy article"
+    },
+    "abstract": {
+      "ca": "Resum provisional del treball.",
+      "es": "Resumen provisional del trabajo.",
+      "en": "Placeholder abstract of the work."
+    },
+    "keywords": [
+      "estratigrafia",
+      "exemple"
+    ],
+    "featured": true
+  },
+  {
+    "id": "p2",
+    "year": 1994,
+    "type": "map",
+    "topic": "cartografia",
+    "authors": [
+      "E. Aragonès",
+      "A. Col·laborador"
+    ],
+    "lang": "ca",
+    "venue": "Institut d'exemple",
+    "doi": "",
+    "pdf": "",
+    "title": {
+      "ca": "Mapa geològic d'exemple 1:25.000",
+      "es": "Mapa geológico de ejemplo 1:25.000",
+      "en": "Sample geological map 1:25,000"
+    },
+    "abstract": {
+      "ca": "Resum provisional.",
+      "es": "Resumen provisional.",
+      "en": "Placeholder abstract."
+    },
+    "keywords": [
+      "cartografia"
+    ],
+    "featured": true
+  },
+  {
+    "id": "p3",
+    "year": 2003,
+    "type": "report",
+    "topic": "hidrogeologia",
+    "authors": [
+      "E. Aragonès"
+    ],
+    "lang": "es",
+    "venue": "Informe técnico",
+    "doi": "",
+    "pdf": "",
+    "title": {
+      "ca": "Informe d'exemple sobre aqüífers",
+      "es": "Informe de ejemplo sobre acuíferos",
+      "en": "Sample report on aquifers"
+    },
+    "abstract": {
+      "ca": "Resum provisional.",
+      "es": "Resumen provisional.",
+      "en": "Placeholder abstract."
+    },
+    "keywords": [
+      "hidrogeologia",
+      "aqüífers"
+    ],
+    "featured": true
+  },
+  {
+    "id": "p4",
+    "year": 2011,
+    "type": "book",
+    "topic": "regional",
+    "authors": [
+      "E. Aragonès"
+    ],
+    "lang": "en",
+    "venue": "Editorial d'exemple",
+    "doi": "",
+    "pdf": "",
+    "title": {
+      "ca": "Llibre d'exemple de geologia regional",
+      "es": "Libro de ejemplo de geología regional",
+      "en": "Sample book on regional geology"
+    },
+    "abstract": {
+      "ca": "Resum provisional.",
+      "es": "Resumen provisional.",
+      "en": "Placeholder abstract."
+    },
+    "keywords": [
+      "regional"
+    ],
+    "featured": false
+  }
 ]

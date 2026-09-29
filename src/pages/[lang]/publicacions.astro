@@ -34,8 +34,9 @@ const topics = [...new Set(pubs.map((p) => p.topic))];
             <span class="tag">{tr.types[p.type as keyof typeof tr.types]} · {tr.topics[p.topic as keyof typeof tr.topics]}</span>
             <h3>{p.title[lang]}</h3>
             <div class="meta">{p.authors.join(', ')} — <em>{p.venue}</em></div>
-            <p>{p.abstract[lang]}</p>
+            {p.abstract[lang] && <p>{p.abstract[lang]}</p>}
             {p.pdf && <a class="btn ghost" href={p.pdf}>{tr.pubs.pdf}</a>}
+            {p.url && <a href={p.url} rel="noopener">{tr.pubs.source} →</a>}
           </div>
         </article>
       ))}

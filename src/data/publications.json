@@ -27,7 +27,7 @@
       "Alps",
       "Suïssa"
     ],
-    "featured": true
+    "featured": false
   },
   {
     "id": "faura-espeleoleg-2010",
@@ -57,7 +57,7 @@
       "espeleologia",
       "història de la geologia"
     ],
-    "featured": true
+    "featured": false
   },
   {
     "id": "tmgb-14-2006-faura",
@@ -87,7 +87,7 @@
       "Servei Geològic de Catalunya",
       "cartografia geològica"
     ],
-    "featured": true
+    "featured": false
   },
   {
     "id": "agora-naturalistes-2016",
@@ -407,7 +407,7 @@
       "auroras boreals",
       "segle XVIII"
     ],
-    "featured": false
+    "featured": true
   },
   {
     "id": "tmgb-08-1999",
@@ -917,7 +917,7 @@
       "en": ""
     },
     "keywords": [],
-    "featured": false
+    "featured": true
   },
   {
     "id": "2024-irina-podgorny-los-argentinos-vienen-de-los-peces-ensayo-de-filogenia-",
@@ -1318,7 +1318,7 @@
       "Catalunya",
       "història de la geologia"
     ],
-    "featured": false
+    "featured": true
   },
   {
     "id": "2002-marc-legal-normativa-de-proteccio-i-reglamentacio-d-usos-dels-espais-p",

@@ -8,7 +8,7 @@ export type Section = (typeof sections)[number];
 // Els textos marcats com a proveïdor són provisionals: cal substituir-los pels reals.
 export const ui = {
   ca: {
-    siteTitle: 'Enric Aragonès',
+    siteTitle: 'Enric Aragonès i Valls',
     role: 'Geòleg',
     tagline: 'Recerca i obra geològica de tota una vida',
     nav: { biografia: 'Biografia', recerca: 'Recerca', publicacions: 'Publicacions', projectes: 'Projectes i camp', galeria: 'Galeria', premsa: 'Premsa', contacte: 'Contacte' },
@@ -30,7 +30,7 @@ export const ui = {
     langLabel: 'Idioma',
   },
   es: {
-    siteTitle: 'Enric Aragonès',
+    siteTitle: 'Enric Aragonès i Valls',
     role: 'Geólogo',
     tagline: 'Investigación y obra geológica de toda una vida',
     nav: { biografia: 'Biografía', recerca: 'Investigación', publicacions: 'Publicaciones', projectes: 'Proyectos y campo', galeria: 'Galería', premsa: 'Prensa', contacte: 'Contacto' },
@@ -52,7 +52,7 @@ export const ui = {
     langLabel: 'Idioma',
   },
   en: {
-    siteTitle: 'Enric Aragonès',
+    siteTitle: 'Enric Aragonès i Valls',
     role: 'Geologist',
     tagline: 'A lifetime of geological research',
     nav: { biografia: 'Biography', recerca: 'Research', publicacions: 'Publications', projectes: 'Projects & fieldwork', galeria: 'Gallery', premsa: 'Press', contacte: 'Contact' },

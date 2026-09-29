@@ -37,6 +37,7 @@ const topics = [...new Set(pubs.map((p) => p.topic))];
             {p.abstract[lang] && <p>{p.abstract[lang]}</p>}
             {p.pdf && <a class="btn ghost" href={p.pdf}>{tr.pubs.pdf}</a>}
             {p.url && <a href={p.url} rel="noopener">{tr.pubs.source} →</a>}
+            {p.doi && <a class="doi" href={`https://doi.org/${p.doi}`} rel="noopener">DOI: {p.doi}</a>}
           </div>
         </article>
       ))}

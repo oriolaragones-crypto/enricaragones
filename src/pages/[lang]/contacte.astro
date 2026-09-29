@@ -11,11 +11,5 @@ const tr = t(lang);
   <div class="wrap page">
     <h1>{tr.contact.title}</h1>
     <p class="lead">{tr.contact.write} <a href="mailto:enric.arago@gmail.com">enric.arago@gmail.com</a></p>
-    <form class="contact" method="post" action="#">
-      <div><label for="n">{tr.contact.name}</label><input id="n" name="name" required /></div>
-      <div><label for="e">{tr.contact.email}</label><input id="e" name="email" type="email" required /></div>
-      <div><label for="m">{tr.contact.message}</label><textarea id="m" name="message" rows="6" required></textarea></div>
-      <div><button class="btn" type="submit">{tr.contact.send}</button></div>
-    </form>
   </div>
 </Base>

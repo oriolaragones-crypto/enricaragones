@@ -1,0 +1,61 @@
+---
+import Base from '../../layouts/Base.astro';
+import { t, type Lang } from '../../i18n/ui';
+import pubs from '../../data/publications.json';
+export function getStaticPaths() {
+  return ['ca', 'es', 'en'].map((lang) => ({ params: { lang } }));
+}
+const lang = Astro.params.lang as Lang;
+const tr = t(lang);
+const sorted = [...pubs].sort((a, b) => b.year - a.year);
+const years = [...new Set(pubs.map((p) => p.year))].sort((a, b) => b - a);
+const types = [...new Set(pubs.map((p) => p.type))];
+const topics = [...new Set(pubs.map((p) => p.topic))];
+---
+<Base lang={lang} section="publicacions" title={tr.nav.publicacions}>
+  <div class="wrap page">
+    <h1>{tr.nav.publicacions}</h1>
+    <div class="filters">
+      <div><label for="q">&nbsp;</label><input id="q" type="search" placeholder={tr.pubs.search} /></div>
+      <div><label for="fy">{tr.pubs.year}</label>
+        <select id="fy"><option value="">{tr.pubs.all}</option>{years.map((y) => <option>{y}</option>)}</select></div>
+      <div><label for="ft">{tr.pubs.type}</label>
+        <select id="ft"><option value="">{tr.pubs.all}</option>{types.map((x) => <option value={x}>{tr.types[x as keyof typeof tr.types]}</option>)}</select></div>
+      <div><label for="fo">{tr.pubs.topic}</label>
+        <select id="fo"><option value="">{tr.pubs.all}</option>{topics.map((x) => <option value={x}>{tr.topics[x as keyof typeof tr.topics]}</option>)}</select></div>
+    </div>
+    <p class="meta"><span id="count">{sorted.length}</span> {tr.pubs.results}</p>
+    <div id="list">
+      {sorted.map((p) => (
+        <article class="pub" data-year={p.year} data-type={p.type} data-topic={p.topic}
+          data-text={[p.title[lang], p.authors.join(' '), p.keywords.join(' '), p.venue].join(' ').toLowerCase()}>
+          <div class="year">{p.year}</div>
+          <div>
+            <span class="tag">{tr.types[p.type as keyof typeof tr.types]} · {tr.topics[p.topic as keyof typeof tr.topics]}</span>
+            <h3>{p.title[lang]}</h3>
+            <div class="meta">{p.authors.join(', ')} — <em>{p.venue}</em></div>
+            <p>{p.abstract[lang]}</p>
+            {p.pdf && <a class="btn ghost" href={p.pdf}>{tr.pubs.pdf}</a>}
+          </div>
+        </article>
+      ))}
+    </div>
+    <p id="none" class="meta" hidden>{tr.pubs.none}</p>
+  </div>
+</Base>
+<script>
+  const $ = (id: string) => document.getElementById(id) as HTMLInputElement;
+  const items = [...document.querySelectorAll<HTMLElement>('.pub')];
+  function apply() {
+    const q = $('q').value.trim().toLowerCase(), y = $('fy').value, ty = $('ft').value, to = $('fo').value;
+    let n = 0;
+    for (const el of items) {
+      const ok = (!q || el.dataset.text!.includes(q)) && (!y || el.dataset.year === y) &&
+        (!ty || el.dataset.type === ty) && (!to || el.dataset.topic === to);
+      el.hidden = !ok; if (ok) n++;
+    }
+    $('count').textContent = String(n);
+    $('none').hidden = n > 0;
+  }
+  ['q', 'fy', 'ft', 'fo'].forEach((id) => $(id).addEventListener('input', apply));
+</script>

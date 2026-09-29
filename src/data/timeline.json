@@ -8,19 +8,19 @@
     }
   },
   {
-    "year": 1972,
+    "year": "1967–1972",
     "text": {
-      "ca": "Geòleg.",
-      "es": "Geólogo.",
-      "en": "Geologist."
+      "ca": "Llicenciat en Ciències Geològiques per la Universitat de Barcelona (Facultat de Ciències Geològiques).",
+      "es": "Licenciado en Ciencias Geológicas por la Universidad de Barcelona (Facultad de Ciencias Geológicas).",
+      "en": "Degree in Geological Sciences, University of Barcelona (Faculty of Geological Sciences)."
     }
   },
   {
     "year": 1973,
     "text": {
-      "ca": "Hidrogeòleg.",
-      "es": "Hidrogeólogo.",
-      "en": "Hydrogeologist."
+      "ca": "Diploma de postgrau al VII Curs Internacional d’Hidrologia Subterrània (Fundación Centro Internacional de Hidrología Subterránea, Barcelona).",
+      "es": "Diploma de posgrado en el VII Curso Internacional de Hidrología Subterránea (Fundación Centro Internacional de Hidrología Subterránea, Barcelona).",
+      "en": "Postgraduate diploma, 7th International Course on Groundwater Hydrology (Fundación Centro Internacional de Hidrología Subterránea, Barcelona)."
     }
   },
   {
@@ -32,19 +32,27 @@
     }
   },
   {
-    "year": 1981,
+    "year": "1981–2012",
     "text": {
-      "ca": "Ingressa com a funcionari de la Generalitat de Catalunya.",
-      "es": "Ingresa como funcionario de la Generalitat de Catalunya.",
-      "en": "Joins the Generalitat de Catalunya as a civil servant."
+      "ca": "Funcionari de la Generalitat de Catalunya.",
+      "es": "Funcionario de la Generalitat de Catalunya.",
+      "en": "Civil servant at the Generalitat de Catalunya."
     }
   },
   {
-    "year": 1993,
+    "year": "1992–1993",
     "text": {
-      "ca": "Màster en enginyeria i gestió ambiental.",
-      "es": "Máster en ingeniería y gestión ambiental.",
-      "en": "Master's degree in environmental engineering and management."
+      "ca": "Diploma del Curs d’Enginyeria Ambiental (Institut Català de Tecnologia, Barcelona).",
+      "es": "Diploma del Curso de Ingeniería Ambiental (Institut Català de Tecnologia, Barcelona).",
+      "en": "Diploma in Environmental Engineering (Institut Català de Tecnologia, Barcelona)."
+    }
+  },
+  {
+    "year": "1993–1994",
+    "text": {
+      "ca": "Màster en Enginyeria i Gestió Ambiental (Universitat Politècnica de Catalunya).",
+      "es": "Máster en Ingeniería y Gestión Ambiental (Universitat Politècnica de Catalunya).",
+      "en": "Master’s degree in Environmental Engineering and Management (Universitat Politècnica de Catalunya)."
     }
   },
   {

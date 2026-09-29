@@ -79,3 +79,4 @@ form.contact { display:grid; gap:14px; max-width:560px; }
 .portrait-bio { float:right; width:220px; margin:0 0 20px 32px; }
 @media (max-width:720px){ .portrait-bio { float:none; display:block; width:200px; margin:0 0 20px; } }
 .page::after { content:""; display:block; clear:both; }
+[hidden] { display:none !important; }

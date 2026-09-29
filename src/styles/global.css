@@ -74,3 +74,5 @@ label { font-size:.82rem; color:var(--muted); display:block; margin-bottom:4px; 
 .gallery div { aspect-ratio:4/3; background:var(--accent-soft); border:1px dashed var(--strata); border-radius:6px; display:grid; place-items:center; color:var(--muted); font-size:.85rem; }
 form.contact { display:grid; gap:14px; max-width:560px; }
 .site-footer { border-top:1px solid var(--line); padding:24px 0; color:var(--muted); font-size:.85rem; }
+
+.wip { margin:0; background:var(--accent-soft); border-bottom:1px solid var(--line); font-size:.85rem; color:var(--muted); padding:8px 0; text-align:center; }

@@ -7,6 +7,7 @@ const tr = t(lang);
 const pageTitle = title ? `${title} · ${tr.siteTitle}` : `${tr.siteTitle} · ${tr.role}`;
 const path = section ? `${section}/` : '';
 const site = 'https://www.enricaragones.com';
+const hidden = ['recerca', 'projectes']; // seccions sense contingut, fora del menú
 ---
 <!doctype html>
 <html lang={lang}>
@@ -15,6 +16,9 @@ const site = 'https://www.enricaragones.com';
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>{pageTitle}</title>
     <meta name="description" content={description ?? tr.tagline} />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="alternate icon" href="/favicon.ico" sizes="any" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
     <link rel="canonical" href={`${site}/${lang}/${path}`} />
     {Object.keys(languages).map((l) => <link rel="alternate" hreflang={l} href={`${site}/${l}/${path}`} />)}
     <link rel="alternate" hreflang="x-default" href={`${site}/ca/${path}`} />
@@ -31,7 +35,7 @@ const site = 'https://www.enricaragones.com';
         </a>
         <nav aria-label="Principal">
           <ul class="nav">
-            {sections.map((s) => (
+            {sections.filter((s) => !hidden.includes(s)).map((s) => (
               <li><a href={href(lang, s)} aria-current={s === section ? 'page' : undefined}>{tr.nav[s]}</a></li>
             ))}
           </ul>

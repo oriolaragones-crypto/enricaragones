@@ -11,7 +11,7 @@ const featured = pubs.filter((p) => p.featured);
 ---
 <Base lang={lang}>
   <section class="hero">
-    <div class="wrap hero-grid">
+    <div class="wrap">
       <div>
         <span class="tag">{tr.role}</span>
         <h1>{tr.siteTitle}</h1>
@@ -22,14 +22,10 @@ const featured = pubs.filter((p) => p.featured);
           <a class="btn ghost" href={href(lang, 'biografia')}>{tr.home.readBio}</a>
         </p>
       </div>
-      <div class="portrait">📷<br />{tr.placeholder}</div>
+      
     </div>
   </section>
   <div class="wrap page">
-    <h2>{tr.home.areas}</h2>
-    <ul class="chips">
-      {Object.values(tr.topics).map((x) => <li class="chip">{x}</li>)}
-    </ul>
     <h2>{tr.home.featured}</h2>
     <ul class="cards">
       {featured.map((p) => (

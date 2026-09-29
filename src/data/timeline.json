@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "year": 1972,
+    "text": {
+      "ca": "Geòleg.",
+      "es": "Geólogo.",
+      "en": "Geologist."
+    }
+  },
+  {
+    "year": 1973,
+    "text": {
+      "ca": "Hidrogeòleg.",
+      "es": "Hidrogeólogo.",
+      "en": "Hydrogeologist."
+    }
+  },
+  {
+    "year": 1981,
+    "text": {
+      "ca": "Ingressa com a funcionari de la Generalitat de Catalunya.",
+      "es": "Ingresa como funcionario de la Generalitat de Catalunya.",
+      "en": "Joins the Generalitat de Catalunya as a civil servant."
+    }
+  },
+  {
+    "year": 1993,
+    "text": {
+      "ca": "Màster en enginyeria i gestió ambiental.",
+      "es": "Máster en ingeniería y gestión ambiental.",
+      "en": "Master's degree in environmental engineering and management."
+    }
+  },
+  {
+    "year": 2009,
+    "text": {
+      "ca": "Publica el número 17 de les Notícies de Natura, dedicat a Marià Faura i Sans en la seva etapa espeleològica (52 pàgines).",
+      "es": "Publica el número 17 de las Notícies de Natura, dedicado a Marià Faura i Sans en su etapa espeleológica (52 páginas).",
+      "en": "Publishes issue 17 of Notícies de Natura, devoted to Marià Faura i Sans in his speleological period (52 pages)."
+    }
+  }
+]

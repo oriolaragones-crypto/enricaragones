@@ -1,6 +1,7 @@
 ---
 import Base from '../../layouts/Base.astro';
 import { t, type Lang } from '../../i18n/ui';
+import timeline from '../../data/timeline.json';
 export function getStaticPaths() {
   return ['ca', 'es', 'en'].map((lang) => ({ params: { lang } }));
 }
@@ -15,8 +16,13 @@ const links = [
 <Base lang={lang} section="biografia" title={tr.bio.title}>
   <div class="wrap page">
     <h1>{tr.bio.title}</h1>
-    <p class="note">{tr.placeholder}</p>
     <img class="portrait portrait-bio" src="/img/enric-aragones.jpg" width="556" height="696" alt={tr.siteTitle} />
+    <p>{tr.bio.p1}</p>
+    <p>{tr.bio.p2}</p>
+    <h2>{tr.bio.timeline}</h2>
+    <ul class="timeline">
+      {timeline.map((e) => <li><span class="y">{e.year}</span> — {e.text[lang]}</li>)}
+    </ul>
     <h2>{tr.bio.links}</h2>
     <ul>
       {links.map((l) => <li><a href={l.url} rel="noopener">{l.label}</a></li>)}

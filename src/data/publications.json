@@ -3,14 +3,14 @@
     "id": "tmgb-11-2002-gimbernat",
     "year": 2002,
     "type": "article",
-    "topic": "regional",
+    "topic": "historia",
     "authors": [
       "Enric Aragonès"
     ],
     "lang": "fr",
-    "venue": "Treballs del Museu de Geologia de Barcelona, 11",
+    "venue": "Treballs del Museu de Geologia de Barcelona, 11: 135-199",
     "doi": "",
-    "pdf": "",
+    "pdf": "/pdf/aragones-2002-planos-geognosticos-gimbernat.pdf",
     "url": "https://museucienciesjournals.cat/tmgb/issue/11-2002-tmgb/etude-analytique-des-planos-geognosticos-de-los-alpes-y-de-la-suiza-de-carles-de-gimbernat-1803-1808",
     "title": {
       "ca": "Étude analytique des «Planos geognósticos de los Alpes y de la Suiza» de Carles de Gimbernat (1803-1808)",
@@ -18,9 +18,9 @@
       "en": "Étude analytique des «Planos geognósticos de los Alpes y de la Suiza» de Carles de Gimbernat (1803-1808)"
     },
     "abstract": {
-      "ca": "",
-      "es": "",
-      "en": ""
+      "en": "Five copies of Carles de Gimbernat's Planos geognósticos de los Alpes y de la Suiza (the original manuscript and four printed copies) are analysed. The work is a true geological atlas, the first ever made of the Swiss Alps. Its methods (stratigraphy, graphic display of results, neptunism) show that its author was a disciple of Werner. Gimbernat was probably not the only author: the geological map must have been made earlier, probably by a local geognost. The fall of the Spanish monarchy cut off the financing and the work was never completed.",
+      "ca": "S'analitzen cinc exemplars dels Planos geognósticos de los Alpes y de la Suiza de Carles de Gimbernat (el manuscrit original i quatre còpies impreses). L'obra és un vertader atles geològic, el primer que es va fer mai dels Alps suïssos. Els mètodes (estratigrafia, expressió gràfica dels resultats, neptunisme) mostren que l'autor fou deixeble de Werner. Gimbernat probablement no en fou l'únic autor: el mapa geològic degué ser fet abans, potser per un geognosta local. La caiguda de la monarquia espanyola va tallar-ne el finançament i l'obra no s'acabà mai.",
+      "es": "Se analizan cinco ejemplares de los Planos geognósticos de los Alpes y de la Suiza de Carles de Gimbernat (el manuscrito original y cuatro copias impresas). La obra es un verdadero atlas geológico, el primero que se hizo de los Alpes suizos. Sus métodos (estratigrafía, expresión gráfica de los resultados, neptunismo) muestran que su autor fue discípulo de Werner. Probablemente Gimbernat no fue el único autor: el mapa geológico debió de hacerse antes, quizá por un geognosta local. La caída de la monarquía española cortó la financiación y la obra nunca se terminó."
     },
     "keywords": [
       "Gimbernat",
@@ -28,5 +28,414 @@
       "Suïssa"
     ],
     "featured": true
+  },
+  {
+    "id": "faura-espeleoleg-2010",
+    "year": 2010,
+    "type": "book",
+    "topic": "historia",
+    "authors": [
+      "Enric Aragonès"
+    ],
+    "lang": "ca",
+    "venue": "Federació Catalana d'Espeleologia, Barcelona (106 p.)",
+    "doi": "",
+    "pdf": "",
+    "url": "http://museugeologic.blogspot.com/2017/05/enric-aragones-recordant-maria-faura-i.html",
+    "title": {
+      "ca": "Marià Faura i Sans espeleòleg (1883-1941)",
+      "es": "Marià Faura i Sans espeleòleg (1883-1941)",
+      "en": "Marià Faura i Sans espeleòleg (1883-1941)"
+    },
+    "abstract": {
+      "ca": "",
+      "es": "",
+      "en": ""
+    },
+    "keywords": [
+      "Marià Faura i Sans",
+      "espeleologia",
+      "història de la geologia"
+    ],
+    "featured": true
+  },
+  {
+    "id": "tmgb-14-2006-faura",
+    "year": 2006,
+    "type": "article",
+    "topic": "cartografia",
+    "authors": [
+      "Enric Aragonès"
+    ],
+    "lang": "es",
+    "venue": "Treballs del Museu de Geologia de Barcelona, 14: 81-264",
+    "doi": "",
+    "pdf": "",
+    "url": "https://museucienciesjournals.cat/tmgb/issue/14-2006-tmgb/mariano-faura-i-sans-y-el-servicio-del-mapa-geologico-de-cataluna-1914-1924",
+    "title": {
+      "ca": "Mariano Faura i Sans y el Servicio del Mapa Geológico de Cataluña (1914-1924)",
+      "es": "Mariano Faura i Sans y el Servicio del Mapa Geológico de Cataluña (1914-1924)",
+      "en": "Mariano Faura i Sans y el Servicio del Mapa Geológico de Cataluña (1914-1924)"
+    },
+    "abstract": {
+      "ca": "",
+      "es": "",
+      "en": ""
+    },
+    "keywords": [
+      "Marià Faura i Sans",
+      "Servei Geològic de Catalunya",
+      "cartografia geològica"
+    ],
+    "featured": true
+  },
+  {
+    "id": "agora-naturalistes-2016",
+    "year": 2016,
+    "type": "conference",
+    "topic": "historia",
+    "authors": [
+      "Enric Aragonès"
+    ],
+    "lang": "ca",
+    "venue": "Àgora dels Naturalistes, Ateneu Barcelonès i Amics del Museu de Ciències Naturals de Barcelona (19/10/2016)",
+    "doi": "",
+    "pdf": "",
+    "url": "https://amicsnat.cat/node/179",
+    "title": {
+      "ca": "Geologia a Catalunya: dels viatgers il·lustrats a la recerca especialitzada",
+      "es": "Geologia a Catalunya: dels viatgers il·lustrats a la recerca especialitzada",
+      "en": "Geologia a Catalunya: dels viatgers il·lustrats a la recerca especialitzada"
+    },
+    "abstract": {
+      "ca": "",
+      "es": "",
+      "en": ""
+    },
+    "keywords": [
+      "història de la geologia",
+      "Catalunya"
+    ],
+    "featured": false
+  },
+  {
+    "id": "tmgb-15-2007",
+    "year": 2007,
+    "type": "article",
+    "topic": "cartografia",
+    "authors": [
+      "Enric Aragonès"
+    ],
+    "lang": "ca",
+    "venue": "Treballs del Museu de Geologia de Barcelona, 15: 81-228",
+    "doi": "",
+    "pdf": "",
+    "url": "https://museucienciesjournals.cat/tmgb/issue/15-2007-tmgb/el-mapa-geologic-de-catalunya-entre-el-xiv-congres-internacional-i-la-guerra-civil-1926-1936",
+    "title": {
+      "ca": "El Mapa Geològic de Catalunya entre el XIV Congrés Internacional i la guerra civil (1926-1936)",
+      "es": "El Mapa Geològic de Catalunya entre el XIV Congrés Internacional i la guerra civil (1926-1936)",
+      "en": "El Mapa Geològic de Catalunya entre el XIV Congrés Internacional i la guerra civil (1926-1936)"
+    },
+    "abstract": {
+      "ca": "",
+      "es": "",
+      "en": ""
+    },
+    "keywords": [
+      "mapa geològic de Catalunya"
+    ],
+    "featured": false
+  },
+  {
+    "id": "tmgb-13-2005",
+    "year": 2005,
+    "type": "article",
+    "topic": "cartografia",
+    "authors": [
+      "Enric Aragonès"
+    ],
+    "lang": "ca",
+    "venue": "Treballs del Museu de Geologia de Barcelona, 13: 115-280",
+    "doi": "",
+    "pdf": "",
+    "url": "https://museucienciesjournals.cat/tmgb/issue/13-2005-tmgb/el-mapa-geologic-i-topografic-de-la-provincia-de-barcelona-la-serie-140-000-1888-1914",
+    "title": {
+      "ca": "El mapa geològic i topogràfic de la província de Barcelona: la sèrie 1:40.000 (1888-1914)",
+      "es": "El mapa geològic i topogràfic de la província de Barcelona: la sèrie 1:40.000 (1888-1914)",
+      "en": "El mapa geològic i topogràfic de la província de Barcelona: la sèrie 1:40.000 (1888-1914)"
+    },
+    "abstract": {
+      "ca": "",
+      "es": "",
+      "en": ""
+    },
+    "keywords": [
+      "cartografia geològica",
+      "Barcelona"
+    ],
+    "featured": false
+  },
+  {
+    "id": "tmgb-07-1998",
+    "year": 1998,
+    "type": "article",
+    "topic": "cartografia",
+    "authors": [
+      "Enric Aragonès"
+    ],
+    "lang": "ca",
+    "venue": "Treballs del Museu de Geologia de Barcelona, 7: 129-174",
+    "doi": "",
+    "pdf": "",
+    "url": "https://museucienciesjournals.cat/tmgb/issue/07-1998-tmgb/el-mapa-geologic-i-topografic-de-la-provincia-de-barcelona-de-lescala-1100-000-a-la-140-000-1884-1891",
+    "title": {
+      "ca": "El mapa geològic i topogràfic de la província de Barcelona: de l'escala 1:100.000 a la 1:40.000 (1884-1891)",
+      "es": "El mapa geològic i topogràfic de la província de Barcelona: de l'escala 1:100.000 a la 1:40.000 (1884-1891)",
+      "en": "El mapa geològic i topogràfic de la província de Barcelona: de l'escala 1:100.000 a la 1:40.000 (1884-1891)"
+    },
+    "abstract": {
+      "ca": "",
+      "es": "",
+      "en": ""
+    },
+    "keywords": [
+      "cartografia geològica",
+      "Barcelona"
+    ],
+    "featured": false
+  },
+  {
+    "id": "tmgb-21-2015",
+    "year": 2015,
+    "type": "article",
+    "topic": "historia",
+    "authors": [
+      "Enric Aragonès"
+    ],
+    "lang": "ca",
+    "venue": "Treballs del Museu de Geologia de Barcelona, 21: 45-74",
+    "doi": "10.32800/tmgb.2015.21.0045",
+    "pdf": "",
+    "url": "https://museucienciesjournals.cat/tmgb/issue/21-2015-tmgb/llorenc-tomas-1868-1916-naturalista-amateur-gestor-cultural-i-cartograf",
+    "title": {
+      "ca": "Llorenç Tomàs (1868-1916), naturalista amateur, gestor cultural i… cartògraf?",
+      "es": "Llorenç Tomàs (1868-1916), naturalista amateur, gestor cultural i… cartògraf?",
+      "en": "Llorenç Tomàs (1868-1916), naturalista amateur, gestor cultural i… cartògraf?"
+    },
+    "abstract": {
+      "ca": "",
+      "es": "",
+      "en": ""
+    },
+    "keywords": [
+      "Llorenç Tomàs",
+      "història de la geologia"
+    ],
+    "featured": false
+  },
+  {
+    "id": "tmgb-17-2010-astre",
+    "year": 2010,
+    "type": "article",
+    "topic": "cartografia",
+    "authors": [
+      "Enric Aragonès",
+      "M. Bilotte"
+    ],
+    "lang": "fr",
+    "venue": "Treballs del Museu de Geologia de Barcelona, 17: 27-43",
+    "doi": "",
+    "pdf": "",
+    "url": "https://museucienciesjournals.cat/tmgb/issue/17-2010-tmgb/gaston-astre-et-la-geologie-de-la-region-cadi-pedraforca-histoire-dune-cartographie-inedite-realisee-de-1922-a-1927",
+    "title": {
+      "ca": "Gaston Astre et la géologie de la région Cadí-Pedraforca. Histoire d’une cartographie inédite réalisée de 1922 à 1927?",
+      "es": "Gaston Astre et la géologie de la région Cadí-Pedraforca. Histoire d’une cartographie inédite réalisée de 1922 à 1927?",
+      "en": "Gaston Astre et la géologie de la région Cadí-Pedraforca. Histoire d’une cartographie inédite réalisée de 1922 à 1927?"
+    },
+    "abstract": {
+      "ca": "",
+      "es": "",
+      "en": ""
+    },
+    "keywords": [
+      "Gaston Astre",
+      "Cadí-Pedraforca"
+    ],
+    "featured": false
+  },
+  {
+    "id": "tmgb-22-2016",
+    "year": 2016,
+    "type": "article",
+    "topic": "regional",
+    "authors": [
+      "Enric Aragonès"
+    ],
+    "lang": "ca",
+    "venue": "Treballs del Museu de Geologia de Barcelona, 22: 25-56",
+    "doi": "10.32800/tmgb.2016.22.0025",
+    "pdf": "",
+    "url": "https://museucienciesjournals.cat/tmgb/issue/22-2016-tmgb/geologia-i-roques-industrials-de-la-provincia-de-barcelona-en-un-manuscrit-de-1868",
+    "title": {
+      "ca": "Geologia i roques industrials de la província de Barcelona en un manuscrit de 1868",
+      "es": "Geologia i roques industrials de la província de Barcelona en un manuscrit de 1868",
+      "en": "Geologia i roques industrials de la província de Barcelona en un manuscrit de 1868"
+    },
+    "abstract": {
+      "ca": "",
+      "es": "",
+      "en": ""
+    },
+    "keywords": [
+      "roques industrials",
+      "Barcelona"
+    ],
+    "featured": false
+  },
+  {
+    "id": "tmgb-23-2017",
+    "year": 2017,
+    "type": "article",
+    "topic": "historia",
+    "authors": [
+      "Enric Aragonès"
+    ],
+    "lang": "es",
+    "venue": "Treballs del Museu de Geologia de Barcelona, 23: 27-102",
+    "doi": "10.32800/tmgb.2017.23.0027",
+    "pdf": "",
+    "url": "https://museucienciesjournals.cat/tmgb/issue/23-2017-tmgb/un-epistolario-inedito-de-lucas-mallada-las-cartas-a-luis-mariano-vidal-y-carreras-1873-1902",
+    "title": {
+      "ca": "Un epistolario inédito de Lucas Mallada: las cartas a Luis Mariano Vidal y Carreras (1873-1902)",
+      "es": "Un epistolario inédito de Lucas Mallada: las cartas a Luis Mariano Vidal y Carreras (1873-1902)",
+      "en": "Un epistolario inédito de Lucas Mallada: las cartas a Luis Mariano Vidal y Carreras (1873-1902)"
+    },
+    "abstract": {
+      "ca": "",
+      "es": "",
+      "en": ""
+    },
+    "keywords": [
+      "Lucas Mallada",
+      "Luis Mariano Vidal",
+      "epistolari"
+    ],
+    "featured": false
+  },
+  {
+    "id": "tmgb-10-2001",
+    "year": 2001,
+    "type": "article",
+    "topic": "historia",
+    "authors": [
+      "Enric Aragonès"
+    ],
+    "lang": "ca",
+    "venue": "Treballs del Museu de Geologia de Barcelona, 10: 77-125",
+    "doi": "",
+    "pdf": "",
+    "url": "https://museucienciesjournals.cat/tmgb/issue/10-2001-tmgb/descobrint-el-vulcanisme-quaternari-de-la-garrotxa-de-les-observacions-precientifiques-als-primers-estudis-geologics-s-xvi-xix",
+    "title": {
+      "ca": "Descobrint el vulcanisme quaternari de la Garrotxa: De les observacions precientífiques als primers estudis geològics (s. XVI-XIX)",
+      "es": "Descobrint el vulcanisme quaternari de la Garrotxa: De les observacions precientífiques als primers estudis geològics (s. XVI-XIX)",
+      "en": "Descobrint el vulcanisme quaternari de la Garrotxa: De les observacions precientífiques als primers estudis geològics (s. XVI-XIX)"
+    },
+    "abstract": {
+      "ca": "",
+      "es": "",
+      "en": ""
+    },
+    "keywords": [
+      "vulcanisme",
+      "Garrotxa"
+    ],
+    "featured": false
+  },
+  {
+    "id": "tmgb-02-1992",
+    "year": 1992,
+    "type": "article",
+    "topic": "cartografia",
+    "authors": [
+      "Enric Aragonès"
+    ],
+    "lang": "ca",
+    "venue": "Treballs del Museu de Geologia de Barcelona, 2: 13-44",
+    "doi": "",
+    "pdf": "",
+    "url": "https://museucienciesjournals.cat/tmgb/issue/02-1992-tmgb/la-primera-cartografia-geologica-subvencionada-per-una-institucio-catalana-1869-1870",
+    "title": {
+      "ca": "La primera cartografia geològica subvencionada per una institució catalana (1869-1870)",
+      "es": "La primera cartografia geològica subvencionada per una institució catalana (1869-1870)",
+      "en": "La primera cartografia geològica subvencionada per una institució catalana (1869-1870)"
+    },
+    "abstract": {
+      "ca": "",
+      "es": "",
+      "en": ""
+    },
+    "keywords": [
+      "cartografia geològica"
+    ],
+    "featured": false
+  },
+  {
+    "id": "tmgb-17-2010-auroras",
+    "year": 2010,
+    "type": "article",
+    "topic": "historia",
+    "authors": [
+      "Enric Aragonès",
+      "J. Ordaz Gargallo"
+    ],
+    "lang": "es",
+    "venue": "Treballs del Museu de Geologia de Barcelona, 17: 45-110",
+    "doi": "",
+    "pdf": "",
+    "url": "https://museucienciesjournals.cat/tmgb/issue/17-2010-tmgb/auroras-boreales-observadas-en-la-peninsula-iberica-baleares-y-canarias-durante-el-siglo-xviii",
+    "title": {
+      "ca": "Auroras boreales observadas en la Península Ibérica, Baleares y Canarias durante el siglo XVIII",
+      "es": "Auroras boreales observadas en la Península Ibérica, Baleares y Canarias durante el siglo XVIII",
+      "en": "Auroras boreales observadas en la Península Ibérica, Baleares y Canarias durante el siglo XVIII"
+    },
+    "abstract": {
+      "ca": "",
+      "es": "",
+      "en": ""
+    },
+    "keywords": [
+      "auroras boreals",
+      "segle XVIII"
+    ],
+    "featured": false
+  },
+  {
+    "id": "tmgb-08-1999",
+    "year": 1999,
+    "type": "article",
+    "topic": "historia",
+    "authors": [
+      "Enric Aragonès"
+    ],
+    "lang": "ca",
+    "venue": "Treballs del Museu de Geologia de Barcelona, 8: 113-155",
+    "doi": "",
+    "pdf": "",
+    "url": "https://museucienciesjournals.cat/tmgb/issue/08-1999-tmgb/la-societe-geologique-de-france-a-catalunya-setembre-octubre-1898",
+    "title": {
+      "ca": "La Société Géologique de France a Catalunya (setembre-octubre 1898)",
+      "es": "La Société Géologique de France a Catalunya (setembre-octubre 1898)",
+      "en": "La Société Géologique de France a Catalunya (setembre-octubre 1898)"
+    },
+    "abstract": {
+      "ca": "",
+      "es": "",
+      "en": ""
+    },
+    "keywords": [
+      "Société Géologique de France",
+      "Almera"
+    ],
+    "featured": false
   }
 ]

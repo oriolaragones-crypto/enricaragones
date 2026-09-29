@@ -587,7 +587,7 @@
     "venue": "Quaderns de Vilaniu, 49: 91-140",
     "doi": "",
     "pdf": "",
-    "url": "",
+    "url": "https://www.academia.edu/68071472",
     "title": {
       "ca": "El meteorit que caiguè a Nulles i Vilabella el 5 de novembre de 1851",
       "es": "El meteorit que caiguè a Nulles i Vilabella el 5 de novembre de 1851",
@@ -613,7 +613,7 @@
     "venue": "Boletín de la Comisión de Historia de la Geología de España, 28: 10-14",
     "doi": "",
     "pdf": "",
-    "url": "",
+    "url": "https://www.academia.edu/99635744",
     "title": {
       "ca": "Una traducción ignorada del Manual of Elementary Geology de Lyell (1858)",
       "es": "Una traducción ignorada del Manual of Elementary Geology de Lyell (1858)",
@@ -1004,7 +1004,7 @@
     "venue": "Quaderns del Centre d'Estudis Comarcals de Banyoles, 36: 81-104",
     "doi": "",
     "pdf": "",
-    "url": "",
+    "url": "https://www.academia.edu/89640271",
     "title": {
       "ca": "Pere Alsius i la geologia de la comarca de Banyoles",
       "es": "Pere Alsius i la geologia de la comarca de Banyoles",
@@ -1163,7 +1163,7 @@
     "venue": "Boletín de la Comisión de Historia de la Geología de España, 20: 10-12",
     "doi": "",
     "pdf": "",
-    "url": "",
+    "url": "https://www.academia.edu/102601802",
     "title": {
       "ca": "¿Geología en la España del siglo XVI?",
       "es": "¿Geología en la España del siglo XVI?",
@@ -1405,7 +1405,7 @@
     "venue": "Batalleria, 11: 7-12",
     "doi": "",
     "pdf": "",
-    "url": "",
+    "url": "https://www.academia.edu/68071481",
     "title": {
       "ca": "Un perfil geològic de Carles de Gimbernat, localitzat al Museu del Seminari de Barcelona",
       "es": "Un perfil geològic de Carles de Gimbernat, localitzat al Museu del Seminari de Barcelona",
@@ -1911,6 +1911,36 @@
       "en": ""
     },
     "keywords": [],
+    "featured": false
+  },
+  {
+    "id": "1990-descobriment-i-excavacio-del-sireni-fossil-de-vilafranca",
+    "year": 1990,
+    "type": "article",
+    "topic": "regional",
+    "authors": [
+      "Enric Aragonès"
+    ],
+    "lang": "ca",
+    "venue": "Batalleria, 4: 45-47",
+    "doi": "",
+    "pdf": "",
+    "url": "https://dialnet.unirioja.es/servlet/articulo?codigo=4587774",
+    "title": {
+      "ca": "Descobriment i excavació del sireni fòssil de Vilafranca (Holotip de Metaxytherium catalaunicum Pilleri)",
+      "es": "Descobriment i excavació del sireni fòssil de Vilafranca (Holotip de Metaxytherium catalaunicum Pilleri)",
+      "en": "Descobriment i excavació del sireni fòssil de Vilafranca (Holotip de Metaxytherium catalaunicum Pilleri)"
+    },
+    "abstract": {
+      "ca": "A partir de cartes trobades a l’expedient del Mapa Geològic de la província de Barcelona (Arxiu Històric Provincial), demostra que va ser el francès Hyacinthe de Moulin qui va excavar a finals de 1869 el sireni fòssil de Vilafranca, holotip de l’espècie, conservat al museu de la vila.",
+      "es": "A partir de cartas halladas en el expediente del Mapa Geológico de la provincia de Barcelona (Archivo Histórico Provincial), demuestra que fue el francés Hyacinthe de Moulin quien excavó a finales de 1869 el sirenio fósil de Vilafranca, holotipo de la especie, conservado en el museo de la villa.",
+      "en": "Using letters found in the file of the Geological Map of Barcelona province (Provincial Historical Archive), it shows that the Frenchman Hyacinthe de Moulin excavated the Vilafranca fossil sirenian, the holotype of the species, at the end of 1869; it is kept in the town museum."
+    },
+    "keywords": [
+      "sireni fòssil",
+      "Vilafranca",
+      "Hyacinthe de Moulin"
+    ],
     "featured": false
   }
 ]

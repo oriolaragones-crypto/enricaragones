@@ -977,19 +977,22 @@
     "lang": "es",
     "venue": "De Re Metallica, 28: 63-74",
     "doi": "",
-    "pdf": "",
-    "url": "",
+    "pdf": "https://dialnet.unirioja.es/descarga/articulo/6579610.pdf",
+    "url": "https://dialnet.unirioja.es/servlet/articulo?codigo=6579610",
     "title": {
       "ca": "La sal de Cardona en la literatura precientífica. Resultados de un estudio bibliográfico",
       "es": "La sal de Cardona en la literatura precientífica. Resultados de un estudio bibliográfico",
       "en": "La sal de Cardona en la literatura precientífica. Resultados de un estudio bibliográfico"
     },
     "abstract": {
-      "ca": "",
-      "es": "",
-      "en": ""
+      "ca": "A partir d’una prospecció documental feta bàsicament a la xarxa, s’han localitzat 161 documents anteriors a 1800 amb referències a la sal de Cardona, 20 dels quals contenen observacions fetes sobre el terreny pels seus autors. S’hi exposen les conclusions més destacades: la nòmina de visitants, el coneixement de la història antiga, la percepció mítica de la muntanya, la seva història natural, els usos de la sal, l’explotació i el comerç, i l’estat de la salina els primers anys del segle XIX.",
+      "es": "Mediante una prospección documental, realizada básicamente en la red, se han localizado 161 documentos anteriores a 1800 con referencias a la sal de Cardona, 20 de los cuales contienen observaciones realizadas sobre el terreno por sus autores. Se exponen aquí las conclusiones más destacadas extraídas de la información obtenida: la nómina de visitantes, el conocimiento de la historia antigua, la percepción mítica de la montaña, su historia natural, los usos de la sal, su explotación y comercio, así como el estado de la salina en los primeros años del siglo XIX.",
+      "en": "A documentary survey carried out mainly online located 161 documents from before 1800 with references to the Cardona salt, 20 of which contain observations made on the ground by their authors. The most outstanding conclusions are presented: the list of visitors, knowledge of ancient history, the mythical perception of the mountain, its natural history, the uses of salt, its exploitation and trade, and the state of the saltworks in the early nineteenth century."
     },
-    "keywords": [],
+    "keywords": [
+      "sal de Cardona",
+      "història de la mineria"
+    ],
     "featured": false
   },
   {

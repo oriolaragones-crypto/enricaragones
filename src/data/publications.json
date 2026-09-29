@@ -437,5 +437,64 @@
       "Almera"
     ],
     "featured": false
+  },
+  {
+    "id": "alsius-epistolari-2024",
+    "year": 2024,
+    "type": "book",
+    "topic": "historia",
+    "authors": [
+      "Enric Aragonès (coord.)"
+    ],
+    "lang": "ca",
+    "venue": "Documenta Universitària, Girona (col·lecció Pere Alsius, 3)",
+    "doi": "",
+    "pdf": "",
+    "url": "https://www.documentauniversitaria.com/en/products/epistolari-de-pere-alsius-i-torrent/",
+    "title": {
+      "ca": "Epistolari de Pere Alsius i Torrent",
+      "es": "Epistolari de Pere Alsius i Torrent",
+      "en": "Epistolari de Pere Alsius i Torrent"
+    },
+    "abstract": {
+      "ca": "Tercer volum de la col·lecció Pere Alsius: l’epistolari del farmacèutic banyolí Pere Alsius i Torrent (1839-1915), precursor de l’excursionisme científic i autor de treballs pioners sobre la geologia, la prehistòria, la història i el folklore de la seva comarca. Enric Aragonès en va ser el coordinador i l’autor de la introducció i dels índexs.",
+      "es": "Tercer volumen de la colección Pere Alsius: el epistolario del farmacéutico banyolense Pere Alsius i Torrent (1839-1915), precursor del excursionismo científico y autor de trabajos pioneros sobre la geología, la prehistoria, la historia y el folklore de su comarca. Enric Aragonès fue su coordinador y autor de la introducción y de los índices.",
+      "en": "Third volume of the Pere Alsius collection: the correspondence of the Banyoles pharmacist Pere Alsius i Torrent (1839-1915), a forerunner of scientific hiking and author of pioneering work on the geology, prehistory, history and folklore of his region. Enric Aragonès coordinated the volume and wrote its introduction and indexes."
+    },
+    "keywords": [
+      "Pere Alsius",
+      "epistolari",
+      "Banyoles"
+    ],
+    "featured": false
+  },
+  {
+    "id": "simposi-espais-marins-2002",
+    "year": 2002,
+    "type": "book",
+    "topic": "ambient",
+    "authors": [
+      "Enric Aragonès (coord.)"
+    ],
+    "lang": "ca",
+    "venue": "Generalitat de Catalunya, Departament de Medi Ambient, Barcelona",
+    "doi": "",
+    "pdf": "",
+    "url": "",
+    "title": {
+      "ca": "Actes del Simposi Mediterrani d'Espais Marins i Costaners Protegits de la Mediterrània",
+      "es": "Actes del Simposi Mediterrani d'Espais Marins i Costaners Protegits de la Mediterrània",
+      "en": "Actes del Simposi Mediterrani d'Espais Marins i Costaners Protegits de la Mediterrània"
+    },
+    "abstract": {
+      "ca": "",
+      "es": "",
+      "en": ""
+    },
+    "keywords": [
+      "espais marins protegits",
+      "Mediterrània"
+    ],
+    "featured": false
   }
 ]

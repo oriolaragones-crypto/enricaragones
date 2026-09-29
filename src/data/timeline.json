@@ -1,5 +1,13 @@
 [
   {
+    "year": 1948,
+    "text": {
+      "ca": "Neix a Tarragona.",
+      "es": "Nace en Tarragona.",
+      "en": "Born in Tarragona."
+    }
+  },
+  {
     "year": 1972,
     "text": {
       "ca": "Geòleg.",
@@ -13,6 +21,14 @@
       "ca": "Hidrogeòleg.",
       "es": "Hidrogeólogo.",
       "en": "Hydrogeologist."
+    }
+  },
+  {
+    "year": "1974–1981",
+    "text": {
+      "ca": "Geòleg de camp en una empresa consultora.",
+      "es": "Geólogo de campo en una empresa consultora.",
+      "en": "Field geologist at a consulting firm."
     }
   },
   {

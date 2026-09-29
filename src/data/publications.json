@@ -1318,20 +1318,24 @@
     ],
     "lang": "en",
     "venue": "Earth Sciences History, 27(2): 220-241",
-    "doi": "",
-    "pdf": "",
-    "url": "",
+    "doi": "10.17704/eshi.27.2.b43911qhq23741j4",
+    "pdf": "https://pubs.geoscienceworld.org/hess/earth-sciences-history/article-pdf/27/2/220/5690378/esh_27_2_220-241.pdf",
+    "url": "https://pubs.geoscienceworld.org/hess/earth-sciences-history/article-abstract/27/2/220/614204/LYELL-S-JOURNEY-IN-CATALONIA",
     "title": {
       "ca": "Lyell's Journey in Catalonia",
       "es": "Lyell's Journey in Catalonia",
       "en": "Lyell's Journey in Catalonia"
     },
     "abstract": {
-      "ca": "",
-      "es": "",
-      "en": ""
+      "ca": "Documenta l’expedició de Lyell per la Catalunya espanyola i francesa l’estiu de 1830 a partir dels seus quaderns de camp, una font fins ara inexplorada. Se’n precisen dia a dia la cronologia, l’itinerari i les activitats, i es revelen aspectes desconeguts: les observacions geològiques inèdites de Lyell sobre les conques terciàries, els contactes amb naturalistes locals i el paper de l’atzar en l’elecció de la ruta. S’hi intenta reconstruir dos perfils de Lyell a través dels Pirineus i s’hi discuteix la influència posterior dels seus escrits sobre els geòlegs espanyols i francesos.",
+      "es": "Documenta la expedición de Lyell por la Cataluña española y francesa en el verano de 1830 a partir de sus cuadernos de campo, una fuente hasta ahora inexplorada. Se precisan día a día la cronología, el itinerario y las actividades, y se revelan aspectos desconocidos: las observaciones geológicas inéditas de Lyell sobre las cuencas terciarias, los contactos con naturalistas locales y el papel del azar en la elección de la ruta. Se intenta reconstruir dos perfiles de Lyell a través de los Pirineos y se discute la influencia posterior de sus escritos sobre los geólogos españoles y franceses.",
+      "en": "Lyell’s expedition through Spanish and French Catalonia in the summer of 1830 is documented from his field notebooks, a source still unexplored. The chronology, itinerary and activities are specified day by day. Several previously unknown aspects are revealed, especially Lyell’s unpublished geological observations on Tertiary basins, his contacts with native naturalists and the role of chance in choosing his itinerary. An attempt is made to reconstruct two of Lyell’s cross-sections through the Pyrenees, and the influence of his papers on Spanish and French geologists is discussed."
     },
-    "keywords": [],
+    "keywords": [
+      "Lyell",
+      "Catalunya",
+      "història de la geologia"
+    ],
     "featured": false
   },
   {

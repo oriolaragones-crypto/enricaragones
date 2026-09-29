@@ -1319,7 +1319,7 @@
     "lang": "en",
     "venue": "Earth Sciences History, 27(2): 220-241",
     "doi": "",
-    "pdf": "",
+    "pdf": "https://pubs.geoscienceworld.org/hess/earth-sciences-history/article-pdf/27/2/220/5690378/esh_27_2_220-241.pdf",
     "url": "",
     "title": {
       "ca": "Lyell's Journey in Catalonia",
@@ -1327,11 +1327,15 @@
       "en": "Lyell's Journey in Catalonia"
     },
     "abstract": {
-      "ca": "",
-      "es": "",
-      "en": ""
+      "ca": "Estudi de l’expedició de Charles Lyell per Catalunya l’estiu de 1830 a partir dels seus quaderns de camp, fins ara inexplorats. Reconstrueix l’itinerari i l’activitat diària de Lyell per la Catalunya espanyola i francesa, i en dona observacions geològiques inèdites sobre les conques terciàries, els contactes amb naturalistes locals i el paper de l’atzar en la ruta. La visita a la zona volcànica d’Olot va influir en les seves teories i n’hi va quedar una il·lustració al volum 3 dels Principles of Geology.",
+      "es": "Estudio de la expedición de Charles Lyell por Cataluña en el verano de 1830 a partir de sus cuadernos de campo, hasta ahora inexplorados. Reconstruye el itinerario y la actividad diaria de Lyell por la Cataluña española y francesa, y aporta observaciones geológicas inéditas sobre las cuencas terciarias, los contactos con naturalistas locales y el papel del azar en la ruta. La visita a la zona volcánica de Olot influyó en sus teorías y dejó una ilustración en el volumen 3 de los Principles of Geology.",
+      "en": "A study of Charles Lyell’s summer 1830 expedition through Catalonia, based on his previously unexplored field notebooks. It reconstructs Lyell’s daily itinerary and activities across Spanish and French Catalonia and reports unpublished geological observations on the Tertiary basins, his contacts with local naturalists and how chance shaped his route. His visit to the volcanic region near Olot influenced his theories and produced an illustration in volume 3 of the Principles of Geology."
     },
-    "keywords": [],
+    "keywords": [
+      "Lyell",
+      "Catalunya",
+      "història de la geologia"
+    ],
     "featured": false
   },
   {

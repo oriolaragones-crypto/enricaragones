@@ -75,7 +75,6 @@ label { font-size:.82rem; color:var(--muted); display:block; margin-bottom:4px; 
 form.contact { display:grid; gap:14px; max-width:560px; }
 .site-footer { border-top:1px solid var(--line); padding:24px 0; color:var(--muted); font-size:.85rem; }
 
-.wip { margin:0; background:var(--accent-soft); border-bottom:1px solid var(--line); font-size:.85rem; color:var(--muted); padding:8px 0; text-align:center; }
 .portrait-bio { float:right; width:220px; margin:0 0 20px 32px; }
 @media (max-width:720px){ .portrait-bio { float:none; display:block; width:200px; margin:0 0 20px; } }
 .page::after { content:""; display:block; clear:both; }

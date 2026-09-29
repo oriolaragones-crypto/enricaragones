@@ -7,7 +7,6 @@ const tr = t(lang);
 const pageTitle = title ? `${title} · ${tr.siteTitle}` : `${tr.siteTitle} · ${tr.role}`;
 const path = section ? `${section}/` : '';
 const site = 'https://www.enricaragones.com';
-const hidden = ['recerca', 'projectes']; // seccions sense contingut, fora del menú
 ---
 <!doctype html>
 <html lang={lang}>
@@ -35,7 +34,7 @@ const hidden = ['recerca', 'projectes']; // seccions sense contingut, fora del m
         </a>
         <nav aria-label="Principal">
           <ul class="nav">
-            {sections.filter((s) => !hidden.includes(s)).map((s) => (
+            {sections.map((s) => (
               <li><a href={href(lang, s)} aria-current={s === section ? 'page' : undefined}>{tr.nav[s]}</a></li>
             ))}
           </ul>
@@ -47,7 +46,6 @@ const hidden = ['recerca', 'projectes']; // seccions sense contingut, fora del m
         </ul>
       </div>
     </header>
-    <p class="wip"><span class="wrap">{tr.wip}</span></p>
     <main><slot /></main>
     <footer class="site-footer">
       <div class="wrap">© {new Date().getFullYear()} Enric Aragonès i Valls · {tr.footer}</div>

@@ -41,7 +41,7 @@ a { color: var(--accent); }
 }
 .hero-grid { display:grid; grid-template-columns: 1fr 240px; gap:40px; align-items:center; }
 .hero p.lead { font-family:var(--serif); font-size:1.25rem; color:var(--muted); max-width:38em; }
-.portrait { aspect-ratio:4/5; border-radius:6px; border:1px dashed var(--strata); display:grid; place-items:center; color:var(--muted); font-size:.85rem; background:var(--surface); text-align:center; padding:8px; }
+.portrait { width:100%; height:auto; aspect-ratio:4/5; object-fit:cover; object-position:center 20%; border-radius:6px; border:1px solid var(--line); box-shadow:0 10px 30px rgba(35,32,28,.18); background:var(--surface); }
 @media (max-width:720px){ .hero-grid{grid-template-columns:1fr} .portrait{max-width:200px} }
 
 .page { padding:48px 0 72px; }

@@ -560,8 +560,8 @@
     "lang": "es",
     "venue": "Boletín Geológico y Minero, 124(1): 21-39",
     "doi": "",
-    "pdf": "",
-    "url": "",
+    "pdf": "https://web.igme.es/boletin/2013/124_1/3_ARTICULO%202.pdf",
+    "url": "https://bgm.revistas.csic.es/index.php/bgm/article/view/486",
     "title": {
       "ca": "Los primeros mapas geológicos de España de Édouard de Verneuil (1850-1855)",
       "es": "Los primeros mapas geológicos de España de Édouard de Verneuil (1850-1855)",
@@ -770,7 +770,7 @@
     "venue": "Afers, 69: 437-457",
     "doi": "",
     "pdf": "",
-    "url": "",
+    "url": "https://dialnet.unirioja.es/servlet/articulo?codigo=3768233",
     "title": {
       "ca": "Cometes i altres senyals de foc: Quan el cel avisava (segles XVI-XVIII)",
       "es": "Cometes i altres senyals de foc: Quan el cel avisava (segles XVI-XVIII)",
@@ -874,11 +874,11 @@
     "venue": "Papers de la Societat Espeleològica Balear, 4: 1-17",
     "doi": "",
     "pdf": "",
-    "url": "",
+    "url": "https://raco.cat/index.php/PapersSeb/article/view/395706",
     "title": {
-      "ca": "Norbert Font i Sagué a Mallorca (22-23 de febrer de 1909)",
-      "es": "Norbert Font i Sagué a Mallorca (22-23 de febrer de 1909)",
-      "en": "Norbert Font i Sagué a Mallorca (22-23 de febrer de 1909)"
+      "ca": "Norbert Font i Sagué a Mallorca (22-23 de febrer de 1909): prospecció d'aigües subterrànies i visita a la Cova Nova de Son Lluís de Porreres",
+      "es": "Norbert Font i Sagué a Mallorca (22-23 de febrer de 1909): prospecció d'aigües subterrànies i visita a la Cova Nova de Son Lluís de Porreres",
+      "en": "Norbert Font i Sagué a Mallorca (22-23 de febrer de 1909): prospecció d'aigües subterrànies i visita a la Cova Nova de Son Lluís de Porreres"
     },
     "abstract": {
       "ca": "",
@@ -1109,9 +1109,9 @@
     ],
     "lang": "en",
     "venue": "History of Geo- and Space Sciences, 9: 133-139",
-    "doi": "",
-    "pdf": "",
-    "url": "",
+    "doi": "10.5194/hgss-9-133-2018",
+    "pdf": "https://hgss.copernicus.org/articles/9/133/2018/hgss-9-133-2018.pdf",
+    "url": "https://doi.org/10.5194/hgss-9-133-2018",
     "title": {
       "ca": "The Great Aurora of January 1770 observed in Spain",
       "es": "The Great Aurora of January 1770 observed in Spain",
@@ -1136,8 +1136,8 @@
     "lang": "ca",
     "venue": "Batalleria, 29: 53-97",
     "doi": "",
-    "pdf": "",
-    "url": "",
+    "pdf": "https://dialnet.unirioja.es/descarga/articulo/9631201.pdf",
+    "url": "https://dialnet.unirioja.es/servlet/articulo?codigo=9631201",
     "title": {
       "ca": "La fototeca del Museu del Seminari de Barcelona, I: Els llegats Vidal i Faura",
       "es": "La fototeca del Museu del Seminari de Barcelona, I: Els llegats Vidal i Faura",
@@ -1189,7 +1189,7 @@
     "venue": "Terme, 23: 85-110",
     "doi": "",
     "pdf": "",
-    "url": "",
+    "url": "https://raco.cat/index.php/Terme/article/view/139389",
     "title": {
       "ca": "El meteorit de Terrassa (25 de desembre de 1704)",
       "es": "El meteorit de Terrassa (25 de desembre de 1704)",
@@ -1379,7 +1379,7 @@
     "venue": "In: Lorenzo, E. de (coord.), La época de Carlos IV (1788-1808). Oviedo, Instituto Feijóo de Estudios del Siglo XVIII, p. 857-872",
     "doi": "",
     "pdf": "",
-    "url": "",
+    "url": "https://dialnet.unirioja.es/servlet/articulo?codigo=3666104",
     "title": {
       "ca": "Luces del norte: percepción e interpretación de las auroras boreales observadas en la península ibérica a finales del siglo XVIII",
       "es": "Luces del norte: percepción e interpretación de las auroras boreales observadas en la península ibérica a finales del siglo XVIII",
@@ -1431,9 +1431,9 @@
     ],
     "lang": "es",
     "venue": "Cuadernos de estudios del siglo XVIII, 16: 5-50",
-    "doi": "",
-    "pdf": "",
-    "url": "",
+    "doi": "10.17811/cesxviii.16.2006.5-50",
+    "pdf": "https://reunido.uniovi.es/index.php/CESXVIII/article/download/12137/11158",
+    "url": "https://reunido.uniovi.es/index.php/CESXVIII/article/view/12137",
     "title": {
       "ca": "Bólidos observados y meteoritos caídos en la Península Ibérica durante el siglo XVIII",
       "es": "Bólidos observados y meteoritos caídos en la Península Ibérica durante el siglo XVIII",
@@ -1485,7 +1485,7 @@
     "venue": "Revista Catalana de Geografia, 7(19): 55-66",
     "doi": "",
     "pdf": "",
-    "url": "",
+    "url": "https://raco.cat/index.php/RCG/article/view/119494",
     "title": {
       "ca": "La cartografia geològica de Catalunya. Història i estat actual",
       "es": "La cartografia geològica de Catalunya. Història i estat actual",
@@ -1508,10 +1508,10 @@
       "Enric Aragonès"
     ],
     "lang": "es",
-    "venue": "Boletín Geológico y Minero, 103(6): 1054-1073",
+    "venue": "Boletín Geológico y Minero, 103(6): 86-105",
     "doi": "",
     "pdf": "",
-    "url": "",
+    "url": "https://dialnet.unirioja.es/servlet/articulo?codigo=306304",
     "title": {
       "ca": "Luis Mariano Vidal y la Comisión del Mapa Geológico de España (1873-1900)",
       "es": "Luis Mariano Vidal y la Comisión del Mapa Geológico de España (1873-1900)",
@@ -1650,7 +1650,7 @@
     "lang": "es",
     "venue": "Instituto Geológico y Minero de España, Madrid",
     "doi": "",
-    "pdf": "",
+    "pdf": "https://info.igme.es/cartografiadigital/datos/magna50/memorias/MMagna0381.pdf",
     "url": "",
     "title": {
       "ca": "Mapa Geológico de España 1:50.000, hoja 381 (25-15), Illueca",
@@ -1678,7 +1678,7 @@
     "lang": "es",
     "venue": "Instituto Geológico y Minero de España, Madrid",
     "doi": "",
-    "pdf": "",
+    "pdf": "https://info.igme.es/cartografiadigital/datos/magna50/memorias/MMagna0164.pdf",
     "url": "",
     "title": {
       "ca": "Mapa Geológico de España 1:50.000, hoja 164 (16-9), Saldaña",
@@ -1707,7 +1707,7 @@
     "lang": "es",
     "venue": "Instituto Geológico y Minero de España, Madrid",
     "doi": "",
-    "pdf": "",
+    "pdf": "https://info.igme.es/cartografiadigital/datos/magna50/memorias/MMagna0437.pdf",
     "url": "",
     "title": {
       "ca": "Mapa Geológico de España 1:50.000, hoja 437 (25-17), Ateca",
@@ -1736,7 +1736,7 @@
     "lang": "es",
     "venue": "Instituto Geológico y Minero de España, Madrid",
     "doi": "",
-    "pdf": "",
+    "pdf": "https://info.igme.es/cartografiadigital/datos/magna50/memorias/MMagna0410.pdf",
     "url": "",
     "title": {
       "ca": "Mapa Geológico de España 1:50.000, hoja 410 (26-16), La Almunia de Doña Godina",
@@ -1763,7 +1763,7 @@
     "lang": "es",
     "venue": "Instituto Geológico y Minero de España, Madrid",
     "doi": "",
-    "pdf": "",
+    "pdf": "https://info.igme.es/cartografiadigital/datos/magna50/memorias/MMagna0409.pdf",
     "url": "",
     "title": {
       "ca": "Mapa Geológico de España 1:50.000, hoja 409 (25-16), Calatayud",
@@ -1793,7 +1793,7 @@
     "lang": "es",
     "venue": "Instituto Geológico y Minero de España, Madrid",
     "doi": "",
-    "pdf": "",
+    "pdf": "https://info.igme.es/cartografiadigital/datos/magna50/memorias/MMagna0352.pdf",
     "url": "",
     "title": {
       "ca": "Mapa Geológico de España 1:50.000, hoja 352 (25-14), Tabuenca",

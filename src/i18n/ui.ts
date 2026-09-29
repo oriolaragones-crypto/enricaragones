@@ -9,7 +9,7 @@ export type Section = (typeof sections)[number];
 export const ui = {
   ca: {
     siteTitle: 'Enric Aragonès i Valls',
-    role: 'Geòleg',
+    role: 'Geòleg investigador',
     tagline: 'Recerca i obra geològica de tota una vida',
     nav: { biografia: 'Biografia', recerca: 'Recerca', publicacions: 'Publicacions', projectes: 'Projectes i camp', galeria: 'Galeria', premsa: 'Premsa', contacte: 'Contacte' },
     home: {
@@ -31,7 +31,7 @@ export const ui = {
   },
   es: {
     siteTitle: 'Enric Aragonès i Valls',
-    role: 'Geólogo',
+    role: 'Geólogo investigador',
     tagline: 'Investigación y obra geológica de toda una vida',
     nav: { biografia: 'Biografía', recerca: 'Investigación', publicacions: 'Publicaciones', projectes: 'Proyectos y campo', galeria: 'Galería', premsa: 'Prensa', contacte: 'Contacto' },
     home: {
@@ -53,7 +53,7 @@ export const ui = {
   },
   en: {
     siteTitle: 'Enric Aragonès i Valls',
-    role: 'Geologist',
+    role: 'Research geologist',
     tagline: 'A lifetime of geological research',
     nav: { biografia: 'Biography', recerca: 'Research', publicacions: 'Publications', projectes: 'Projects & fieldwork', galeria: 'Gallery', premsa: 'Press', contacte: 'Contact' },
     home: {

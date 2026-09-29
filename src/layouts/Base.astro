@@ -16,6 +16,9 @@ const hidden = ['recerca', 'projectes']; // seccions sense contingut, fora del m
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>{pageTitle}</title>
     <meta name="description" content={description ?? tr.tagline} />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="alternate icon" href="/favicon.ico" sizes="any" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
     <link rel="canonical" href={`${site}/${lang}/${path}`} />
     {Object.keys(languages).map((l) => <link rel="alternate" hreflang={l} href={`${site}/${l}/${path}`} />)}
     <link rel="alternate" hreflang="x-default" href={`${site}/ca/${path}`} />

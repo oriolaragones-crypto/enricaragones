@@ -32,5 +32,22 @@
       "es": "Reportaje de Sapiens, con entrevista al geólogo Isaac Camps, sobre el viaje de Charles Lyell a la zona volcánica de la Garrotxa. Camps destaca la labor de Enric Aragonès: «Por suerte, el historiador de la geología Enric Aragonès ha hecho una gran labor de reconstrucción del periplo de Lyell por Cataluña, tras descubrir unas fotocopias de sus blocs en el Museu Geològic del Seminari de Barcelona.» (Texto completo para suscriptores.)",
       "en": "A Sapiens feature, with an interview with the geologist Isaac Camps, on Charles Lyell’s journey to the volcanic area of the Garrotxa. Camps highlights Enric Aragonès’s work: “Fortunately, the historian of geology Enric Aragonès has done a great job of reconstructing Lyell’s journey through Catalonia, after discovering photocopies of his notebooks at the Museu Geològic del Seminari de Barcelona.” (Full text for subscribers.)"
     }
+  },
+  {
+    "id": "amics-museu-2019-centenari-almera",
+    "year": 2019,
+    "type": "news",
+    "outlet": "Amics del Museu Geològic del Seminari de Barcelona (blog)",
+    "url": "https://museugeologic.blogspot.com/2019/02/amics-del-museu-commemoracio-del.html",
+    "title": {
+      "ca": "Amics del Museu: Commemoració del centenari del traspàs del Dr. Almera",
+      "es": "Amics del Museu: Commemoració del centenari del traspàs del Dr. Almera",
+      "en": "Amics del Museu: Commemoració del centenari del traspàs del Dr. Almera"
+    },
+    "summary": {
+      "ca": "Crònica de l’homenatge a Jaume Almera pel centenari de la seva mort (Aula Magna del Seminari de Barcelona, 27 de febrer de 2019). Enric Aragonès, en representació dels Amics del Museu, hi va parlar de la relació entre Almera i Jacint Verdaguer arran del viatge a Terra Santa de 1886.",
+      "es": "Crónica del homenaje a Jaume Almera por el centenario de su muerte (Aula Magna del Seminario de Barcelona, 27 de febrero de 2019). Enric Aragonès, en representación de los Amics del Museu, habló de la relación entre Almera y Jacint Verdaguer a raíz del viaje a Tierra Santa de 1886.",
+      "en": "Report on the tribute to Jaume Almera on the centenary of his death (Aula Magna of the Barcelona Seminary, 27 February 2019). Enric Aragonès, representing the Friends of the Museum, spoke about the relationship between Almera and Jacint Verdaguer following their 1886 trip to the Holy Land."
+    }
   }
 ]

@@ -19,6 +19,25 @@
     }
   },
   {
+    "id": "amics-museu-2025-epistolari-alsius",
+    "year": 2025,
+    "type": "news",
+    "outlet": "Amics del Museu Geològic del Seminari de Barcelona (blog)",
+    "url": "http://museugeologic.blogspot.com/2025/02/enric-aragones-nova-publicacio.html",
+    "title": {
+      "ca": "Nova publicació: L’epistolari de Pere Alsius i Torrent",
+      "es": "Nova publicació: L’epistolari de Pere Alsius i Torrent",
+      "en": "Nova publicació: L’epistolari de Pere Alsius i Torrent",
+      "fr": "Nova publicació: L’epistolari de Pere Alsius i Torrent"
+    },
+    "summary": {
+      "ca": "Notícia dels Amics del Museu Geològic sobre l’arribada a la biblioteca del Museu, com a donació de Rosa Alsius i Suñer, de l’Epistolari de Pere Alsius i Torrent (Documenta Universitària), un volum de més de 1.300 pàgines i tercer de la col·lecció Pere Alsius. Destaca l’equip que l’ha fet possible i el paper d’Enric Aragonès, coordinador de l’obra i autor de la introducció i dels índexs.",
+      "es": "Noticia de los Amics del Museu Geològic sobre la llegada a la biblioteca del Museo, como donación de Rosa Alsius i Suñer, del Epistolari de Pere Alsius i Torrent (Documenta Universitària), un volumen de más de 1.300 páginas y tercero de la colección Pere Alsius. Destaca el equipo que lo ha hecho posible y el papel de Enric Aragonès, coordinador de la obra y autor de la introducción y de los índices.",
+      "en": "News item from the Friends of the Museu Geològic on the arrival at the Museum’s library, as a donation from Rosa Alsius i Suñer, of the Epistolari de Pere Alsius i Torrent (Documenta Universitària), a volume of over 1,300 pages and the third in the Pere Alsius collection. It highlights the team behind it and the role of Enric Aragonès, coordinator of the work and author of the introduction and indexes.",
+      "fr": "Actualité des Amis du Museu Geològic sur l’arrivée à la bibliothèque du Musée, en don de Rosa Alsius i Suñer, de l’Epistolari de Pere Alsius i Torrent (Documenta Universitària), un volume de plus de 1 300 pages, troisième de la collection Pere Alsius. Elle met en avant l’équipe qui l’a rendu possible et le rôle d’Enric Aragonès, coordinateur de l’ouvrage et auteur de l’introduction et des index."
+    }
+  },
+  {
     "id": "sapiens-239-2022-lyell",
     "year": 2022,
     "type": "mention",

@@ -158,5 +158,47 @@
       "en": "Enric Aragonès explains the attempts to get La Vanguardia to correct false information published on 13 February 2006, according to which Jaume Almera and the Museu Geològic’s experts had placed the universal flood and the earthly paradise in Catalonia on the basis of the fossils from the Gràcia cave. Neither the request to the Readers’ Editor nor the Museum’s letters led to any public correction.",
       "fr": "Enric Aragonès expose les tentatives pour obtenir de La Vanguardia un rectificatif à une information fausse publiée le 13 février 2006, selon laquelle Jaume Almera et les experts du Museu Geològic auraient situé en Catalogne le déluge universel et le paradis terrestre à partir des fossiles de la grotte de Gràcia. Ni la demande au Médiateur des lecteurs ni les lettres du Musée n’ont abouti à un rectificatif public."
     }
+  },
+  {
+    "id": "xerrada-2016-agora-naturalistes",
+    "date": "2016-10-19",
+    "year": 2016,
+    "type": "talk",
+    "outlet": "Àgora dels Naturalistes · Ateneu Barcelonès (Sala Verdaguer)",
+    "url": "https://amicsnat.cat/node/179",
+    "video": "https://www.youtube.com/watch?v=XOB65n6w804",
+    "title": {
+      "ca": "Geologia a Catalunya: dels viatgers il·lustrats a la recerca especialitzada",
+      "es": "Geologia a Catalunya: dels viatgers il·lustrats a la recerca especialitzada",
+      "en": "Geologia a Catalunya: dels viatgers il·lustrats a la recerca especialitzada",
+      "fr": "Geologia a Catalunya: dels viatgers il·lustrats a la recerca especialitzada"
+    },
+    "summary": {
+      "ca": "Xerrada organitzada per l’Ateneu Barcelonès i l’Associació d’Amics del Museu de Ciències Naturals de Barcelona (19 d’octubre de 2016). Repassa el progrés del coneixement geològic del país, constant però lent i a batzegades, des dels primers viatgers il·lustrats del segle XVIII fins als geòlegs universitaris del XXI, passant pels enginyers de mines i els geòlegs autodidactes del XIX.",
+      "es": "Charla organizada por el Ateneu Barcelonès y la Asociación de Amigos del Museo de Ciencias Naturales de Barcelona (19 de octubre de 2016). Repasa el progreso del conocimiento geológico del país, constante pero lento y a trompicones, desde los primeros viajeros ilustrados del siglo XVIII hasta los geólogos universitarios del XXI, pasando por los ingenieros de minas y los geólogos autodidactas del XIX.",
+      "en": "A talk organised by the Ateneu Barcelonès and the Association of Friends of the Barcelona Museum of Natural Sciences (19 October 2016). It reviews the progress of geological knowledge in the country, steady but slow and uneven, from the first Enlightenment travellers of the 18th century to the university geologists of the 21st, by way of mining engineers and the self-taught geologists of the 19th.",
+      "fr": "Conférence organisée par l’Ateneu Barcelonès et l’Association des Amis du Musée des sciences naturelles de Barcelone (19 octobre 2016). Elle retrace le progrès de la connaissance géologique du pays, constant mais lent et irrégulier, des premiers voyageurs des Lumières du XVIIIe siècle aux géologues universitaires du XXIe, en passant par les ingénieurs des mines et les géologues autodidactes du XIXe."
+    }
+  },
+  {
+    "id": "xerrada-2009-meteorit-terrassa",
+    "date": "2009",
+    "year": 2009,
+    "type": "talk",
+    "outlet": "V Trobada de col·laboradors · Amics del Museu de Ciències Naturals de Barcelona",
+    "url": "https://amicsnat.cat/node/100",
+    "pdf": "https://amicsnat.cat/sites/default/files/comunicacions_presentacions/Aragon%C3%A8s%20presentaci%C3%B3%202009.pdf",
+    "title": {
+      "ca": "El meteorit de Terrassa (25 de desembre de 1704)",
+      "es": "El meteorit de Terrassa (25 de desembre de 1704)",
+      "en": "El meteorit de Terrassa (25 de desembre de 1704)",
+      "fr": "El meteorit de Terrassa (25 de desembre de 1704)"
+    },
+    "summary": {
+      "ca": "Presentació de 41 diapositives sobre la caiguda del meteorit de Terrassa el Nadal de 1704: la reacció de l’època, les fonts documentals (27 escrits, amb 9 testimonis), la descripció del fenomen i l’anàlisi de tres possibles trajectòries del bòlid, cap de les quals no explica satisfactòriament totes les observacions.",
+      "es": "Presentación de 41 diapositivas sobre la caída del meteorito de Terrassa en la Navidad de 1704: la reacción de la época, las fuentes documentales (27 escritos, con 9 testimonios), la descripción del fenómeno y el análisis de tres posibles trayectorias del bólido, ninguna de las cuales explica satisfactoriamente todas las observaciones.",
+      "en": "A 41-slide presentation on the fall of the Terrassa meteorite on Christmas Day 1704: the reaction of the time, the documentary sources (27 writings, including 9 eyewitness accounts), the description of the phenomenon and the analysis of three possible trajectories of the fireball, none of which satisfactorily explains all the observations.",
+      "fr": "Présentation de 41 diapositives sur la chute de la météorite de Terrassa le jour de Noël 1704 : la réaction de l’époque, les sources documentaires (27 écrits, dont 9 témoignages), la description du phénomène et l’analyse de trois trajectoires possibles du bolide, dont aucune n’explique de façon satisfaisante l’ensemble des observations."
+    }
   }
 ]

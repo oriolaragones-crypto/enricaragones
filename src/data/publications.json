@@ -568,7 +568,7 @@
       "Enric Aragonès"
     ],
     "lang": "es",
-    "venue": "Boletín Geológico y Minero, 124(1): 21-39",
+    "venue": "Boletín Geológico y Minero, 124(1) (2013): 21-39",
     "doi": "",
     "pdf": "https://web.igme.es/boletin/2013/124_1/3_ARTICULO%202.pdf",
     "url": "https://bgm.revistas.csic.es/index.php/bgm/article/view/486",
@@ -579,12 +579,18 @@
       "fr": "Los primeros mapas geológicos de España de Édouard de Verneuil (1850-1855)"
     },
     "abstract": {
-      "ca": "",
-      "es": "",
-      "en": "",
-      "fr": ""
+      "ca": "Estudi de l’obra cartogràfica que Édouard de Verneuil va fer durant la seva primera etapa a Espanya, de la qual es tenien poques dades. Entre 1850 i 1855 Verneuil va traçar tres esbossos geològics generals, actualitzats successivament, per contribuir als mapes d’Europa que preparaven Murchison i Dumont; després va gravar un mapa geològic de gran part d’Espanya que no va arribar a publicar-se i que aquest article dona a conèixer. La revisió i ampliació posterior a tota la Península, iniciada el 1858, va permetre les dues edicions de la seva Carte géologique de l’Espagne et du Portugal: la provisional de 1864, en dura competència amb la Junta General de Estadística, i la definitiva de 1868.",
+      "es": "Se estudia la obra cartográfica que Édouard de Verneuil realizó durante su primer período de estudios en España, de la cual se tenían pocos datos. Entre 1850 y 1855 Verneuil trazó tres bosquejos geológicos generales, sucesivamente actualizados, para contribuir a los mapas de Europa que preparaban Murchison y Dumont; después grabó un mapa geológico de gran parte de España que no llegó a ver la luz y que este artículo da a conocer. La ulterior revisión y extensión a toda la Península, iniciada en 1858, hizo posibles las dos ediciones de su Carte géologique de l’Espagne et du Portugal: la provisional de 1864, en dura competencia con la Junta General de Estadística, y la definitiva de 1868.",
+      "en": "A study of the cartographic work Édouard de Verneuil carried out during his early surveys of Spain, of which little was known. Between 1850 and 1855 Verneuil drew three general geological sketch maps, continuously updated, to contribute to the maps of Europe being prepared by Murchison and Dumont; he then engraved a geological map of most of Spain that was never published and whose existence this paper records. The later revision and extension to the whole Peninsula, begun in 1858, led to the two editions of his Carte géologique de l’Espagne et du Portugal: the provisional one of 1864, in fierce competition with the Junta General de Estadística, and the definitive one of 1868.",
+      "fr": "Étude de l’œuvre cartographique qu’Édouard de Verneuil a réalisée lors de sa première période d’études en Espagne, dont on savait peu de choses. Entre 1850 et 1855, Verneuil a tracé trois esquisses géologiques générales, mises à jour successivement, pour contribuer aux cartes d’Europe que préparaient Murchison et Dumont ; il a ensuite gravé une carte géologique d’une grande partie de l’Espagne qui n’a jamais été publiée et que cet article fait connaître. La révision et l’extension ultérieures à toute la Péninsule, commencées en 1858, ont permis les deux éditions de sa Carte géologique de l’Espagne et du Portugal : la provisoire de 1864, en vive concurrence avec la Junta General de Estadística, et la définitive de 1868."
     },
-    "keywords": [],
+    "keywords": [
+      "Édouard de Verneuil",
+      "història de la geologia",
+      "cartografia geològica",
+      "Espanya",
+      "segle XIX"
+    ],
     "featured": false
   },
   {
@@ -1589,9 +1595,9 @@
       "Enric Aragonès"
     ],
     "lang": "ca",
-    "venue": "Revista Catalana de Geografia, 7(19): 55-66",
+    "venue": "Revista Catalana de Geografia, 7(19) (setembre de 1992): 55-66",
     "doi": "",
-    "pdf": "",
+    "pdf": "https://raco.cat/index.php/RCG/article/view/119494/158165",
     "url": "https://raco.cat/index.php/RCG/article/view/119494",
     "title": {
       "ca": "La cartografia geològica de Catalunya. Història i estat actual",
@@ -1600,12 +1606,18 @@
       "fr": "La cartografia geològica de Catalunya. Història i estat actual"
     },
     "abstract": {
-      "ca": "",
-      "es": "",
-      "en": "",
-      "fr": ""
+      "ca": "Panorama històric de la cartografia geològica de Catalunya, des dels primers intents fins a l’estat de la qüestió el 1992. L’article distingeix la cartografia sistemàtica, que només poden abordar les institucions, de la que resulta d’investigacions puntuals, i recorre les etapes principals: els precedents i el viatge de Lyell (1830), els primers mapes de Maestre, Vézian i Verneuil, el mapa provincial de Moulin subvencionat per la Diputació (1869-1870), l’època de la Comisión del Mapa Geológico amb Lluís Marià Vidal, el mapa de la província de Barcelona d’Almera i Bofill, el Mapa Geològic de Catalunya de la Mancomunitat dirigit per Marià Faura (1919-1924) i el Congrés Geològic Internacional de 1926. Segueix amb la postguerra i l’època de Solé Sabarís, l’expansió universitària dels anys seixanta i el projecte MAGNA, i tanca amb el balanç del moment: 40 dels 86 fulls MAGNA que interessen Catalunya ja publicats, 27 més en preparació, i el mapa 1:250 000 de l’Institut Cartogràfic de Catalunya (1989).",
+      "es": "Panorama histórico de la cartografía geológica de Cataluña, desde los primeros intentos hasta el estado de la cuestión en 1992. El artículo distingue la cartografía sistemática, que solo pueden abordar las instituciones, de la que resulta de investigaciones puntuales, y recorre las etapas principales: los precedentes y el viaje de Lyell (1830), los primeros mapas de Maestre, Vézian y Verneuil, el mapa provincial de Moulin subvencionado por la Diputación (1869-1870), la época de la Comisión del Mapa Geológico con Lluís Marià Vidal, el mapa de la provincia de Barcelona de Almera y Bofill, el Mapa Geológico de Cataluña de la Mancomunitat dirigido por Marià Faura (1919-1924) y el Congreso Geológico Internacional de 1926. Sigue con la posguerra y la época de Solé Sabarís, la expansión universitaria de los años sesenta y el proyecto MAGNA, y cierra con el balance del momento: 40 de las 86 hojas MAGNA que interesan a Cataluña ya publicadas, 27 más en preparación, y el mapa 1:250 000 del Institut Cartogràfic de Catalunya (1989).",
+      "en": "A historical overview of the geological mapping of Catalonia, from the first attempts to the state of play in 1992. The article distinguishes systematic mapping, which only institutions can undertake, from mapping arising from specific research, and follows the main stages: the precedents and Lyell’s journey (1830), the first maps by Maestre, Vézian and Verneuil, Moulin’s provincial map funded by the Diputació (1869-1870), the era of the Comisión del Mapa Geológico with Lluís Marià Vidal, Almera and Bofill’s map of Barcelona province, the Mancomunitat’s Geological Map of Catalonia directed by Marià Faura (1919-1924) and the 1926 International Geological Congress. It continues with the post-war period and the Solé Sabarís era, the university expansion of the 1960s and the MAGNA project, and closes with the situation at the time: 40 of the 86 MAGNA sheets covering Catalonia already published, 27 more in preparation, and the 1:250,000 map of the Institut Cartogràfic de Catalunya (1989).",
+      "fr": "Panorama historique de la cartographie géologique de la Catalogne, des premières tentatives à l’état de la question en 1992. L’article distingue la cartographie systématique, que seules les institutions peuvent entreprendre, de celle issue de recherches ponctuelles, et parcourt les principales étapes : les précédents et le voyage de Lyell (1830), les premières cartes de Maestre, Vézian et Verneuil, la carte provinciale de Moulin financée par la Diputació (1869-1870), l’époque de la Comisión del Mapa Geológico avec Lluís Marià Vidal, la carte de la province de Barcelone d’Almera et Bofill, la Carte géologique de la Catalogne de la Mancomunitat dirigée par Marià Faura (1919-1924) et le Congrès géologique international de 1926. Il poursuit avec l’après-guerre et l’époque de Solé Sabarís, l’expansion universitaire des années 1960 et le projet MAGNA, et s’achève sur le bilan du moment : 40 des 86 feuilles MAGNA concernant la Catalogne déjà publiées, 27 autres en préparation, et la carte au 1/250 000 de l’Institut Cartogràfic de Catalunya (1989)."
     },
-    "keywords": [],
+    "keywords": [
+      "cartografia geològica",
+      "història de la geologia",
+      "Catalunya",
+      "Mapa Geològic de Catalunya",
+      "MAGNA"
+    ],
     "featured": false
   },
   {

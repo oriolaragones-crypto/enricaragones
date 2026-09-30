@@ -1,6 +1,6 @@
 # enricaragones.com
 
-Web professional d'Enric Aragonès (geòleg). Astro + contingut multilingüe (ca/es/en).
+Web professional d'Enric Aragonès (geòleg). Astro + contingut multilingüe (ca/es/en/fr).
 
 - `npm install && npm run dev` — desenvolupament
 - `npm run build` — genera `dist/`

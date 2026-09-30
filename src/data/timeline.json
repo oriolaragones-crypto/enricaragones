@@ -4,7 +4,8 @@
     "text": {
       "ca": "Neix a Tarragona.",
       "es": "Nace en Tarragona.",
-      "en": "Born in Tarragona."
+      "en": "Born in Tarragona.",
+      "fr": "Naissance à Tarragone."
     }
   },
   {
@@ -12,7 +13,8 @@
     "text": {
       "ca": "Llicenciat en Ciències Geològiques per la Universitat de Barcelona (Facultat de Ciències Geològiques).",
       "es": "Licenciado en Ciencias Geológicas por la Universidad de Barcelona (Facultad de Ciencias Geológicas).",
-      "en": "Degree in Geological Sciences, University of Barcelona (Faculty of Geological Sciences)."
+      "en": "Degree in Geological Sciences, University of Barcelona (Faculty of Geological Sciences).",
+      "fr": "Licence en sciences géologiques de l’Université de Barcelone (Faculté des sciences géologiques)."
     }
   },
   {
@@ -20,7 +22,8 @@
     "text": {
       "ca": "Diploma de postgrau al VII Curs Internacional d’Hidrologia Subterrània (Fundación Centro Internacional de Hidrología Subterránea, Barcelona).",
       "es": "Diploma de posgrado en el VII Curso Internacional de Hidrología Subterránea (Fundación Centro Internacional de Hidrología Subterránea, Barcelona).",
-      "en": "Postgraduate diploma, 7th International Course on Groundwater Hydrology (Fundación Centro Internacional de Hidrología Subterránea, Barcelona)."
+      "en": "Postgraduate diploma, 7th International Course on Groundwater Hydrology (Fundación Centro Internacional de Hidrología Subterránea, Barcelona).",
+      "fr": "Diplôme de troisième cycle au VIIe Cours international d’hydrologie souterraine (Fundación Centro Internacional de Hidrología Subterránea, Barcelone)."
     }
   },
   {
@@ -28,7 +31,8 @@
     "text": {
       "ca": "Geòleg de camp en una empresa consultora.",
       "es": "Geólogo de campo en una empresa consultora.",
-      "en": "Field geologist at a consulting firm."
+      "en": "Field geologist at a consulting firm.",
+      "fr": "Géologue de terrain dans un bureau d’études."
     }
   },
   {
@@ -36,7 +40,8 @@
     "text": {
       "ca": "Funcionari de la Generalitat de Catalunya.",
       "es": "Funcionario de la Generalitat de Catalunya.",
-      "en": "Civil servant at the Generalitat de Catalunya."
+      "en": "Civil servant at the Generalitat de Catalunya.",
+      "fr": "Fonctionnaire de la Generalitat de Catalogne."
     }
   },
   {
@@ -44,7 +49,8 @@
     "text": {
       "ca": "Diploma del Curs d’Enginyeria Ambiental (Institut Català de Tecnologia, Barcelona).",
       "es": "Diploma del Curso de Ingeniería Ambiental (Institut Català de Tecnologia, Barcelona).",
-      "en": "Diploma in Environmental Engineering (Institut Català de Tecnologia, Barcelona)."
+      "en": "Diploma in Environmental Engineering (Institut Català de Tecnologia, Barcelona).",
+      "fr": "Diplôme du cours d’ingénierie environnementale (Institut Català de Tecnologia, Barcelone)."
     }
   },
   {
@@ -52,7 +58,8 @@
     "text": {
       "ca": "Màster en Enginyeria i Gestió Ambiental (Universitat Politècnica de Catalunya).",
       "es": "Máster en Ingeniería y Gestión Ambiental (Universitat Politècnica de Catalunya).",
-      "en": "Master’s degree in Environmental Engineering and Management (Universitat Politècnica de Catalunya)."
+      "en": "Master’s degree in Environmental Engineering and Management (Universitat Politècnica de Catalunya).",
+      "fr": "Master en ingénierie et gestion de l’environnement (Universitat Politècnica de Catalunya)."
     }
   }
 ]

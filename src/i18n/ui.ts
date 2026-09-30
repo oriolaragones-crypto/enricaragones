@@ -1,4 +1,4 @@
-export const languages = { ca: 'Català', es: 'Español', en: 'English' } as const;
+export const languages = { ca: 'Català', es: 'Español', en: 'English', fr: 'Français' } as const;
 export type Lang = keyof typeof languages;
 export const defaultLang: Lang = 'ca';
 
@@ -69,6 +69,27 @@ export const ui = {
     press: { interview: 'Interview', mention: 'Mention', news: 'News', read: 'Read the interview', readNews: 'View the news item', open: 'View the article', article: 'Article' },
     footer: 'All rights reserved.',
     langLabel: 'Language',
+  },
+  fr: {
+    siteTitle: 'Enric Aragonès i Valls',
+    role: 'Géologue chercheur',
+    tagline: 'Une vie de recherche géologique',
+    nav: { biografia: 'Biographie', publicacions: 'Publications', premsa: 'Presse', contacte: 'Contact' },
+    home: {
+      intro: 'Géologue et hydrogéologue, ancien fonctionnaire de la Generalitat de Catalogne et spécialiste de l’histoire de la géologie en Catalogne.',
+      areas: 'Domaines de spécialité',
+      featured: 'Publications mises en avant',
+      all: 'Voir toutes les publications',
+      readBio: 'Lire la biographie',
+    },
+    pubs: { search: 'Rechercher par titre, auteur ou mot-clé…', year: 'Année', type: 'Type', topic: 'Thème', all: 'Tous', results: 'résultats', none: 'Aucun résultat.', pdf: 'Télécharger le PDF', source: 'Voir la source', abstract: 'Résumé', cite: 'Citer' },
+    types: { article: 'Article', book: 'Livre', chapter: 'Chapitre', report: 'Rapport', map: 'Carte', conference: 'Communication', review: 'Compte rendu' },
+    topics: { ambient: 'Environnement', historia: 'Histoire de la géologie', estratigrafia: 'Stratigraphie', hidrogeologia: 'Hydrogéologie', cartografia: 'Cartographie', regional: 'Géologie régionale' },
+    bio: { p1: "Enric Aragonès i Valls (né à Tarragone en 1948) est géologue (1972) et hydrogéologue (1973), titulaire d’un master en ingénierie et gestion de l’environnement (1993-1994). Il a été fonctionnaire de la Generalitat de Catalogne à partir de 1981 et est retraité depuis 2012 ; il y a travaillé, entre autres affectations, à la Direction de l’énergie et des mines.", p2: "Il a publié de nombreux travaux dans des revues spécialisées sur la géologie et, surtout, sur l’histoire de la géologie en Catalogne. Il est également l’auteur des Notícies de Natura, une publication singulière sur l’histoire des sciences naturelles en Catalogne, éditée à compte d’auteur et diffusée de façon restreinte parmi des amis et quelques institutions. Il a coordonné, entre autres ouvrages, les Actes du Symposium méditerranéen des espaces marins et côtiers protégés de la Méditerranée (2002) et l’Epistolari de Pere Alsius i Torrent (2024). Ses axes de recherche sont la cartographie géologique, l’histoire de la géologie espagnole et les aurores boréales.", p3: "Collaborateur scientifique étroitement lié au Museu Geològic del Seminari de Barcelona, il y a documenté l’histoire de la cartographie géologique de la Catalogne antérieure à la guerre civile à partir de la documentation des Archives historiques et biographiques du Musée, et il s’occupe actuellement du classement et de l’inventaire de ces archives.", title: 'Biographie', timeline: 'Parcours', links: 'Liens et profils' },
+    contact: { title: 'Contact', write: 'Vous pouvez écrire à', name: 'Nom', email: 'E-mail', message: 'Message', send: 'Envoyer' },
+    press: { interview: 'Entretien', mention: 'Mention', news: 'Actualité', read: 'Lire l’entretien', readNews: 'Voir l’actualité', open: 'Voir l’article', article: 'Article' },
+    footer: 'Tous droits réservés.',
+    langLabel: 'Langue',
   },
 } as const;
 

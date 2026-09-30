@@ -3,7 +3,7 @@ import Base from '../../layouts/Base.astro';
 import { t, type Lang } from '../../i18n/ui';
 import pubs from '../../data/publications.json';
 export function getStaticPaths() {
-  return ['ca', 'es', 'en'].map((lang) => ({ params: { lang } }));
+  return ['ca', 'es', 'en', 'fr'].map((lang) => ({ params: { lang } }));
 }
 const lang = Astro.params.lang as Lang;
 const tr = t(lang);

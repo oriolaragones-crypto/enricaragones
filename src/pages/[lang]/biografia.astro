@@ -1,6 +1,6 @@
 ---
 import Base from '../../layouts/Base.astro';
-import { t, type Lang } from '../../i18n/ui';
+import { t, href, type Lang } from '../../i18n/ui';
 import timeline from '../../data/timeline.json';
 export function getStaticPaths() {
   return ['ca', 'es', 'en', 'fr'].map((lang) => ({ params: { lang } }));
@@ -23,6 +23,12 @@ const links = [
     <p>{tr.bio.p1}</p>
     <p>{tr.bio.p2}</p>
     <p>{tr.bio.p3}</p>
+    <p>{tr.bio.p4}</p>
+    <h2>{tr.bio.research}</h2>
+    <ul>
+      {tr.bio.researchItems.map((x: string) => <li>{x}</li>)}
+    </ul>
+    <p><a href={href(lang, 'publicacions')}>{tr.bio.allPubs} →</a></p>
     <h2>{tr.bio.timeline}</h2>
     <ul class="timeline">
       {timeline.map((e) => <li><span class="y">{e.year}</span> — {e.text[lang]}</li>)}

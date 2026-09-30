@@ -21,7 +21,7 @@ const items = [...press].sort((a, b) => b.year - a.year);
             <h3>{p.title[lang]}</h3>
             <div class="meta"><em>{p.outlet}</em></div>
             <p>{p.summary[lang]}</p>
-            <a href={p.url} rel="noopener">{p.type === 'interview' ? tr.press.read : tr.press.open} →</a>
+            <a href={p.url} rel="noopener">{p.type === 'interview' ? tr.press.read : p.type === 'news' ? tr.press.readNews : tr.press.open} →</a>
           </div>
         </article>
       ))}

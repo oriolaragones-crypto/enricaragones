@@ -1,0 +1,32 @@
+---
+import Base from '../../layouts/Base.astro';
+import { t, type Lang } from '../../i18n/ui';
+import outreach from '../../data/outreach.json';
+export function getStaticPaths() {
+  return ['ca', 'es', 'en', 'fr'].map((lang) => ({ params: { lang } }));
+}
+const lang = Astro.params.lang as Lang;
+const tr = t(lang);
+const items = [...outreach].sort((a, b) => b.date.localeCompare(a.date));
+const fmt = (d: string) => new Date(d + 'T12:00:00').toLocaleDateString(lang, { day: 'numeric', month: 'long', year: 'numeric' });
+---
+<Base lang={lang} section="divulgacio" title={tr.nav.divulgacio}>
+  <div class="wrap page">
+    <h1>{tr.nav.divulgacio}</h1>
+    <p class="lead">{tr.outreach.intro}</p>
+    <div>
+      {items.map((p) => (
+        <article class="pub">
+          <div class="year">{p.year}</div>
+          <div>
+            <span class="tag">{tr.outreach.blog}</span>
+            <h3>{p.title[lang]}</h3>
+            <div class="meta"><em>{p.outlet}</em> · {fmt(p.date)}</div>
+            <p>{p.summary[lang]}</p>
+            <a href={p.url} rel="noopener">{tr.outreach.read} →</a>
+          </div>
+        </article>
+      ))}
+    </div>
+  </div>
+</Base>

@@ -96,37 +96,6 @@
     "featured": false
   },
   {
-    "id": "agora-naturalistes-2016",
-    "year": 2016,
-    "type": "conference",
-    "topic": "historia",
-    "authors": [
-      "Enric Aragonès"
-    ],
-    "lang": "ca",
-    "venue": "Àgora dels Naturalistes, Ateneu Barcelonès i Amics del Museu de Ciències Naturals de Barcelona (19/10/2016)",
-    "doi": "",
-    "pdf": "",
-    "url": "https://amicsnat.cat/node/179",
-    "title": {
-      "ca": "Geologia a Catalunya: dels viatgers il·lustrats a la recerca especialitzada",
-      "es": "Geologia a Catalunya: dels viatgers il·lustrats a la recerca especialitzada",
-      "en": "Geologia a Catalunya: dels viatgers il·lustrats a la recerca especialitzada",
-      "fr": "Geologia a Catalunya: dels viatgers il·lustrats a la recerca especialitzada"
-    },
-    "abstract": {
-      "ca": "",
-      "es": "",
-      "en": "",
-      "fr": ""
-    },
-    "keywords": [
-      "història de la geologia",
-      "Catalunya"
-    ],
-    "featured": false
-  },
-  {
     "id": "tmgb-15-2007",
     "year": 2007,
     "type": "article",

@@ -8,7 +8,7 @@ export function getStaticPaths() {
 const lang = Astro.params.lang as Lang;
 const tr = t(lang);
 const items = [...outreach].sort((a, b) => b.date.localeCompare(a.date));
-const fmt = (d: string) => new Date(d + 'T12:00:00').toLocaleDateString(lang, { day: 'numeric', month: 'long', year: 'numeric' });
+const fmt = (d: string) => d.length === 4 ? d : new Date(d + 'T12:00:00').toLocaleDateString(lang, { day: 'numeric', month: 'long', year: 'numeric' });
 ---
 <Base lang={lang} section="divulgacio" title={tr.nav.divulgacio}>
   <div class="wrap page">
@@ -19,11 +19,13 @@ const fmt = (d: string) => new Date(d + 'T12:00:00').toLocaleDateString(lang, { 
         <article class="pub">
           <div class="year">{p.year}</div>
           <div>
-            <span class="tag">{tr.outreach.blog}</span>
+            <span class="tag">{p.type === 'talk' ? tr.outreach.talk : tr.outreach.blog}</span>
             <h3>{p.title[lang]}</h3>
             <div class="meta"><em>{p.outlet}</em> · {fmt(p.date)}</div>
             <p>{p.summary[lang]}</p>
-            <a href={p.url} rel="noopener">{tr.outreach.read} →</a>
+            <a href={p.url} rel="noopener">{p.type === 'talk' ? tr.outreach.page : tr.outreach.read} →</a>
+            {p.pdf && <a class="btn ghost" href={p.pdf} rel="noopener">{tr.outreach.pdf}</a>}
+            {p.video && <a class="btn ghost" href={p.video} rel="noopener">{tr.outreach.video}</a>}
           </div>
         </article>
       ))}

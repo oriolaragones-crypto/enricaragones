@@ -74,5 +74,24 @@
       "en": "Report on the tribute to Jaume Almera on the centenary of his death (Aula Magna of the Barcelona Seminary, 27 February 2019). Enric Aragonès, representing the Friends of the Museum, spoke about the relationship between Almera and Jacint Verdaguer following their 1886 trip to the Holy Land.",
       "fr": "Compte rendu de l’hommage à Jaume Almera pour le centenaire de sa mort (Aula Magna du Séminaire de Barcelone, 27 février 2019). Enric Aragonès, représentant les Amis du Musée, y a parlé de la relation entre Almera et Jacint Verdaguer à la suite du voyage en Terre sainte de 1886."
     }
+  },
+  {
+    "id": "espeleobloc-2010-inauguracio-vallirana",
+    "year": 2010,
+    "type": "news",
+    "outlet": "Espeleobloc (blog d’espeleologia)",
+    "url": "http://espeleobloc.blogspot.com/2010/09/inauguracio-del-centre-de-tecnificacio.html",
+    "title": {
+      "ca": "Inauguració del Centre de Tecnificació i Ensenyament de la Federació Catalana d’Espeleologia a Vallirana",
+      "es": "Inauguració del Centre de Tecnificació i Ensenyament de la Federació Catalana d’Espeleologia a Vallirana",
+      "en": "Inauguració del Centre de Tecnificació i Ensenyament de la Federació Catalana d’Espeleologia a Vallirana",
+      "fr": "Inauguració del Centre de Tecnificació i Ensenyament de la Federació Catalana d’Espeleologia a Vallirana"
+    },
+    "summary": {
+      "ca": "Crònica de la inauguració del Centre de Tecnificació i Ensenyament de la Federació Catalana d’Espeleologia a Vallirana (25 de setembre de 2010), on es va presentar públicament el llibre d’Enric Aragonès Marià Faura i Sans, espeleòleg (1883-1941). L’autor va comentar una projecció d’imatges històriques, moltes d’inèdites, identificant-ne els personatges; el llibre es va oferir als assistents i molts en van demanar la dedicatòria.",
+      "es": "Crónica de la inauguración del Centro de Tecnificación y Enseñanza de la Federació Catalana d’Espeleologia en Vallirana (25 de septiembre de 2010), donde se presentó públicamente el libro de Enric Aragonès Marià Faura i Sans, espeleòleg (1883-1941). El autor comentó una proyección de imágenes históricas, muchas inéditas, identificando a los personajes; el libro se ofreció a los asistentes y muchos pidieron la dedicatoria.",
+      "en": "Report on the inauguration of the Federació Catalana d’Espeleologia’s Training and Teaching Centre in Vallirana (25 September 2010), where Enric Aragonès’s book Marià Faura i Sans, espeleòleg (1883-1941) was presented to the public. The author commented on a screening of historical images, many of them unpublished, identifying the people in them; the book was offered to those attending, and many asked for a dedication.",
+      "fr": "Compte rendu de l’inauguration du Centre de technification et d’enseignement de la Federació Catalana d’Espeleologia à Vallirana (25 septembre 2010), où le livre d’Enric Aragonès Marià Faura i Sans, espeleòleg (1883-1941) a été présenté au public. L’auteur a commenté une projection d’images historiques, dont beaucoup inédites, en identifiant les personnages ; le livre a été proposé aux personnes présentes et beaucoup ont demandé une dédicace."
+    }
   }
 ]

@@ -5,7 +5,7 @@ export default defineConfig({
   trailingSlash: 'always',
   i18n: {
     defaultLocale: 'ca',
-    locales: ['ca', 'es', 'en'],
+    locales: ['ca', 'es', 'en', 'fr'],
     routing: { prefixDefaultLocale: true, redirectToDefaultLocale: false },
   },
 });

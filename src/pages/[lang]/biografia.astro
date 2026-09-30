@@ -3,13 +3,13 @@ import Base from '../../layouts/Base.astro';
 import { t, type Lang } from '../../i18n/ui';
 import timeline from '../../data/timeline.json';
 export function getStaticPaths() {
-  return ['ca', 'es', 'en'].map((lang) => ({ params: { lang } }));
+  return ['ca', 'es', 'en', 'fr'].map((lang) => ({ params: { lang } }));
 }
 const lang = Astro.params.lang as Lang;
 const tr = t(lang);
 const links = [
   { label: 'Academia.edu', url: 'https://independent.academia.edu/EnricAragones' },
-  { label: 'Xarxa de Museus de Ciències Naturals de Catalunya — Entrevista', url: 'https://www.xarxamuseusciencies.cat/formar-part-daquesta-historia-es-un-motiu-dorgull-i-de-compromis-amb-els-grans-naturalistes-que-ens-han-precedit/' },
+  { label: `Xarxa de Museus de Ciències Naturals de Catalunya — ${{ ca: 'Entrevista', es: 'Entrevista', en: 'Interview', fr: 'Entretien' }[lang]}`, url: 'https://www.xarxamuseusciencies.cat/formar-part-daquesta-historia-es-un-motiu-dorgull-i-de-compromis-amb-els-grans-naturalistes-que-ens-han-precedit/' },
   { label: 'Amics del Museu de Ciències Naturals de Barcelona', url: 'https://amicsnat.cat/taxonomy/term/81' },
   { label: 'Amics del Museu Geològic del Seminari de Barcelona', url: 'http://museugeologic.blogspot.com/2017/05/enric-aragones-recordant-maria-faura-i.html' },
 ];

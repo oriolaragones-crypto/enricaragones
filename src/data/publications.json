@@ -636,21 +636,26 @@
       "Enric Aragonès"
     ],
     "lang": "ca",
-    "venue": "In: Lyell, Ch., Principis de Geologia. Barcelona, Institut d'Estudis Catalans, p. lxxxv-cxxiv",
+    "venue": "In: Lyell, Ch., Principis de Geologia (trad. David Serrat i Congost). Barcelona, Institut d'Estudis Catalans (Clàssics de la Ciència, 12), p. lxxxv-cxxiv",
     "doi": "",
     "pdf": "",
-    "url": "",
+    "url": "https://www.todostuslibros.com/libros/principis-de-geologia_978-84-9965-522-2",
     "title": {
       "ca": "Lyell a Catalunya",
       "es": "Lyell a Catalunya",
       "en": "Lyell a Catalunya"
     },
     "abstract": {
-      "ca": "",
-      "es": "",
-      "en": ""
+      "ca": "Estudi del viatge de Charles Lyell a Catalunya el 1830, inclòs a l’edició catalana abreujada dels Principis de geologia (Institut d’Estudis Catalans, 2020). La recerca sobre l’itinerari de Lyell que Enric Aragonès havia donat a conèixer a la comunitat científica internacional el 2008 arriba així al lector català.",
+      "es": "Estudio del viaje de Charles Lyell a Cataluña en 1830, incluido en la edición catalana abreviada de los Principios de geología (Institut d’Estudis Catalans, 2020). La investigación sobre el itinerario de Lyell que Enric Aragonès había dado a conocer a la comunidad científica internacional en 2008 llega así al lector catalán.",
+      "en": "A study of Charles Lyell’s 1830 journey through Catalonia, included in the abridged Catalan edition of the Principles of Geology (Institut d’Estudis Catalans, 2020). The research on Lyell’s itinerary that Enric Aragonès had presented to the international scientific community in 2008 thus reaches Catalan readers."
     },
-    "keywords": [],
+    "keywords": [
+      "Lyell",
+      "Catalunya",
+      "viatge de 1830",
+      "Principis de geologia"
+    ],
     "featured": false
   },
   {
@@ -824,10 +829,10 @@
       "Enric Aragonès"
     ],
     "lang": "ca",
-    "venue": "In: Lyell, Ch., Principis de Geologia. Barcelona, Institut d'Estudis Catalans (Clàssics de la Ciència, 12), p. xi-lxxxiv",
+    "venue": "In: Lyell, Ch., Principis de Geologia (trad. David Serrat i Congost). Barcelona, Institut d'Estudis Catalans (Clàssics de la Ciència, 12), p. xi-lxxxiv",
     "doi": "",
     "pdf": "",
-    "url": "",
+    "url": "https://www.todostuslibros.com/libros/principis-de-geologia_978-84-9965-522-2",
     "title": {
       "ca": "Introducció",
       "es": "Introducció",

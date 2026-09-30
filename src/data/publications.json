@@ -568,7 +568,7 @@
       "Enric Aragonès"
     ],
     "lang": "es",
-    "venue": "Boletín Geológico y Minero, 124(1): 21-39",
+    "venue": "Boletín Geológico y Minero, 124(1) (2013): 21-39",
     "doi": "",
     "pdf": "https://web.igme.es/boletin/2013/124_1/3_ARTICULO%202.pdf",
     "url": "https://bgm.revistas.csic.es/index.php/bgm/article/view/486",
@@ -579,12 +579,18 @@
       "fr": "Los primeros mapas geológicos de España de Édouard de Verneuil (1850-1855)"
     },
     "abstract": {
-      "ca": "",
-      "es": "",
-      "en": "",
-      "fr": ""
+      "ca": "Estudi de l’obra cartogràfica que Édouard de Verneuil va fer durant la seva primera etapa a Espanya, de la qual es tenien poques dades. Entre 1850 i 1855 Verneuil va traçar tres esbossos geològics generals, actualitzats successivament, per contribuir als mapes d’Europa que preparaven Murchison i Dumont; després va gravar un mapa geològic de gran part d’Espanya que no va arribar a publicar-se i que aquest article dona a conèixer. La revisió i ampliació posterior a tota la Península, iniciada el 1858, va permetre les dues edicions de la seva Carte géologique de l’Espagne et du Portugal: la provisional de 1864, en dura competència amb la Junta General de Estadística, i la definitiva de 1868.",
+      "es": "Se estudia la obra cartográfica que Édouard de Verneuil realizó durante su primer período de estudios en España, de la cual se tenían pocos datos. Entre 1850 y 1855 Verneuil trazó tres bosquejos geológicos generales, sucesivamente actualizados, para contribuir a los mapas de Europa que preparaban Murchison y Dumont; después grabó un mapa geológico de gran parte de España que no llegó a ver la luz y que este artículo da a conocer. La ulterior revisión y extensión a toda la Península, iniciada en 1858, hizo posibles las dos ediciones de su Carte géologique de l’Espagne et du Portugal: la provisional de 1864, en dura competencia con la Junta General de Estadística, y la definitiva de 1868.",
+      "en": "A study of the cartographic work Édouard de Verneuil carried out during his early surveys of Spain, of which little was known. Between 1850 and 1855 Verneuil drew three general geological sketch maps, continuously updated, to contribute to the maps of Europe being prepared by Murchison and Dumont; he then engraved a geological map of most of Spain that was never published and whose existence this paper records. The later revision and extension to the whole Peninsula, begun in 1858, led to the two editions of his Carte géologique de l’Espagne et du Portugal: the provisional one of 1864, in fierce competition with the Junta General de Estadística, and the definitive one of 1868.",
+      "fr": "Étude de l’œuvre cartographique qu’Édouard de Verneuil a réalisée lors de sa première période d’études en Espagne, dont on savait peu de choses. Entre 1850 et 1855, Verneuil a tracé trois esquisses géologiques générales, mises à jour successivement, pour contribuer aux cartes d’Europe que préparaient Murchison et Dumont ; il a ensuite gravé une carte géologique d’une grande partie de l’Espagne qui n’a jamais été publiée et que cet article fait connaître. La révision et l’extension ultérieures à toute la Péninsule, commencées en 1858, ont permis les deux éditions de sa Carte géologique de l’Espagne et du Portugal : la provisoire de 1864, en vive concurrence avec la Junta General de Estadística, et la définitive de 1868."
     },
-    "keywords": [],
+    "keywords": [
+      "Édouard de Verneuil",
+      "història de la geologia",
+      "cartografia geològica",
+      "Espanya",
+      "segle XIX"
+    ],
     "featured": false
   },
   {

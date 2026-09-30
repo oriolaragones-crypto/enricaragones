@@ -777,11 +777,16 @@
       "en": "Cometes i altres senyals de foc: Quan el cel avisava (segles XVI-XVIII)"
     },
     "abstract": {
-      "ca": "",
-      "es": "",
-      "en": ""
+      "ca": "Estudi sobre com es van interpretar, entre els segles XVI i XVIII, els cometes i altres senyals celestes de foc: des de temps immemorials els fenòmens lluminosos que alteraven l’ordre aparentment immutable de l’Univers havien estat vistos com a presagis, gairebé sempre malastrucs, i van acabar integrats en la praxi astrològica, que en va desenvolupar un sistema normatiu per interpretar-ne els possibles efectes.",
+      "es": "Estudio sobre cómo se interpretaron, entre los siglos XVI y XVIII, los cometas y otras señales celestes de fuego: desde tiempos inmemoriales los fenómenos luminosos que alteraban el orden aparentemente inmutable del Universo habían sido vistos como presagios, casi siempre funestos, y acabaron integrados en la praxis astrológica, que desarrolló un sistema normativo para interpretar sus posibles efectos.",
+      "en": "A study of how comets and other fiery celestial signs were interpreted between the 16th and 18th centuries: since time immemorial, luminous phenomena that disturbed the seemingly immutable order of the Universe had been seen as omens, almost always ill-fated, and they ended up integrated into astrological practice, which developed a normative system to interpret their possible effects."
     },
-    "keywords": [],
+    "keywords": [
+      "cometes",
+      "astrologia",
+      "presagis",
+      "segles XVI-XVIII"
+    ],
     "featured": false
   },
   {

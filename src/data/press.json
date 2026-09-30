@@ -38,6 +38,25 @@
     }
   },
   {
+    "id": "ara-diumenge-2024-museu-150-anys",
+    "year": 2024,
+    "type": "mention",
+    "outlet": "Ara Diumenge (Toni Vall)",
+    "url": "https://diumenge.ara.cat/diumenge/peces-600-milions-d-anys_130_5052778.html",
+    "title": {
+      "ca": "«Tenim peces de fa 600 milions d’anys»",
+      "es": "«Tenim peces de fa 600 milions d’anys»",
+      "en": "«Tenim peces de fa 600 milions d’anys»",
+      "fr": "«Tenim peces de fa 600 milions d’anys»"
+    },
+    "summary": {
+      "ca": "Reportatge d’Ara Diumenge sobre els 150 anys del Museu Geològic del Seminari de Barcelona, que reclama més atenció institucional que en garanteixi el futur. Hi surt Enric Aragonès, presentat com a historiador de la geologia i responsable de l’arxiu del Museu, que en repassa la història, destaca que posseeix la col·lecció d’invertebrats més important d’Espanya i probablement d’Europa, i subratlla la figura de Jaume Almera, fundador i primer director.",
+      "es": "Reportaje de Ara Diumenge sobre los 150 años del Museu Geològic del Seminari de Barcelona, que reclama más atención institucional que garantice su futuro. Aparece Enric Aragonès, presentado como historiador de la geología y responsable del archivo del Museo, que repasa su historia, destaca que posee la colección de invertebrados más importante de España y probablemente de Europa, y subraya la figura de Jaume Almera, fundador y primer director.",
+      "en": "A feature in Ara Diumenge on the 150th anniversary of the Museu Geològic del Seminari de Barcelona, which asks for more institutional attention to secure its future. Enric Aragonès appears, introduced as a historian of geology and head of the Museum’s archive, reviewing its history, stressing that it holds the most important invertebrate collection in Spain and probably in Europe, and highlighting Jaume Almera, its founder and first director.",
+      "fr": "Reportage d’Ara Diumenge sur les 150 ans du Museu Geològic del Seminari de Barcelona, qui demande davantage d’attention institutionnelle pour garantir son avenir. Enric Aragonès y apparaît, présenté comme historien de la géologie et responsable des archives du Musée ; il en retrace l’histoire, souligne qu’il possède la collection d’invertébrés la plus importante d’Espagne et probablement d’Europe, et met en avant Jaume Almera, fondateur et premier directeur."
+    }
+  },
+  {
     "id": "sapiens-239-2022-lyell",
     "year": 2022,
     "type": "mention",

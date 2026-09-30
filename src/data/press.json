@@ -95,6 +95,25 @@
     }
   },
   {
+    "id": "reus-2012-donacio-correspondencia-vilaseca",
+    "year": 2012,
+    "type": "news",
+    "outlet": "Ajuntament de Reus",
+    "url": "https://www.reus.cat/noticia/donacio-de-correspondencia-de-salvador-vilaseca-al-museu-d-arqueologia-de-reus",
+    "title": {
+      "ca": "Donació de correspondència de Salvador Vilaseca al Museu d’Arqueologia de Reus",
+      "es": "Donación de correspondencia de Salvador Vilaseca al Museu d’Arqueologia de Reus",
+      "en": "Donation of Salvador Vilaseca’s correspondence to the Reus Archaeology Museum",
+      "fr": "Don de correspondance de Salvador Vilaseca au Musée d’archéologie de Reus"
+    },
+    "summary": {
+      "ca": "Nota de premsa de l’Ajuntament de Reus (29 de febrer de 2012) sobre la donació de dotze postals adreçades a Salvador Vilaseca per Josep Ramon Bataller (deu, 1923-1946) i Marià Faura (dues, c. 1923 i 1931), que completen els fons del museu que porta el seu nom. Presenta Enric Aragonès com a expert en la correspondència entre Vilaseca, Bataller i Faura, convidat a analitzar la donació al museu l’1 de març, i recorda els seus quaderns monogràfics de Notícies de la Natura dedicats a aquestes relacions.",
+      "es": "Nota de prensa del Ayuntamiento de Reus (29 de febrero de 2012) sobre la donación de doce postales dirigidas a Salvador Vilaseca por Josep Ramon Bataller (diez, 1923-1946) y Marià Faura (dos, c. 1923 y 1931), que completan los fondos del museo que lleva su nombre. Presenta a Enric Aragonès como experto en la correspondencia entre Vilaseca, Bataller y Faura, invitado a analizar la donación en el museo el 1 de marzo, y recuerda sus cuadernos monográficos de Notícies de la Natura dedicados a estas relaciones.",
+      "en": "Press release from Reus City Council (29 February 2012) on the donation of twelve postcards sent to Salvador Vilaseca by Josep Ramon Bataller (ten, 1923-1946) and Marià Faura (two, c. 1923 and 1931), which complement the holdings of the museum that bears his name. It presents Enric Aragonès as an expert on the correspondence between Vilaseca, Bataller and Faura, invited to analyse the donation at the museum on 1 March, and mentions his monographic Notícies de la Natura booklets devoted to these relationships.",
+      "fr": "Communiqué de presse de la mairie de Reus (29 février 2012) sur le don de douze cartes postales adressées à Salvador Vilaseca par Josep Ramon Bataller (dix, 1923-1946) et Marià Faura (deux, vers 1923 et 1931), qui complètent les fonds du musée portant son nom. Il présente Enric Aragonès comme expert de la correspondance entre Vilaseca, Bataller et Faura, invité à analyser le don au musée le 1er mars, et rappelle ses cahiers monographiques Notícies de la Natura consacrés à ces relations."
+    }
+  },
+  {
     "id": "espeleobloc-2010-inauguracio-vallirana",
     "year": 2010,
     "type": "news",

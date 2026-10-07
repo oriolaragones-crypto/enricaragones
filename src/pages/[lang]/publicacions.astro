@@ -31,6 +31,11 @@ const topics = [...new Set(pubs.map((p) => p.topic))];
           data-text={[p.title[lang], p.authors.join(' '), p.keywords.join(' '), p.venue].join(' ').toLowerCase()}>
           <div class="year">{p.year}</div>
           <div>
+            {(p as any).thumb && (
+              <a class="pub-thumb" href={(p as any).image} rel="noopener">
+                <img src={(p as any).thumb} width={(p as any).thumbSize?.[0]} height={(p as any).thumbSize?.[1]} alt={p.title[lang]} loading="lazy" />
+              </a>
+            )}
             <span class="tag">{tr.types[p.type as keyof typeof tr.types]} · {tr.topics[p.topic as keyof typeof tr.topics]}</span>
             <h3>{p.title[lang]}</h3>
             <div class="meta">{p.authors.join(', ')} — <em>{p.venue}</em></div>

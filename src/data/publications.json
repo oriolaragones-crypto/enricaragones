@@ -859,6 +859,37 @@
     "featured": false
   },
   {
+    "id": "2010-primera-exploracio-de-l-avenc-d-en-roca",
+    "year": 2010,
+    "type": "article",
+    "topic": "historia",
+    "authors": [
+      "Enric Aragonès"
+    ],
+    "lang": "ca",
+    "venue": "Muntanya, 888 (abril de 2010)",
+    "doi": "",
+    "pdf": "",
+    "url": "http://espeleobloc.blogspot.com/2010/04/centenari-de-la-mort-den-n-font-i-sague.html",
+    "title": {
+      "ca": "Primera exploració de l’Avenc d’en Roca",
+      "es": "Primera exploració de l’Avenc d’en Roca",
+      "en": "Primera exploració de l’Avenc d’en Roca",
+      "fr": "Primera exploració de l’Avenc d’en Roca"
+    },
+    "abstract": {
+      "ca": "",
+      "es": "",
+      "en": "",
+      "fr": ""
+    },
+    "keywords": [
+      "Avenc d’en Roca",
+      "espeleologia"
+    ],
+    "featured": false
+  },
+  {
     "id": "2020-introduccio",
     "year": 2020,
     "type": "chapter",

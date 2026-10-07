@@ -890,7 +890,13 @@
       "Marià Faura",
       "espeleologia"
     ],
-    "featured": false
+    "featured": false,
+    "image": "/img/pubs/2010-avenc-en-roca-muntanya-888-p12.jpg",
+    "thumb": "/img/pubs/2010-avenc-en-roca-muntanya-888-p12-thumb.jpg",
+    "thumbSize": [
+      180,
+      253
+    ]
   },
   {
     "id": "2020-introduccio",

@@ -1430,9 +1430,9 @@
       "Enric Aragonès"
     ],
     "lang": "ca",
-    "venue": "Arxiu del Centre Excursionista de Terrassa, 5(6): 31-57",
+    "venue": "Arxiu del Centre Excursionista de Terrassa, 5(6) (2020): 31-57",
     "doi": "",
-    "pdf": "",
+    "pdf": "https://www.recercat.cat/bitstream/handle/2072/520690/Aragones_2020.pdf",
     "url": "",
     "title": {
       "ca": "Els cursos de Geologia de Norbert Font i Sagué (1904-1910)",
@@ -1441,12 +1441,18 @@
       "fr": "Els cursos de Geologia de Norbert Font i Sagué (1904-1910)"
     },
     "abstract": {
-      "ca": "",
-      "es": "",
-      "en": "",
-      "fr": ""
+      "ca": "Estudi dels sis cursos de geologia que Norbert Font i Sagué va impartir entre 1904 i 1910, primer al Centre Excursionista de Catalunya i després als Estudis Universitaris Catalans. A partir de la premsa de l’època i dels papers de Font conservats al Museu Geològic del Seminari de Barcelona, reconstrueix com van néixer els cursos, què s’hi ensenyava, qui hi assistia i quines excursions s’hi feien, i com van ajudar a crear el Club Muntanyenc (1906) i la Secció de Geografia Física i Geologia del CEC (1908). Analitza el llibre de text derivat del primer curs, el Curs de Geologia Dinàmica i Estratigràfica aplicada a Catalunya (1905), i mostra que és una reducció de l’Abrégé de géologie de Lapparent, la qual cosa el feia desfasat, però no tant com s’havia suposat. Matisa també que el llibre fos el primer a introduir el lèxic geològic en català, ja que Alsius i Almera hi havien precedit, i que els cursos no van acabar amb la mort de Font: els seus deixebles van continuar explicant-los més d’una dotzena d’anys. Inclou un apèndix amb l’inventari dels papers de Font.",
+      "es": "Estudio de los seis cursos de geología que Norbert Font i Sagué impartió entre 1904 y 1910, primero en el Centre Excursionista de Catalunya y después en los Estudis Universitaris Catalans. A partir de la prensa de la época y de los papeles de Font conservados en el Museu Geològic del Seminari de Barcelona, reconstruye cómo nacieron los cursos, qué se enseñaba, quién asistía y qué excursiones se hacían, y cómo ayudaron a crear el Club Muntanyenc (1906) y la Secció de Geografia Física i Geologia del CEC (1908). Analiza el libro de texto derivado del primer curso, el Curs de Geologia Dinàmica i Estratigràfica aplicada a Catalunya (1905), y muestra que es una reducción del Abrégé de géologie de Lapparent, lo que lo hacía desfasado, pero no tanto como se había supuesto. Matiza también que el libro fuera el primero en introducir el léxico geológico en catalán, ya que Alsius y Almera se habían adelantado, y que los cursos no acabaron con la muerte de Font: sus discípulos siguieron explicándolos más de una docena de años. Incluye un apéndice con el inventario de los papeles de Font.",
+      "en": "A study of the six geology courses that Norbert Font i Sagué gave between 1904 and 1910, first at the Centre Excursionista de Catalunya and then at the Estudis Universitaris Catalans. Drawing on the press of the time and on Font’s papers held at the Museu Geològic del Seminari de Barcelona, it reconstructs how the courses came about, what was taught, who attended and what excursions were held, and how they helped to found the Club Muntanyenc (1906) and the CEC’s Physical Geography and Geology Section (1908). It analyses the textbook derived from the first course, the Curs de Geologia Dinàmica i Estratigràfica aplicada a Catalunya (1905), and shows it to be an abridgement of Lapparent’s Abrégé de géologie, which made it out of date, though less so than had been assumed. It also qualifies the claim that the book was the first to introduce geological vocabulary into Catalan, since Alsius and Almera had preceded it, and that the courses did not end with Font’s death: his pupils went on teaching them for over a dozen years. An appendix lists Font’s papers.",
+      "fr": "Étude des six cours de géologie que Norbert Font i Sagué a donnés entre 1904 et 1910, d’abord au Centre Excursionista de Catalunya puis aux Estudis Universitaris Catalans. À partir de la presse de l’époque et des papiers de Font conservés au Museu Geològic del Seminari de Barcelona, elle reconstitue la naissance des cours, leur contenu, leurs auditeurs et les excursions organisées, ainsi que leur rôle dans la création du Club Muntanyenc (1906) et de la Section de géographie physique et géologie du CEC (1908). Elle analyse le manuel issu du premier cours, le Curs de Geologia Dinàmica i Estratigràfica aplicada a Catalunya (1905), et montre qu’il s’agit d’une réduction de l’Abrégé de géologie de Lapparent, ce qui le rendait dépassé, mais moins qu’on ne l’avait supposé. Elle nuance aussi l’idée que le livre ait été le premier à introduire le vocabulaire géologique en catalan, Alsius et Almera l’ayant précédé, et celle que les cours se soient arrêtés avec la mort de Font : ses disciples ont continué à les donner pendant plus d’une douzaine d’années. Un appendice recense les papiers de Font."
     },
-    "keywords": [],
+    "keywords": [
+      "Norbert Font i Sagué",
+      "cursos de geologia",
+      "Centre Excursionista de Catalunya",
+      "Estudis Universitaris Catalans",
+      "excursionisme científic"
+    ],
     "featured": false
   },
   {

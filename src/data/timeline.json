@@ -9,70 +9,52 @@
     }
   },
   {
+    "year": "1960–1966",
+    "text": {
+      "ca": "Estudis de batxillerat a l’Institut «Martí i Franquès» de Tarragona.",
+      "es": "Estudios de bachillerato en el Instituto «Martí i Franquès» de Tarragona.",
+      "en": "Secondary school studies at the Institut “Martí i Franquès” in Tarragona.",
+      "fr": "Études secondaires à l’Institut « Martí i Franquès » de Tarragone."
+    }
+  },
+  {
     "year": "1967–1972",
     "text": {
-      "ca": "Llicenciat en Ciències Geològiques per la Universitat de Barcelona (Facultat de Ciències Geològiques).",
-      "es": "Licenciado en Ciencias Geológicas por la Universidad de Barcelona (Facultad de Ciencias Geológicas).",
-      "en": "Degree in Geological Sciences, University of Barcelona (Faculty of Geological Sciences).",
-      "fr": "Licence en sciences géologiques de l’Université de Barcelone (Faculté des sciences géologiques)."
+      "ca": "Estudis de Llicenciatura a la Facultat de Ciències Geològiques de la Universitat de Barcelona.",
+      "es": "Estudios de Licenciatura en la Facultad de Ciencias Geológicas de la Universidad de Barcelona.",
+      "en": "Degree studies at the Faculty of Geological Sciences of the University of Barcelona.",
+      "fr": "Études de licence à la Faculté des sciences géologiques de l’Université de Barcelone."
     }
   },
   {
     "year": 1973,
     "text": {
-      "ca": "Diploma de postgrau al VII Curs Internacional d’Hidrologia Subterrània (Fundación Centro Internacional de Hidrología Subterránea, Barcelona).",
-      "es": "Diploma de posgrado en el VII Curso Internacional de Hidrología Subterránea (Fundación Centro Internacional de Hidrología Subterránea, Barcelona).",
-      "en": "Postgraduate diploma, 7th International Course on Groundwater Hydrology (Fundación Centro Internacional de Hidrología Subterránea, Barcelona).",
-      "fr": "Diplôme de troisième cycle au VIIe Cours international d’hydrologie souterraine (Fundación Centro Internacional de Hidrología Subterránea, Barcelone)."
+      "ca": "Diploma de postgrau al VII Curs Internacional d’Hidrogeologia Subterrània.",
+      "es": "Diploma de posgrado en el VII Curso Internacional de Hidrogeología Subterránea.",
+      "en": "Postgraduate diploma at the 7th International Course on Groundwater Hydrogeology.",
+      "fr": "Diplôme de troisième cycle au VIIe Cours international d’hydrogéologie souterraine."
     }
   },
   {
     "year": "1974–1981",
     "text": {
-      "ca": "Geòleg de camp en una empresa consultora.",
-      "es": "Geólogo de campo en una empresa consultora.",
-      "en": "Field geologist at a consulting firm.",
-      "fr": "Géologue de terrain dans un bureau d’études."
+      "ca": "Geòleg de camp en una empresa consultora: cartografia geològica i prospecció de recursos miners.",
+      "es": "Geólogo de campo en una empresa consultora: cartografía geológica y prospección de recursos mineros.",
+      "en": "Field geologist at a consulting firm: geological mapping and mineral prospecting.",
+      "fr": "Géologue de terrain dans un bureau d’études : cartographie géologique et prospection de ressources minières."
     }
   },
   {
-    "year": "1980–1983",
+    "year": 1982,
     "text": {
-      "ca": "Signa sis fulls del Mapa Geológico de España a escala 1:50 000.",
-      "es": "Firma seis hojas del Mapa Geológico de España a escala 1:50 000.",
-      "en": "Signs six sheets of the Mapa Geológico de España at 1:50,000.",
-      "fr": "Signe six feuilles de la Carte géologique d’Espagne au 1/50 000."
+      "ca": "Ingrés al Servei Geològic de la Generalitat de Catalunya (Departament de Política Territorial i Obres Públiques).",
+      "es": "Ingreso en el Servei Geològic de la Generalitat de Catalunya (Departament de Política Territorial i Obres Públiques).",
+      "en": "Joins the Servei Geològic of the Generalitat de Catalunya (Department of Territorial Policy and Public Works).",
+      "fr": "Entrée au Servei Geològic de la Generalitat de Catalogne (Département de la politique territoriale et des travaux publics)."
     }
   },
   {
-    "year": "1981–2012",
-    "text": {
-      "ca": "Funcionari de la Generalitat de Catalunya.",
-      "es": "Funcionario de la Generalitat de Catalunya.",
-      "en": "Civil servant at the Generalitat de Catalunya.",
-      "fr": "Fonctionnaire de la Generalitat de Catalogne."
-    }
-  },
-  {
-    "year": 1992,
-    "text": {
-      "ca": "Publica la síntesi «La cartografia geològica de Catalunya. Història i estat actual» i l’estudi de la primera cartografia subvencionada per la Diputació (1869-1870).",
-      "es": "Publica la síntesis «La cartografia geològica de Catalunya. Història i estat actual» y el estudio de la primera cartografía subvencionada por la Diputación (1869-1870).",
-      "en": "Publishes the overview “La cartografia geològica de Catalunya. Història i estat actual” and the study of the first mapping funded by the Diputació (1869-1870).",
-      "fr": "Publie la synthèse « La cartografia geològica de Catalunya. Història i estat actual » et l’étude de la première cartographie financée par la Diputació (1869-1870)."
-    }
-  },
-  {
-    "year": "1992–1993",
-    "text": {
-      "ca": "Diploma del Curs d’Enginyeria Ambiental (Institut Català de Tecnologia, Barcelona).",
-      "es": "Diploma del Curso de Ingeniería Ambiental (Institut Català de Tecnologia, Barcelona).",
-      "en": "Diploma in Environmental Engineering (Institut Català de Tecnologia, Barcelona).",
-      "fr": "Diplôme du cours d’ingénierie environnementale (Institut Català de Tecnologia, Barcelone)."
-    }
-  },
-  {
-    "year": "1993–1994",
+    "year": "1992–1994",
     "text": {
       "ca": "Màster en Enginyeria i Gestió Ambiental (Universitat Politècnica de Catalunya).",
       "es": "Máster en Ingeniería y Gestión Ambiental (Universitat Politècnica de Catalunya).",
@@ -81,93 +63,102 @@
     }
   },
   {
+    "year": 1998,
+    "text": {
+      "ca": "Trasllat al Departament d’Agricultura (després Medi Ambient) de la Generalitat de Catalunya.",
+      "es": "Traslado al Departament d’Agricultura (después Medi Ambient) de la Generalitat de Catalunya.",
+      "en": "Transfer to the Department of Agriculture (later Environment) of the Generalitat de Catalunya.",
+      "fr": "Mutation au Département de l’agriculture (puis de l’environnement) de la Generalitat de Catalogne."
+    }
+  },
+  {
     "year": 2002,
     "text": {
-      "ca": "Estudia els Planos geognósticos de Carles de Gimbernat i coordina les actes del Simposi Mediterrani d’Espais Marins i Costaners Protegits.",
-      "es": "Estudia los Planos geognósticos de Carles de Gimbernat y coordina las actas del Simposio Mediterráneo de Espacios Marinos y Costeros Protegidos.",
-      "en": "Studies Carles de Gimbernat’s Planos geognósticos and coordinates the proceedings of the Mediterranean Symposium on Protected Marine and Coastal Areas.",
-      "fr": "Étudie les Planos geognósticos de Carles de Gimbernat et coordonne les actes du Symposium méditerranéen des espaces marins et côtiers protégés."
-    }
-  },
-  {
-    "year": 2005,
-    "text": {
-      "ca": "Comença la col·laboració amb el Museu Geològic del Seminari de Barcelona.",
-      "es": "Comienza la colaboración con el Museo Geológico del Seminario de Barcelona.",
-      "en": "Begins his collaboration with the Museu Geològic del Seminari de Barcelona.",
-      "fr": "Commence sa collaboration avec le Musée géologique du Séminaire de Barcelone."
-    }
-  },
-  {
-    "year": "2006–2010",
-    "text": {
-      "ca": "Estudia Marià Faura i el Servei del Mapa Geològic de Catalunya (2006) i li dedica el llibre Marià Faura i Sans, espeleòleg (2010).",
-      "es": "Estudia a Marià Faura y el Servei del Mapa Geològic de Catalunya (2006) y le dedica el libro Marià Faura i Sans, espeleòleg (2010).",
-      "en": "Studies Marià Faura and the Servei del Mapa Geològic de Catalunya (2006) and devotes to him the book Marià Faura i Sans, espeleòleg (2010).",
-      "fr": "Étudie Marià Faura et le Servei del Mapa Geològic de Catalunya (2006) et lui consacre le livre Marià Faura i Sans, espeleòleg (2010)."
+      "ca": "Edició de les actes del Mediterranean Symposium on Protected Marine and Coastal Areas (Roses-l’Estartit, 6-10 de març de 2002).",
+      "es": "Edición de las actas del Mediterranean Symposium on Protected Marine and Coastal Areas (Roses-l’Estartit, 6-10 de marzo de 2002).",
+      "en": "Edits the proceedings of the Mediterranean Symposium on Protected Marine and Coastal Areas (Roses-l’Estartit, 6-10 March 2002).",
+      "fr": "Édition des actes du Mediterranean Symposium on Protected Marine and Coastal Areas (Roses-l’Estartit, 6-10 mars 2002)."
     }
   },
   {
     "year": 2008,
     "text": {
-      "ca": "Publica «Lyell’s Journey in Catalonia» a Earth Sciences History.",
-      "es": "Publica «Lyell’s Journey in Catalonia» en Earth Sciences History.",
-      "en": "Publishes “Lyell’s Journey in Catalonia” in Earth Sciences History.",
-      "fr": "Publie « Lyell’s Journey in Catalonia » dans Earth Sciences History."
+      "ca": "Trasllat al Departament d’Economia i Coneixement (després Empresa i Ocupació) de la Generalitat de Catalunya.",
+      "es": "Traslado al Departament d’Economia i Coneixement (después Empresa i Ocupació) de la Generalitat de Catalunya.",
+      "en": "Transfer to the Department of Economy and Knowledge (later Business and Employment) of the Generalitat de Catalunya.",
+      "fr": "Mutation au Département de l’économie et de la connaissance (puis de l’entreprise et de l’emploi) de la Generalitat de Catalogne."
+    }
+  },
+  {
+    "year": 2011,
+    "text": {
+      "ca": "Jubilació. Comença la col·laboració amb el Museu de Geologia del Seminari de Barcelona com a assessor científic responsable dels arxius de la institució.",
+      "es": "Jubilación. Comienza la colaboración con el Museo de Geología del Seminario de Barcelona como asesor científico responsable de los archivos de la institución.",
+      "en": "Retirement. Begins his collaboration with the Museu de Geologia del Seminari de Barcelona as scientific adviser in charge of the institution’s archives.",
+      "fr": "Retraite. Début de sa collaboration avec le Musée de géologie du Séminaire de Barcelone comme conseiller scientifique responsable des archives de l’institution."
     }
   },
   {
     "year": 2012,
     "text": {
-      "ca": "Es jubila com a funcionari de la Generalitat.",
-      "es": "Se jubila como funcionario de la Generalitat.",
-      "en": "Retires as a Generalitat civil servant.",
-      "fr": "Prend sa retraite de la fonction publique de la Generalitat."
+      "ca": "Comissariat d’una exposició sobre el Descobriment de la Regió Volcànica (Olot, maig-juny de 2012).",
+      "es": "Comisariado de una exposición sobre el Descubrimiento de la Región Volcánica (Olot, mayo-junio de 2012).",
+      "en": "Curates an exhibition on the Discovery of the Volcanic Region (Olot, May-June 2012).",
+      "fr": "Commissariat d’une exposition sur la Découverte de la région volcanique (Olot, mai-juin 2012)."
     }
   },
   {
-    "year": 2017,
+    "year": 2015,
     "text": {
-      "ca": "Publica l’epistolari inèdit de Lucas Mallada a Lluís Marià Vidal.",
-      "es": "Publica el epistolario inédito de Lucas Mallada a Lluís Marià Vidal.",
-      "en": "Publishes the unpublished letters of Lucas Mallada to Lluís Marià Vidal.",
-      "fr": "Publie la correspondance inédite de Lucas Mallada à Lluís Marià Vidal."
+      "ca": "Contribució al Col·loqui de Tardor del Centre d’Estudis Comarcals de Banyoles amb dues comunicacions sobre Pere Alsius i la seva obra geològica.",
+      "es": "Contribución al Col·loqui de Tardor del Centre d’Estudis Comarcals de Banyoles con dos comunicaciones sobre Pere Alsius y su obra geológica.",
+      "en": "Contributes two papers on Pere Alsius and his geological work to the Autumn Colloquium of the Centre d’Estudis Comarcals de Banyoles.",
+      "fr": "Contribution au Colloque d’automne du Centre d’Estudis Comarcals de Banyoles avec deux communications sur Pere Alsius et son œuvre géologique."
     }
   },
   {
-    "year": "2018–2019",
+    "year": 2018,
     "text": {
-      "ca": "Participa amb cinc comunicacions al Congrés d’homenatge a Lluís Marià Vidal.",
-      "es": "Participa con cinco comunicaciones en el Congreso de homenaje a Lluís Marià Vidal.",
-      "en": "Takes part with five papers in the congress in homage to Lluís Marià Vidal.",
-      "fr": "Participe avec cinq communications au congrès d’hommage à Lluís Marià Vidal."
+      "ca": "Presentació de cinc comunicacions al Congrés d’Homenatge a Lluís Marià Vidal (Solsonès, Bages i la Noguera).",
+      "es": "Presentación de cinco comunicaciones en el Congreso de Homenaje a Lluís Marià Vidal (Solsonès, Bages y la Noguera).",
+      "en": "Presents five papers at the Congress in Homage to Lluís Marià Vidal (Solsonès, Bages and la Noguera).",
+      "fr": "Présentation de cinq communications au Congrès d’hommage à Lluís Marià Vidal (Solsonès, Bages et la Noguera)."
     }
   },
   {
-    "year": 2020,
+    "year": 2018,
     "text": {
-      "ca": "Signa els textos complementaris de l’edició catalana dels Principis de geologia de Lyell (IEC).",
-      "es": "Firma los textos complementarios de la edición catalana de los Principios de geología de Lyell (IEC).",
-      "en": "Writes the complementary texts of the Catalan edition of Lyell’s Principles of Geology (IEC).",
-      "fr": "Signe les textes complémentaires de l’édition catalane des Principes de géologie de Lyell (IEC)."
+      "ca": "Presentació de «Metrologia de la sal de Cardona (segles XI-XVII)» a la XV Trobada d’Història de la Ciència i de la Tècnica (Tarragona, 8-10 de novembre).",
+      "es": "Presentación de «Metrología de la sal de Cardona (siglos XI-XVII)» en el XV Encuentro de Historia de la Ciencia y de la Técnica (Tarragona, 8-10 de noviembre).",
+      "en": "Presents “Metrology of Cardona salt (11th-17th centuries)” at the 15th Meeting on the History of Science and Technology (Tarragona, 8-10 November).",
+      "fr": "Présentation de « Métrologie du sel de Cardona (XIe-XVIIe siècles) » à la XVe Rencontre d’histoire des sciences et des techniques (Tarragone, 8-10 novembre)."
     }
   },
   {
-    "year": 2023,
+    "year": "2022–2024",
     "text": {
-      "ca": "Publica la primera part de la fototeca del Museu del Seminari (llegats Vidal i Faura).",
-      "es": "Publica la primera parte de la fototeca del Museo del Seminario (legados Vidal y Faura).",
-      "en": "Publishes the first part of the Museu del Seminari’s photographic archive (Vidal and Faura legacies).",
-      "fr": "Publie la première partie de la photothèque du Musée du Séminaire (legs Vidal et Faura)."
+      "ca": "Edició i presentació de l’Epistolari de Pere Alsius i Torrent (Banyoles).",
+      "es": "Edición y presentación del Epistolari de Pere Alsius i Torrent (Banyoles).",
+      "en": "Edits and presents the Epistolari de Pere Alsius i Torrent (Banyoles).",
+      "fr": "Édition et présentation de l’Epistolari de Pere Alsius i Torrent (Banyoles)."
     }
   },
   {
     "year": 2024,
     "text": {
-      "ca": "Coordina l’Epistolari de Pere Alsius i Torrent (Documenta Universitària, Girona).",
-      "es": "Coordina el Epistolari de Pere Alsius i Torrent (Documenta Universitària, Girona).",
-      "en": "Coordinates the Epistolari de Pere Alsius i Torrent (Documenta Universitària, Girona).",
-      "fr": "Coordonne l’Epistolari de Pere Alsius i Torrent (Documenta Universitària, Girona)."
+      "ca": "Comunicació de l’existència d’una còpia de les memòries perdudes de Llobet i Vall-llosera sobre la regió volcànica a la 18a Trobada d’Història de la Ciència i de la Tècnica (Olot, 21-23 de novembre).",
+      "es": "Comunicación de la existencia de una copia de las memorias perdidas de Llobet y Vall-llosera sobre la región volcánica en el 18.º Encuentro de Historia de la Ciencia y de la Técnica (Olot, 21-23 de noviembre).",
+      "en": "Reports the existence of a copy of the lost memoirs of Llobet i Vall-llosera on the volcanic region at the 18th Meeting on the History of Science and Technology (Olot, 21-23 November).",
+      "fr": "Communication sur l’existence d’une copie des mémoires perdus de Llobet i Vall-llosera sur la région volcanique à la 18e Rencontre d’histoire des sciences et des techniques (Olot, 21-23 novembre)."
+    }
+  },
+  {
+    "year": "2025–2026",
+    "text": {
+      "ca": "Classificació i protecció de l’arxiu de la família Alsius de Banyoles.",
+      "es": "Clasificación y protección del archivo de la familia Alsius de Banyoles.",
+      "en": "Classification and protection of the archive of the Alsius family of Banyoles.",
+      "fr": "Classement et protection des archives de la famille Alsius de Banyoles."
     }
   }
 ]

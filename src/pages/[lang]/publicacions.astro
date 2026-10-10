@@ -10,9 +10,32 @@ const tr = t(lang);
 const sorted = [...pubs].sort((a, b) => b.year - a.year);
 const years = [...new Set(pubs.map((p) => p.year))].sort((a, b) => b - a);
 const types = [...new Set(pubs.map((p) => p.type))];
+const site = 'https://www.enricaragones.com';
+const schemaType: Record<string, string> = { article: 'ScholarlyArticle', conference: 'ScholarlyArticle', book: 'Book', chapter: 'Chapter', map: 'Map', review: 'Review' };
+const listLd = {
+  '@context': 'https://schema.org',
+  '@type': 'ItemList',
+  name: tr.nav.publicacions,
+  itemListElement: sorted.map((p, i) => ({
+    '@type': 'ListItem',
+    position: i + 1,
+    item: {
+      '@type': schemaType[p.type] ?? 'CreativeWork',
+      name: p.title[lang],
+      datePublished: String(p.year),
+      inLanguage: p.lang,
+      author: p.authors.map((a) => ({ '@type': 'Person', name: a })),
+      isPartOf: { '@type': 'Periodical', name: p.venue },
+      ...(p.doi ? { sameAs: `https://doi.org/${p.doi}` } : p.url ? { sameAs: p.url } : {}),
+      ...(p.abstract[lang] ? { abstract: p.abstract[lang] } : {}),
+      ...(p.keywords.length ? { keywords: p.keywords.join(', ') } : {}),
+    },
+  })),
+};
 const topics = [...new Set(pubs.map((p) => p.topic))];
 ---
 <Base lang={lang} section="publicacions" title={tr.nav.publicacions}>
+  <script slot="head" type="application/ld+json" set:html={JSON.stringify(listLd)} />
   <div class="wrap page">
     <h1>{tr.nav.publicacions}</h1>
     <div class="filters">

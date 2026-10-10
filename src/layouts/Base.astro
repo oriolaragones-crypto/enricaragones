@@ -1,12 +1,44 @@
 ---
 import '../styles/global.css';
 import { languages, t, href, sections, type Lang, type Section } from '../i18n/ui';
-interface Props { lang: Lang; title?: string; description?: string; section?: Section }
-const { lang, title, description, section } = Astro.props;
+interface Props { lang: Lang; title?: string; description?: string; section?: Section; noindex?: boolean }
+const { lang, title, description, section, noindex } = Astro.props;
 const tr = t(lang);
 const pageTitle = title ? `${title} · ${tr.siteTitle}` : `${tr.siteTitle} · ${tr.role}`;
 const path = section ? `${section}/` : '';
 const site = 'https://www.enricaragones.com';
+const desc = description ?? tr.seo[section ?? 'home'];
+const url = `${site}/${lang}/${path}`;
+const ogImage = `${site}/img/og-enric-aragones.jpg`;
+const ogLocale: Record<string, string> = { ca: 'ca_ES', es: 'es_ES', en: 'en_GB', fr: 'fr_FR' };
+const person = {
+  '@type': 'Person',
+  '@id': `${site}/#enric-aragones`,
+  name: 'Enric Aragonès i Valls',
+  alternateName: 'Enric Aragonès',
+  url: `${site}/${lang}/`,
+  image: `${site}/img/enric-aragones.jpg`,
+  birthDate: '1948',
+  birthPlace: { '@type': 'Place', name: 'Tarragona' },
+  jobTitle: tr.role,
+  description: tr.seo.home,
+  alumniOf: { '@type': 'CollegeOrUniversity', name: 'Universitat de Barcelona' },
+  affiliation: { '@type': 'Organization', name: 'Museu Geològic del Seminari de Barcelona' },
+  knowsAbout: ['Història de la geologia', 'Cartografia geològica', 'Geologia de Catalunya', 'Charles Lyell', 'Lluís Marià Vidal', 'Marià Faura i Sans'],
+  sameAs: [
+    'https://orcid.org/0000-0002-8670-0467',
+    'https://independent.academia.edu/EnricAragones',
+    'https://dialnet.unirioja.es/servlet/autor?codigo=4895181',
+  ],
+};
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@graph': [
+    person,
+    { '@type': 'WebSite', '@id': `${site}/#website`, url: `${site}/`, name: tr.siteTitle, inLanguage: lang, about: { '@id': person['@id'] } },
+    { '@type': section === 'biografia' ? 'ProfilePage' : 'WebPage', '@id': `${url}#page`, url, name: pageTitle, description: desc, inLanguage: lang, isPartOf: { '@id': `${site}/#website` }, about: { '@id': person['@id'] }, mainEntity: section === 'biografia' ? { '@id': person['@id'] } : undefined },
+  ],
+};
 ---
 <!doctype html>
 <html lang={lang}>
@@ -14,13 +46,35 @@ const site = 'https://www.enricaragones.com';
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>{pageTitle}</title>
-    <meta name="description" content={description ?? tr.tagline} />
+    <meta name="description" content={desc} />
+    <meta name="robots" content={noindex ? 'noindex, follow' : 'index, follow, max-image-preview:large'} />
+    <meta property="og:type" content={section === 'biografia' ? 'profile' : 'website'} />
+    <meta property="og:site_name" content={tr.siteTitle} />
+    <meta property="og:title" content={pageTitle} />
+    <meta property="og:description" content={desc} />
+    <meta property="og:url" content={url} />
+    <meta property="og:image" content={ogImage} />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:image:alt" content={`${tr.siteTitle} · ${tr.role}`} />
+    <meta property="og:locale" content={ogLocale[lang]} />
+    {Object.keys(languages).filter((l) => l !== lang).map((l) => <meta property="og:locale:alternate" content={ogLocale[l]} />)}
+    {section === 'biografia' && <meta property="profile:first_name" content="Enric" />}
+    {section === 'biografia' && <meta property="profile:last_name" content="Aragonès i Valls" />}
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={pageTitle} />
+    <meta name="twitter:description" content={desc} />
+    <meta name="twitter:image" content={ogImage} />
+    <meta name="theme-color" content="#faf8f4" />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <link rel="alternate icon" href="/favicon.ico" sizes="any" />
     <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
-    <link rel="canonical" href={`${site}/${lang}/${path}`} />
+    <link rel="canonical" href={url} />
     {Object.keys(languages).map((l) => <link rel="alternate" hreflang={l} href={`${site}/${l}/${path}`} />)}
     <link rel="alternate" hreflang="x-default" href={`${site}/ca/${path}`} />
+    <link rel="sitemap" type="application/xml" href="/sitemap.xml" />
+    <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
+    <slot name="head" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet" />

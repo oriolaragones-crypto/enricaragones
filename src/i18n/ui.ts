@@ -13,7 +13,7 @@ export const ui = {
     tagline: 'Recerca i obra geològica de tota una vida',
     nav: { biografia: 'Biografia', publicacions: 'Publicacions', divulgacio: 'Divulgació', premsa: 'Premsa', contacte: 'Contacte' },
     home: {
-      intro: 'Geòleg i hidrogeòleg, exfuncionari de la Generalitat de Catalunya i estudiós de la història de la geologia a Catalunya.',
+      intro: 'Historiador de la geologia.',
       areas: 'Àrees d’especialitat',
       featured: 'Publicacions destacades',
       all: 'Veure totes les publicacions',
@@ -36,7 +36,7 @@ export const ui = {
     tagline: 'Investigación y obra geológica de toda una vida',
     nav: { biografia: 'Biografía', publicacions: 'Publicaciones', divulgacio: 'Divulgación', premsa: 'Prensa', contacte: 'Contacto' },
     home: {
-      intro: 'Geólogo e hidrogeólogo, exfuncionario de la Generalitat de Catalunya y estudioso de la historia de la geología en Cataluña.',
+      intro: 'Historiador de la geología.',
       areas: 'Áreas de especialidad',
       featured: 'Publicaciones destacadas',
       all: 'Ver todas las publicaciones',
@@ -59,7 +59,7 @@ export const ui = {
     tagline: 'A lifetime of geological research',
     nav: { biografia: 'Biography', publicacions: 'Publications', divulgacio: 'Outreach', premsa: 'Press', contacte: 'Contact' },
     home: {
-      intro: 'Geologist and hydrogeologist, retired civil servant of the Generalitat de Catalunya and scholar of the history of geology in Catalonia.',
+      intro: 'Historian of geology.',
       areas: 'Areas of expertise',
       featured: 'Featured publications',
       all: 'See all publications',
@@ -82,7 +82,7 @@ export const ui = {
     tagline: 'Une vie de recherche géologique',
     nav: { biografia: 'Biographie', publicacions: 'Publications', divulgacio: 'Vulgarisation', premsa: 'Presse', contacte: 'Contact' },
     home: {
-      intro: 'Géologue et hydrogéologue, ancien fonctionnaire de la Generalitat de Catalogne et spécialiste de l’histoire de la géologie en Catalogne.',
+      intro: 'Historien de la géologie.',
       areas: 'Domaines de spécialité',
       featured: 'Publications mises en avant',
       all: 'Voir toutes les publications',

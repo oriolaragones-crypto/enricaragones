@@ -19,11 +19,16 @@ const fmt = (d: string) => d.length === 4 ? d : new Date(d + 'T12:00:00').toLoca
         <article class="pub">
           <div class="year">{p.year}</div>
           <div>
-            <span class="tag">{p.type === 'talk' ? tr.outreach.talk : tr.outreach.blog}</span>
+            {(p as any).thumb && (
+              <a class="pub-thumb" href={(p as any).image} rel="noopener">
+                <img src={(p as any).thumb} width={(p as any).thumbSize?.[0]} height={(p as any).thumbSize?.[1]} alt={p.title[lang]} loading="lazy" />
+              </a>
+            )}
+            <span class="tag">{p.type === 'talk' ? tr.outreach.talk : p.type === 'blog' ? tr.outreach.blog : tr.types[p.type as keyof typeof tr.types]}</span>
             <h3>{p.title[lang]}</h3>
-            <div class="meta"><em>{p.outlet}</em> · {fmt(p.date)}</div>
+            <div class="meta">{(p as any).authors && <>{(p as any).authors.join(', ')} — </>}<em>{p.outlet}</em> · {fmt(p.date)}</div>
             <p>{p.summary[lang]}</p>
-            <a href={p.url} rel="noopener">{p.type === 'talk' ? tr.outreach.page : tr.outreach.read} →</a>
+            {p.url && <a href={p.url} rel="noopener">{(p.type === 'talk' ? tr.outreach.page : p.type === 'blog' ? tr.outreach.read : tr.pubs.source)} →</a>}
             {p.pdf && <a class="btn ghost" href={p.pdf} rel="noopener">{tr.outreach.pdf}</a>}
             {p.video && <a class="btn ghost" href={p.video} rel="noopener">{tr.outreach.video}</a>}
           </div>

@@ -199,5 +199,116 @@
       "en": "A 41-slide presentation on the fall of the Terrassa meteorite on Christmas Day 1704: the reaction of the time, the documentary sources (27 writings, including 9 eyewitness accounts), the description of the phenomenon and the analysis of three possible trajectories of the fireball, none of which satisfactorily explains all the observations.",
       "fr": "Présentation de 41 diapositives sur la chute de la météorite de Terrassa le jour de Noël 1704 : la réaction de l’époque, les sources documentaires (27 écrits, dont 9 témoignages), la description du phénomène et l’analyse de trois trajectoires possibles du bolide, dont aucune n’explique de façon satisfaisante l’ensemble des observations."
     }
+  },
+  {
+    "id": "text-2010-primera-exploracio-de-l-avenc-d-en-roca",
+    "date": "2010",
+    "year": 2010,
+    "type": "article",
+    "outlet": "Muntanya, 888 (abril de 2010): 12-17",
+    "url": "http://espeleobloc.blogspot.com/2010/04/centenari-de-la-mort-den-n-font-i-sague.html",
+    "title": {
+      "ca": "Primera exploració de l’Avenc d’en Roca",
+      "es": "Primera exploració de l’Avenc d’en Roca",
+      "en": "Primera exploració de l’Avenc d’en Roca",
+      "fr": "Primera exploració de l’Avenc d’en Roca"
+    },
+    "summary": {
+      "ca": "Presentació de la crònica de la primera exploració d’aquest avenc, feta pels espeleòlegs del Club Muntanyenc el 4 de setembre de 1907. Es reprodueix l’article publicat per Marià Faura i Sans a La Veu de Catalunya pocs dies després, acompanyat d’il·lustracions fotogràfiques de Josep M. Co de Triola, algunes d’elles inèdites.",
+      "es": "Presentación de la crónica de la primera exploración de esta sima, realizada por los espeleólogos del Club Muntanyenc el 4 de septiembre de 1907. Se reproduce el artículo publicado por Marià Faura i Sans en La Veu de Catalunya pocos días después, acompañado de ilustraciones fotográficas de Josep M. Co de Triola, algunas de ellas inéditas.",
+      "en": "Presentation of the account of the first exploration of this shaft, carried out by the cavers of the Club Muntanyenc on 4 September 1907. The article published by Marià Faura i Sans in La Veu de Catalunya a few days later is reproduced, accompanied by photographic illustrations by Josep M. Co de Triola, some of them unpublished.",
+      "fr": "Présentation du récit de la première exploration de cet aven, effectuée par les spéléologues du Club Muntanyenc le 4 septembre 1907. L’article publié par Marià Faura i Sans dans La Veu de Catalunya quelques jours plus tard est reproduit, accompagné d’illustrations photographiques de Josep M. Co de Triola, dont certaines inédites."
+    },
+    "image": "/img/pubs/2010-avenc-en-roca-muntanya-888-p12.jpg",
+    "thumb": "/img/pubs/2010-avenc-en-roca-muntanya-888-p12-thumb.jpg",
+    "thumbSize": [
+      180,
+      253
+    ]
+  },
+  {
+    "id": "text-2009-luces-del-norte-percepcion-e-interpretacion-de-las-auro",
+    "date": "2009",
+    "year": 2009,
+    "type": "conference",
+    "outlet": "In: Lorenzo, E. de (coord.), La época de Carlos IV (1788-1808). Oviedo, Instituto Feijóo de Estudios del Siglo XVIII, p. 857-872",
+    "url": "https://dialnet.unirioja.es/servlet/articulo?codigo=3666104",
+    "title": {
+      "ca": "Luces del norte: percepción e interpretación de las auroras boreales observadas en la península ibérica a finales del siglo XVIII",
+      "es": "Luces del norte: percepción e interpretación de las auroras boreales observadas en la península ibérica a finales del siglo XVIII",
+      "en": "Luces del norte: percepción e interpretación de las auroras boreales observadas en la península ibérica a finales del siglo XVIII",
+      "fr": "Luces del norte: percepción e interpretación de las auroras boreales observadas en la península ibérica a finales del siglo XVIII"
+    },
+    "summary": {
+      "ca": "Es repassa l’evolució de les idees al llarg del segle sobre les aparicions de fenòmens lluminosos al cel, des de les explicacions filosòfiques o màgiques de la primera meitat del segle fins a l’aparició de les teories heliogèniques, la polèmica del Memorial Literario i les experiències de Salvà i Campillo (anys 80 i 90) i els debats acadèmics posteriors.",
+      "es": "Se repasa la evolución de las ideas a lo largo del siglo sobre las apariciones de fenómenos luminosos en el cielo, desde las explicaciones filosóficas o mágicas de la primera mitad del siglo hasta la aparición de las teorías heliogénicas, la polémica del Memorial Literario y las experiencias de Salvà y Campillo (años 80 y 90) y los debates académicos posteriores.",
+      "en": "The paper reviews how ideas evolved over the century about the appearance of luminous phenomena in the sky, from the philosophical or magical explanations of the first half of the century to the emergence of heliogenic theories, the Memorial Literario controversy and the experiments of Salvà i Campillo (1780s and 1790s), and the academic debates that followed.",
+      "fr": "L’article passe en revue l’évolution des idées au cours du siècle sur l’apparition de phénomènes lumineux dans le ciel, des explications philosophiques ou magiques de la première moitié du siècle à l’apparition des théories héliogéniques, la polémique du Memorial Literario et les expériences de Salvà i Campillo (années 1780 et 1790), puis les débats académiques ultérieurs."
+    },
+    "authors": [
+      "Jorge Ordaz",
+      "Enric Aragonès",
+      "Carlos Martín Escorza"
+    ]
+  },
+  {
+    "id": "text-1985-el-carbo",
+    "date": "1985",
+    "year": 1985,
+    "type": "chapter",
+    "outlet": "In: Folch, R. (dir.), Història Natural dels Països Catalans, 3: 141-158",
+    "url": "",
+    "title": {
+      "ca": "El carbó",
+      "es": "El carbó",
+      "en": "El carbó",
+      "fr": "El carbó"
+    },
+    "summary": {
+      "ca": "Després d’una introducció a la geologia i l’explotació dels carbons, es presenten els jaciments dels Països Catalans i se n’estimen els recursos i les reserves.",
+      "es": "Tras una introducción a la geología y la explotación de los carbones, se presentan los yacimientos de los Países Catalanes y se estiman sus recursos y reservas.",
+      "en": "After an introduction to the geology and exploitation of coal, the deposits of the Catalan Countries are presented and their resources and reserves are estimated.",
+      "fr": "Après une introduction à la géologie et à l’exploitation des charbons, les gisements des Pays catalans sont présentés et leurs ressources et réserves sont estimées."
+    }
+  },
+  {
+    "id": "text-2024-irina-podgorny-los-argentinos-vienen-de-los-peces-ensay",
+    "date": "2024-04-26",
+    "year": 2024,
+    "type": "review",
+    "outlet": "Revista Prohistoria, 40 (26 d’abril de 2024), ressenyes sotmeses a referat (sobre el llibre d’Irina Podgorny, Beatriz Viterbo, Rosario, 2021)",
+    "url": "https://revistaprohistoria.blogspot.com/p/resenas.html",
+    "title": {
+      "ca": "Irina Podgorny: Los argentinos vienen de los peces. Ensayo de filogenia nacional",
+      "es": "Irina Podgorny: Los argentinos vienen de los peces. Ensayo de filogenia nacional",
+      "en": "Irina Podgorny: Los argentinos vienen de los peces. Ensayo de filogenia nacional",
+      "fr": "Irina Podgorny: Los argentinos vienen de los peces. Ensayo de filogenia nacional"
+    },
+    "summary": {
+      "ca": "Ressenya del llibre de referència: un assaig sobre el naturalista autodidacte, geòleg i paleontòleg argentí Florentino Ameghino a partir d’un episodi de joventut: la denominació d’un peix bagre, la «vieja del agua». Enric Aragonès en destaca la interpretació original i amena de la directora de l’Arxiu del Museo de La Plata, l’estructura en tres parts i el retrat d’un personatge singular: espavilat, messiànic, imprudent, resilient i arrogant.",
+      "es": "Reseña del libro de referencia: un ensayo sobre el naturalista autodidacta, geólogo y paleontólogo argentino Florentino Ameghino a partir de un episodio de juventud: la denominación de un pez bagre, la «vieja del agua». Enric Aragonès destaca la interpretación original y amena de la directora del Archivo del Museo de La Plata, la estructura en tres partes y el retrato de un personaje singular: espabilado, mesiánico, imprudente, resiliente y arrogante.",
+      "en": "Review of the reference book: an essay on the self-taught Argentine naturalist, geologist and palaeontologist Florentino Ameghino, based on an episode from his youth: the naming of a catfish, the “vieja del agua”. Enric Aragonès highlights the original and entertaining interpretation by the director of the Archive of the Museo de La Plata, the three-part structure and the portrait of a singular character: sharp, messianic, reckless, resilient and arrogant.",
+      "fr": "Compte rendu du livre de référence : un essai sur le naturaliste autodidacte, géologue et paléontologue argentin Florentino Ameghino à partir d’un épisode de jeunesse : la dénomination d’un poisson-chat, la « vieja del agua ». Enric Aragonès souligne l’interprétation originale et agréable de la directrice des Archives du Museo de La Plata, la structure en trois parties et le portrait d’un personnage singulier : débrouillard, messianique, imprudent, résilient et arrogant."
+    }
+  },
+  {
+    "id": "xerrada-2025-150-anys-museu-geologic",
+    "date": "2025-12-28",
+    "year": 2025,
+    "type": "talk",
+    "outlet": "Sala Sant Jordi del Seminari (Barcelona)",
+    "url": "",
+    "title": {
+      "ca": "El Museu Geològic del Seminari de Barcelona: 150 anys d’història",
+      "es": "El Museu Geològic del Seminari de Barcelona: 150 años de historia",
+      "en": "The Museu Geològic del Seminari de Barcelona: 150 years of history",
+      "fr": "Le Musée géologique du Séminaire de Barcelone : 150 ans d’histoire"
+    },
+    "summary": {
+      "ca": "Presentació de la història del Museu amb 104 fotografies i gràfics que recullen l’evolució i les principals fites assolides per aquest centre de recerca paleontològica.",
+      "es": "Presentación de la historia del Museo con 104 fotografías y gráficos que recogen la evolución y los principales hitos alcanzados por este centro de investigación paleontológica.",
+      "en": "A presentation of the history of the Museum with 104 photographs and graphics showing the development and main milestones of this palaeontological research centre.",
+      "fr": "Présentation de l’histoire du Musée avec 104 photographies et graphiques retraçant l’évolution et les principales étapes franchies par ce centre de recherche paléontologique."
+    }
   }
 ]

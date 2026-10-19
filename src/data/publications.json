@@ -154,7 +154,7 @@
       "cartografia geològica",
       "Barcelona"
     ],
-    "featured": false
+    "featured": true
   },
   {
     "id": "tmgb-07-1998",
@@ -304,10 +304,10 @@
       "fr": "Un epistolario inédito de Lucas Mallada: las cartas a Luis Mariano Vidal y Carreras (1873-1902)"
     },
     "abstract": {
-      "ca": "Estudi de 116 cartes manuscrites que Lucas Mallada va enviar entre 1873 i 1902 al seu amic Lluís Marià Vidal i Carreras. Aporten informació nova sobre Mallada, sobre la història de la Comisión del Mapa Geológico de España i sobre el Cuerpo de Ingenieros de Minas, i n’il·luminen la dimensió humana.",
-      "es": "Estudio de 116 cartas manuscritas que Lucas Mallada envió entre 1873 y 1902 a su amigo Luis Mariano Vidal y Carreras. Aportan información nueva sobre Mallada, sobre la historia de la Comisión del Mapa Geológico de España y sobre el Cuerpo de Ingenieros de Minas, e iluminan su dimensión humana.",
-      "en": "A study of 116 handwritten letters that Lucas Mallada sent to his friend Luis Mariano Vidal y Carreras between 1873 and 1902. They provide new information on Mallada, on the history of the Comisión del Mapa Geológico de España and on the Mining Engineers Corps, and shed light on his human side.",
-      "fr": "Étude de 116 lettres manuscrites que Lucas Mallada a adressées à son ami Luis Mariano Vidal y Carreras entre 1873 et 1902. Elles apportent des informations nouvelles sur Mallada, sur l’histoire de la Comisión del Mapa Geológico de España et sur le Corps des ingénieurs des mines, et éclairent sa dimension humaine."
+      "ca": "Estudi de 116 cartes manuscrites que Lucas Mallada va enviar entre 1873 i 1902 al seu amic Lluís Marià Vidal i Carreras. Aporten informació nova sobre Mallada, sobre la història de la Comisión del Mapa Geológico de España i sobre el Cuerpo de Ingenieros de Minas, i n’il·luminen la dimensió humana. En sengles annexos s’ofereix la bibliografia del personatge, el resum de les epístoles i el text íntegre de les més significatives, i unes notes per afegir a la seva biografia.",
+      "es": "Estudio de 116 cartas manuscritas que Lucas Mallada envió entre 1873 y 1902 a su amigo Luis Mariano Vidal y Carreras. Aportan información nueva sobre Mallada, sobre la historia de la Comisión del Mapa Geológico de España y sobre el Cuerpo de Ingenieros de Minas, e iluminan su dimensión humana. En sendos anexos se ofrece la bibliografía del personaje, el resumen de las epístolas y el texto íntegro de las más significativas, y unas notas para añadir a su biografía.",
+      "en": "A study of 116 handwritten letters that Lucas Mallada sent to his friend Luis Mariano Vidal y Carreras between 1873 and 1902. They provide new information on Mallada, on the history of the Comisión del Mapa Geológico de España and on the Mining Engineers Corps, and shed light on his human side. Two appendices provide the bibliography of Mallada, a summary of the letters and the full text of the most significant ones, together with some notes to add to his biography.",
+      "fr": "Étude de 116 lettres manuscrites que Lucas Mallada a adressées à son ami Luis Mariano Vidal y Carreras entre 1873 et 1902. Elles apportent des informations nouvelles sur Mallada, sur l’histoire de la Comisión del Mapa Geológico de España et sur le Corps des ingénieurs des mines, et éclairent sa dimension humaine. Deux annexes fournissent la bibliographie du personnage, le résumé des lettres et le texte intégral des plus significatives, ainsi que quelques notes à ajouter à sa biographie."
     },
     "keywords": [
       "Lucas Mallada",
@@ -398,16 +398,16 @@
       "fr": "Auroras boreales observadas en la Península Ibérica, Baleares y Canarias durante el siglo XVIII"
     },
     "abstract": {
-      "ca": "Catàleg raonat de 80 aurores boreals observades entre 1716 i 1792 a la península Ibèrica, les Balears i les Canàries (28º-43º de latitud), amb informació inèdita. S’hi comprova la correlació amb els cicles solars i la rotació solar, i les fluctuacions de l’òval auroral expliquen l’absència d’aurores entre 1737 i 1764 i les observacions a Canàries.",
-      "es": "Catálogo razonado de 80 auroras boreales observadas entre 1716 y 1792 en la península ibérica, Baleares y Canarias (28º-43º de latitud), con información inédita. Se comprueba la correlación con los ciclos solares y la rotación solar, y las fluctuaciones del óvalo auroral explican la ausencia de auroras entre 1737 y 1764 y las observaciones en Canarias.",
-      "en": "A reasoned catalogue of 80 auroras observed between 1716 and 1792 in the Iberian Peninsula, the Balearic and the Canary Islands (28º-43º latitude), with previously unpublished information. It confirms correlation with solar cycles and solar rotation, and variations in the auroral oval explain the gap in observations between 1737 and 1764 and those in the Canaries.",
-      "fr": "Catalogue raisonné de 80 aurores boréales observées entre 1716 et 1792 dans la péninsule Ibérique, aux Baléares et aux Canaries (28º-43º de latitude), avec des informations inédites. Il confirme la corrélation avec les cycles solaires et la rotation solaire, et les variations de l’ovale auroral expliquent l’absence d’observations entre 1737 et 1764 ainsi que celles des Canaries."
+      "ca": "S’ha elaborat un catàleg raonat de 80 aurores boreals observades entre els mínims de Maunder i de Dalton (1716 a 1792) a la península Ibèrica i les illes Balears i Canàries (entre 43º i 28º de latitud N). Es concentren en dos subperíodes separats per un període d’absència entre 1737 i 1764. Correlacionen bé amb els cicles circadecenals i amb la rotació solar circamensual; no s’hi ha detectat, en canvi, la periodicitat de Rieger. Les observacions són consistents amb les fases lunars i els cicles equinoccials ben coneguts. En apèndix s’ofereix la transcripció de la documentació consultada i una taula-resum de les observacions.",
+      "es": "Se ha elaborado un catálogo razonado de 80 auroras boreales observadas entre los mínimos de Maunder y de Dalton (1716 a 1792) en la península ibérica y las islas Baleares y Canarias (entre 43º y 28º de latitud N). Se concentran en dos subperíodos separados por un período de ausencia entre 1737 y 1764. Correlacionan bien con los ciclos circadecenales y con la rotación solar circamensual; en cambio, no se ha detectado la periodicidad de Rieger. Las observaciones son consistentes con las fases lunares y los ciclos equinocciales bien conocidos. En apéndice se ofrece la transcripción de la documentación consultada y una tabla-resumen de las observaciones.",
+      "en": "A reasoned catalogue has been compiled of 80 auroras observed between the Maunder and Dalton minima (1716 to 1792) in the Iberian Peninsula and the Balearic and Canary Islands (between 43º and 28º N latitude). They are concentrated in two subperiods separated by a gap between 1737 and 1764. They correlate well with the circa-decadal cycles and with the circa-monthly solar rotation; by contrast, the Rieger periodicity has not been detected. The observations are consistent with the well-known lunar phases and equinoctial cycles. An appendix provides a transcription of the documents consulted and a summary table of the observations.",
+      "fr": "Un catalogue raisonné de 80 aurores boréales observées entre les minima de Maunder et de Dalton (1716 à 1792) dans la péninsule Ibérique et les îles Baléares et Canaries (entre 43º et 28º de latitude N) a été établi. Elles se concentrent en deux sous-périodes séparées par une période d’absence entre 1737 et 1764. Elles corrèlent bien avec les cycles circadécennaux et avec la rotation solaire circamensuelle ; en revanche, la périodicité de Rieger n’a pas été détectée. Les observations sont cohérentes avec les phases lunaires et les cycles équinoxiaux bien connus. Un appendice fournit la transcription de la documentation consultée et un tableau récapitulatif des observations."
     },
     "keywords": [
       "auroras boreals",
       "segle XVIII"
     ],
-    "featured": true
+    "featured": false
   },
   {
     "id": "tmgb-08-1999",
@@ -591,7 +591,7 @@
       "Espanya",
       "segle XIX"
     ],
-    "featured": false
+    "featured": true
   },
   {
     "id": "2006-el-meteorit-que-caigue-a-nulles-i-vilabella-el-5-de-novembre-de-1851",
@@ -669,10 +669,10 @@
       "fr": "Lyell a Catalunya"
     },
     "abstract": {
-      "ca": "Estudi del viatge geològic de Charles Lyell per Catalunya l’estiu de 1830, reconstruït a partir de les seves cartes i, sobretot, d’una còpia de les quatre llibretes de camp trobada a l’arxiu del Seminari de Barcelona. Descriu l’itinerari (la Cerdanya, Barcelona, Montserrat, Cardona, Vic i els volcans d’Olot), els contactes amb naturalistes catalans com Francesc Bolòs i la valoració dels resultats: la regió volcànica, l’edat de la sal de Cardona i la geologia dels Pirineus. Recull també les seves observacions sobre el país, la gent i el règim absolutista de l’època, i la difusió que el seu treball va tenir entre els geòlegs posteriors.",
-      "es": "Estudio del viaje geológico de Charles Lyell por Cataluña en el verano de 1830, reconstruido a partir de sus cartas y, sobre todo, de una copia de las cuatro libretas de campo hallada en el archivo del Seminario de Barcelona. Describe el itinerario (la Cerdanya, Barcelona, Montserrat, Cardona, Vic y los volcanes de Olot), los contactos con naturalistas catalanes como Francesc Bolòs y la valoración de los resultados: la región volcánica, la edad de la sal de Cardona y la geología de los Pirineos. Recoge también sus observaciones sobre el país, la gente y el régimen absolutista de la época, y la difusión que su trabajo tuvo entre los geólogos posteriores.",
-      "en": "A study of Charles Lyell’s geological journey through Catalonia in the summer of 1830, reconstructed from his letters and above all from a copy of his four field notebooks found in the archive of the Seminari de Barcelona. It describes the itinerary (the Cerdanya, Barcelona, Montserrat, Cardona, Vic and the Olot volcanoes), his contacts with Catalan naturalists such as Francesc Bolòs, and an assessment of the results: the volcanic region, the age of the Cardona salt and the geology of the Pyrenees. It also gathers his observations on the country, its people and the absolutist regime of the time, and the reception his work had among later geologists.",
-      "fr": "Étude du voyage géologique de Charles Lyell en Catalogne à l’été 1830, reconstitué à partir de ses lettres et surtout d’une copie de ses quatre carnets de terrain retrouvée dans les archives du Séminaire de Barcelone. Elle décrit l’itinéraire (la Cerdagne, Barcelone, Montserrat, Cardona, Vic et les volcans d’Olot), les contacts avec des naturalistes catalans comme Francesc Bolòs et l’évaluation des résultats : la région volcanique, l’âge du sel de Cardona et la géologie des Pyrénées. Elle recueille aussi ses observations sur le pays, ses habitants et le régime absolutiste de l’époque, ainsi que la diffusion de son travail parmi les géologues postérieurs."
+      "ca": "Traducció catalana de l’article publicat en anglès l’any 2008.",
+      "es": "Traducción catalana del artículo publicado en inglés en 2008.",
+      "en": "Catalan translation of the article published in English in 2008.",
+      "fr": "Traduction catalane de l’article publié en anglais en 2008."
     },
     "keywords": [
       "Charles Lyell",
@@ -859,46 +859,6 @@
     "featured": false
   },
   {
-    "id": "2010-primera-exploracio-de-l-avenc-d-en-roca",
-    "year": 2010,
-    "type": "article",
-    "topic": "historia",
-    "authors": [
-      "Enric Aragonès"
-    ],
-    "lang": "ca",
-    "venue": "Muntanya, 888 (abril de 2010): 12-17",
-    "doi": "",
-    "pdf": "",
-    "url": "http://espeleobloc.blogspot.com/2010/04/centenari-de-la-mort-den-n-font-i-sague.html",
-    "title": {
-      "ca": "Primera exploració de l’Avenc d’en Roca",
-      "es": "Primera exploració de l’Avenc d’en Roca",
-      "en": "Primera exploració de l’Avenc d’en Roca",
-      "fr": "Primera exploració de l’Avenc d’en Roca"
-    },
-    "abstract": {
-      "ca": "Edició comentada de la primera exploració de l’avenc d’en Roca, feta el 4 de setembre de 1907 pels primers espeleòlegs del Club Muntanyenc. Una introducció presenta Norbert Font i Sagué com a inspirador del Club i del seu deixeble Marià Faura, que havia dirigit la primera expedició a l’avenc d’Ancosa l’11 d’agost; Font no hi va poder anar, però sí que es va incorporar a aquesta segona sortida. Repassa els relats coneguts (el de Font a Sota terra, el de Faura a La Veu de Catalunya i el de Co de Triola a El Correo Catalán) i reprodueix el de Faura, «¡Un altre avenc!», considerat el més fidel, amb notes que hi afegeixen les precisions de les fonts posteriors i amb l’ortografia actualitzada. La crònica explica com es va tenir notícia de la cavitat, com els excursionistes van instal·lar l’escala i van baixar per fer-ne el reconeixement, estudiar-ne la formació i fotografiar-la, fins a una profunditat de 64 metres, i acaba amb la voluntat del Club de contribuir a l’estudi espeleològic i geològic de Catalunya. Il·lustren el text fotografies de Co de Triola conservades al Centre Excursionista de Catalunya i altres d’inèdites localitzades al Club Muntanyenc.",
-      "es": "Edición comentada de la primera exploración del avenc d’en Roca, realizada el 4 de septiembre de 1907 por los primeros espeleólogos del Club Muntanyenc. Una introducción presenta a Norbert Font i Sagué como inspirador del Club y de su discípulo Marià Faura, que había dirigido la primera expedición al avenc d’Ancosa el 11 de agosto; Font no pudo acudir, pero sí se incorporó a esta segunda salida. Repasa los relatos conocidos (el de Font en Sota terra, el de Faura en La Veu de Catalunya y el de Co de Triola en El Correo Catalán) y reproduce el de Faura, «¡Un altre avenc!», considerado el más fiel, con notas que añaden las precisiones de las fuentes posteriores y con la ortografía actualizada. La crónica explica cómo se tuvo noticia de la cavidad, cómo los excursionistas instalaron la escala y bajaron para reconocerla, estudiar su formación y fotografiarla, hasta una profundidad de 64 metros, y termina con la voluntad del Club de contribuir al estudio espeleológico y geológico de Cataluña. Ilustran el texto fotografías de Co de Triola conservadas en el Centre Excursionista de Catalunya y otras inéditas localizadas en el Club Muntanyenc.",
-      "en": "An annotated edition of the first exploration of the Avenc d’en Roca, carried out on 4 September 1907 by the first cavers of the Club Muntanyenc. An introduction presents Norbert Font i Sagué as the inspiration behind the Club and his pupil Marià Faura, who had led the first expedition to the Avenc d’Ancosa on 11 August; Font could not go then, but joined this second outing. It reviews the known accounts (Font’s in Sota terra, Faura’s in La Veu de Catalunya and Co de Triola’s in El Correo Catalán) and reproduces Faura’s, “¡Un altre avenc!”, regarded as the most faithful, with notes adding the details given by later sources and with the spelling updated. The chronicle tells how the cavity came to their attention, how the party rigged the ladder and descended to survey it, study its formation and photograph it, down to a depth of 64 metres, and closes with the Club’s wish to contribute to the speleological and geological study of Catalonia. The text is illustrated with photographs by Co de Triola held at the Centre Excursionista de Catalunya and other unpublished ones found at the Club Muntanyenc.",
-      "fr": "Édition commentée de la première exploration de l’avenc d’en Roca, réalisée le 4 septembre 1907 par les premiers spéléologues du Club Muntanyenc. Une introduction présente Norbert Font i Sagué comme l’inspirateur du Club et de son disciple Marià Faura, qui avait dirigé la première expédition à l’avenc d’Ancosa le 11 août ; Font ne put y aller alors, mais rejoignit cette seconde sortie. Elle passe en revue les récits connus (celui de Font dans Sota terra, celui de Faura dans La Veu de Catalunya et celui de Co de Triola dans El Correo Catalán) et reproduit celui de Faura, « ¡Un altre avenc! », jugé le plus fidèle, avec des notes ajoutant les précisions des sources postérieures et l’orthographe actualisée. La chronique raconte comment la cavité fut signalée, comment les excursionnistes installèrent l’échelle et descendirent pour la reconnaître, étudier sa formation et la photographier, jusqu’à 64 mètres de profondeur, et s’achève sur la volonté du Club de contribuer à l’étude spéléologique et géologique de la Catalogne. Le texte est illustré de photographies de Co de Triola conservées au Centre Excursionista de Catalunya et d’autres, inédites, retrouvées au Club Muntanyenc."
-    },
-    "keywords": [
-      "Avenc d’en Roca",
-      "Club Muntanyenc",
-      "Norbert Font i Sagué",
-      "Marià Faura",
-      "espeleologia"
-    ],
-    "featured": false,
-    "image": "/img/pubs/2010-avenc-en-roca-muntanya-888-p12.jpg",
-    "thumb": "/img/pubs/2010-avenc-en-roca-muntanya-888-p12-thumb.jpg",
-    "thumbSize": [
-      180,
-      253
-    ]
-  },
-  {
     "id": "2020-introduccio",
     "year": 2020,
     "type": "chapter",
@@ -918,10 +878,10 @@
       "fr": "Introducció"
     },
     "abstract": {
-      "ca": "Estudi introductori a l’edició catalana abreujada dels Principis de geologia de Charles Lyell (1830-1833). Situa l’obra en el seu context —el pas de les teories neptunistes i diluvialistes a la geologia moderna, de Hutton a Lyell—, resegueix la vida i l’obra de l’autor i analitza l’estructura de la primera edició, la seva recepció i la seva influència en Darwin. Examina el principi d’actualisme i els límits de l’uniformitarisme, amb la reaparició del catastrofisme, i tanca amb el llegat de l’obra, les edicions i traduccions i una cronologia comparada de Lyell i de les ciències de la Terra.",
-      "es": "Estudio introductorio a la edición catalana abreviada de los Principios de geología de Charles Lyell (1830-1833). Sitúa la obra en su contexto —el paso de las teorías neptunistas y diluvialistas a la geología moderna, de Hutton a Lyell—, recorre la vida y la obra del autor y analiza la estructura de la primera edición, su recepción y su influencia en Darwin. Examina el principio de actualismo y los límites del uniformitarismo, con la reaparición del catastrofismo, y cierra con el legado de la obra, sus ediciones y traducciones y una cronología comparada de Lyell y de las ciencias de la Tierra.",
-      "en": "Introductory study to the abridged Catalan edition of Charles Lyell’s Principles of Geology (1830-1833). It places the work in context — the shift from Neptunist and diluvialist theories to modern geology, from Hutton to Lyell — follows the author’s life and work, and analyses the structure of the first edition, its reception and its influence on Darwin. It examines the principle of actualism and the limits of uniformitarianism, including the return of catastrophism, and closes with the legacy of the work, its editions and translations, and a comparative chronology of Lyell and the Earth sciences.",
-      "fr": "Étude introductive à l’édition catalane abrégée des Principes de géologie de Charles Lyell (1830-1833). Elle situe l’œuvre dans son contexte — le passage des théories neptunistes et diluvialistes à la géologie moderne, de Hutton à Lyell —, retrace la vie et l’œuvre de l’auteur et analyse la structure de la première édition, sa réception et son influence sur Darwin. Elle examine le principe d’actualisme et les limites de l’uniformitarisme, avec le retour du catastrophisme, et s’achève sur l’héritage de l’œuvre, ses éditions et traductions et une chronologie comparée de Lyell et des sciences de la Terre."
+      "ca": "Se situa l’obra en el context de l’època —el pas de les teories neptunistes i diluvialistes a la geologia moderna, de Hutton a Lyell—, s’analitza la vida i l’obra de l’autor, l’estructura i la recepció de la primera edició (1830-1833) i la influència que va exercir en l’obra de Darwin. S’examina el principi d’actualisme i els límits de l’uniformitarisme, amb la reaparició del catastrofisme, i tanca amb el llegat de l’obra, les edicions i traduccions i una cronologia comparada de Lyell amb la de les ciències de la Terra.",
+      "es": "Se sitúa la obra en el contexto de la época —el paso de las teorías neptunistas y diluvialistas a la geología moderna, de Hutton a Lyell—, se analiza la vida y la obra del autor, la estructura y la recepción de la primera edición (1830-1833) y la influencia que ejerció en la obra de Darwin. Se examina el principio de actualismo y los límites del uniformitarismo, con la reaparición del catastrofismo, y se cierra con el legado de la obra, las ediciones y traducciones y una cronología comparada de Lyell con la de las ciencias de la Tierra.",
+      "en": "The work is placed in the context of its time —the shift from Neptunist and diluvialist theories to modern geology, from Hutton to Lyell—, and the author’s life and work, the structure and reception of the first edition (1830-1833) and its influence on Darwin’s work are analysed. The principle of actualism and the limits of uniformitarianism are examined, including the return of catastrophism, and the text closes with the legacy of the work, its editions and translations, and a chronology comparing Lyell’s career with the history of the Earth sciences.",
+      "fr": "L’ouvrage est replacé dans le contexte de son époque —le passage des théories neptunistes et diluvialistes à la géologie moderne, de Hutton à Lyell—, on analyse la vie et l’œuvre de l’auteur, la structure et la réception de la première édition (1830-1833) et l’influence qu’elle a exercée sur l’œuvre de Darwin. On examine le principe d’actualisme et les limites de l’uniformitarisme, avec le retour du catastrophisme, et l’on conclut avec l’héritage de l’ouvrage, ses éditions et traductions et une chronologie comparant Lyell et l’histoire des sciences de la Terre."
     },
     "keywords": [
       "Charles Lyell",
@@ -1019,39 +979,6 @@
       "fr": "Après détermination de la densité apparente du produit de la mine de sel, on documente les changements survenus dans les unités de mesure du sel durant les siècles antérieurs au XIXe : des somades et cargues médiévales aux aimines du XVe siècle, mesurées comme le grain et pesées à la balance romaine, puis aux fanègues castillanes introduites après la guerre de Succession et en vigueur jusqu’à l’adoption du système métrique décimal au milieu du XIXe siècle."
     },
     "keywords": [],
-    "featured": true
-  },
-  {
-    "id": "2024-irina-podgorny-los-argentinos-vienen-de-los-peces-ensayo-de-filogenia-",
-    "year": 2024,
-    "type": "review",
-    "topic": "historia",
-    "authors": [
-      "Enric Aragonès"
-    ],
-    "lang": "es",
-    "venue": "Revista Prohistoria, 40 (26 d’abril de 2024), ressenyes sotmeses a referat (sobre el llibre d’Irina Podgorny, Beatriz Viterbo, Rosario, 2021)",
-    "doi": "",
-    "pdf": "",
-    "url": "https://revistaprohistoria.blogspot.com/p/resenas.html",
-    "title": {
-      "ca": "Irina Podgorny: Los argentinos vienen de los peces. Ensayo de filogenia nacional",
-      "es": "Irina Podgorny: Los argentinos vienen de los peces. Ensayo de filogenia nacional",
-      "en": "Irina Podgorny: Los argentinos vienen de los peces. Ensayo de filogenia nacional",
-      "fr": "Irina Podgorny: Los argentinos vienen de los peces. Ensayo de filogenia nacional"
-    },
-    "abstract": {
-      "ca": "Ressenya del llibre d’Irina Podgorny (Beatriz Viterbo, Rosario, 2021), un assaig sobre el naturalista autodidacte, geòleg i paleontòleg argentí Florentino Ameghino a partir d’un episodi de joventut: la denominació d’un peix bagre, la «vieja del agua». Enric Aragonès en destaca la interpretació original i amena de la directora de l’Arxiu del Museo de La Plata, l’estructura en tres parts i el retrat d’un personatge singular: espavilat, messiànic, imprudent, resilient i arrogant.",
-      "es": "Reseña del libro de Irina Podgorny (Beatriz Viterbo, Rosario, 2021), un ensayo sobre el naturalista autodidacta, geólogo y paleontólogo argentino Florentino Ameghino a partir de un episodio de juventud: la denominación de un pez bagre, la «vieja del agua». Enric Aragonès destaca la interpretación original y amena de la directora del Archivo del Museo de La Plata, la estructura en tres partes y el retrato de un personaje singular: avispado, mesiánico, imprudente, resiliente y arrogante.",
-      "en": "A review of Irina Podgorny’s book (Beatriz Viterbo, Rosario, 2021), an essay on the self-taught Argentine naturalist, geologist and palaeontologist Florentino Ameghino, built around a youthful episode: the naming of a catfish, the “vieja del agua”. Enric Aragonès highlights the original and engaging interpretation by the director of the Museo de La Plata’s Archive, the three-part structure and the portrait of a singular character: shrewd, messianic, imprudent, resilient and arrogant.",
-      "fr": "Compte rendu du livre d’Irina Podgorny (Beatriz Viterbo, Rosario, 2021), un essai sur le naturaliste autodidacte, géologue et paléontologue argentin Florentino Ameghino, construit autour d’un épisode de jeunesse : la dénomination d’un poisson-chat, la « vieja del agua ». Enric Aragonès souligne l’interprétation originale et agréable de la directrice des Archives du Museo de La Plata, la structure en trois parties et le portrait d’un personnage singulier : débrouillard, messianique, imprudent, résilient et arrogant."
-    },
-    "keywords": [
-      "Florentino Ameghino",
-      "Irina Podgorny",
-      "història de la paleontologia",
-      "Argentina"
-    ],
     "featured": false
   },
   {
@@ -1517,36 +1444,6 @@
     "featured": false
   },
   {
-    "id": "2009-luces-del-norte-percepcion-e-interpretacion-de-las-auroras-boreales-ob",
-    "year": 2009,
-    "type": "conference",
-    "topic": "historia",
-    "authors": [
-      "Jorge Ordaz",
-      "Enric Aragonès",
-      "Carlos Martín Escorza"
-    ],
-    "lang": "es",
-    "venue": "In: Lorenzo, E. de (coord.), La época de Carlos IV (1788-1808). Oviedo, Instituto Feijóo de Estudios del Siglo XVIII, p. 857-872",
-    "doi": "",
-    "pdf": "",
-    "url": "https://dialnet.unirioja.es/servlet/articulo?codigo=3666104",
-    "title": {
-      "ca": "Luces del norte: percepción e interpretación de las auroras boreales observadas en la península ibérica a finales del siglo XVIII",
-      "es": "Luces del norte: percepción e interpretación de las auroras boreales observadas en la península ibérica a finales del siglo XVIII",
-      "en": "Luces del norte: percepción e interpretación de las auroras boreales observadas en la península ibérica a finales del siglo XVIII",
-      "fr": "Luces del norte: percepción e interpretación de las auroras boreales observadas en la península ibérica a finales del siglo XVIII"
-    },
-    "abstract": {
-      "ca": "",
-      "es": "",
-      "en": "",
-      "fr": ""
-    },
-    "keywords": [],
-    "featured": false
-  },
-  {
     "id": "2003-un-perfil-geologic-de-carles-de-gimbernat-localitzat-al-museu-del-semi",
     "year": 2003,
     "type": "article",
@@ -1596,10 +1493,10 @@
       "fr": "Bólidos observados y meteoritos caídos en la Península Ibérica durante el siglo XVIII"
     },
     "abstract": {
-      "ca": "",
-      "es": "",
-      "en": "",
-      "fr": ""
+      "ca": "De l’estudi de 33 casos reals o suposats n’ha resultat un catàleg de 3 caigudes i 10 bòlids. En la distribució temporal s’observen dos màxims (un a la dècada dels 50 i un altre cap a la fi del segle) que correlacionen bé amb les dades que es tenen a escala global. D’altra banda, s’ha estudiat la història terrestre dels meteorits i l’evolució de les interpretacions d’aquests fenòmens en el temps, des de les conjectures precientífiques fins a l’acceptació del seu origen extraterrestre.",
+      "es": "Del estudio de 33 casos reales o supuestos ha resultado un catálogo de 3 caídas y 10 bólidos. En la distribución temporal se observan dos máximos (uno en la década de los 50 y otro hacia el final del siglo) que correlacionan bien con los datos que se tienen a escala global. Por otra parte, se ha estudiado la historia terrestre de los meteoritos y la evolución de las interpretaciones de estos fenómenos en el tiempo, desde las conjeturas precientíficas hasta la aceptación de su origen extraterrestre.",
+      "en": "The study of 33 real or alleged cases has produced a catalogue of 3 falls and 10 fireballs. The distribution over time shows two maxima (one in the 1750s and another towards the end of the century) that correlate well with global data. The paper also examines the terrestrial history of meteorites and the evolution of interpretations of these phenomena over time, from pre-scientific conjecture to acceptance of their extraterrestrial origin.",
+      "fr": "L’étude de 33 cas réels ou supposés a abouti à un catalogue de 3 chutes et 10 bolides. La distribution dans le temps montre deux maxima (l’un dans les années 1750 et l’autre vers la fin du siècle) qui corrèlent bien avec les données à l’échelle mondiale. Par ailleurs, on a étudié l’histoire terrestre des météorites et l’évolution des interprétations de ces phénomènes au fil du temps, des conjectures préscientifiques à l’acceptation de leur origine extraterrestre."
     },
     "keywords": [],
     "featured": false
@@ -1723,34 +1620,6 @@
     "featured": false
   },
   {
-    "id": "1985-el-carbo",
-    "year": 1985,
-    "type": "chapter",
-    "topic": "regional",
-    "authors": [
-      "Enric Aragonès"
-    ],
-    "lang": "ca",
-    "venue": "In: Folch, R. (dir.), Història Natural dels Països Catalans, 3: 141-158",
-    "doi": "",
-    "pdf": "",
-    "url": "",
-    "title": {
-      "ca": "El carbó",
-      "es": "El carbó",
-      "en": "El carbó",
-      "fr": "El carbó"
-    },
-    "abstract": {
-      "ca": "",
-      "es": "",
-      "en": "",
-      "fr": ""
-    },
-    "keywords": [],
-    "featured": false
-  },
-  {
     "id": "1982-el-sistema-de-terrazas-del-rio-carrion",
     "year": 1982,
     "type": "conference",
@@ -1776,10 +1645,10 @@
       "fr": "El sistema de terrazas del río Carrión"
     },
     "abstract": {
-      "ca": "",
-      "es": "",
-      "en": "",
-      "fr": ""
+      "ca": "S’aborda el problema de la relació entre els ventalls al·luvials i les fàcies lacustres. Es defineixen sengles seqüències virtuals de les fàcies marginals i de la part proximal, i es desenvolupa un model geogràfic que intenta explicar el conjunt de les dades i observacions.",
+      "es": "Se aborda el problema de la relación entre los abanicos aluviales y las facies lacustres. Se definen sendas secuencias virtuales de las facies marginales y de la parte proximal, y se desarrolla un modelo geográfico que intenta explicar el conjunto de los datos y observaciones.",
+      "en": "The problem of the relationship between alluvial fans and lacustrine facies is addressed. Virtual sequences are defined for the marginal facies and for the proximal part, and a geographic model is developed that attempts to explain all of the data and observations.",
+      "fr": "Le problème de la relation entre les cônes alluviaux et les faciès lacustres est abordé. On définit des séquences virtuelles pour les faciès marginaux et pour la partie proximale, et l’on élabore un modèle géographique qui tente d’expliquer l’ensemble des données et des observations."
     },
     "keywords": [],
     "featured": false

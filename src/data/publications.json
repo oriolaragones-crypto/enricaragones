@@ -2090,5 +2090,38 @@
       "Servei Geològic"
     ],
     "featured": false
+  },
+  {
+    "id": "1991-paleontologia-formacio-de-colleccions-paleontologiques",
+    "year": 1991,
+    "type": "book",
+    "topic": "patrimoni",
+    "authors": [
+      "Enric Aragonès"
+    ],
+    "lang": "ca",
+    "venue": "Generalitat de Catalunya, Departament de Cultura (coordinació)",
+    "doi": "",
+    "pdf": "",
+    "url": "https://drac.cultura.gencat.cat/handle/20.500.12368/491.2#page=2",
+    "title": {
+      "ca": "Paleontologia. Documentació i instruccions per a la formació de col·leccions paleontològiques",
+      "es": "Paleontologia. Documentació i instruccions per a la formació de col·leccions paleontològiques",
+      "en": "Paleontologia. Documentació i instruccions per a la formació de col·leccions paleontològiques",
+      "fr": "Paleontologia. Documentació i instruccions per a la formació de col·leccions paleontològiques"
+    },
+    "abstract": {
+      "ca": "Recull de quatre articles dels conservadors dels museus d’història natural de Barcelona: introducció als fòssils; treball de camp, preparació i estudis; ingrés del fòssil en la col·lecció; conservació i gestió de la col·lecció.",
+      "es": "Recopilación de cuatro artículos de los conservadores de los museos de historia natural de Barcelona: introducción a los fósiles; trabajo de campo, preparación y estudios; ingreso del fósil en la colección; conservación y gestión de la colección.",
+      "en": "A collection of four articles by the curators of the natural history museums of Barcelona: an introduction to fossils; fieldwork, preparation and study; entry of the fossil into the collection; conservation and management of the collection.",
+      "fr": "Recueil de quatre articles des conservateurs des musées d’histoire naturelle de Barcelone : introduction aux fossiles ; travail de terrain, préparation et études ; entrée du fossile dans la collection ; conservation et gestion de la collection."
+    },
+    "keywords": [
+      "paleontologia",
+      "col·leccions",
+      "museus d’història natural",
+      "conservació"
+    ],
+    "featured": false
   }
 ]

@@ -227,8 +227,8 @@
     "type": "article",
     "topic": "cartografia",
     "authors": [
-      "Enric Aragonès",
-      "M. Bilotte"
+      "M. Bilotte",
+      "Enric Aragonès"
     ],
     "lang": "fr",
     "venue": "Treballs del Museu de Geologia de Barcelona, 17: 27-43",
@@ -839,9 +839,9 @@
       "Enric Aragonès"
     ],
     "lang": "ca",
-    "venue": "Muntanya, 888: 6-17",
+    "venue": "Muntanya, 888 (abril de 2010): 6-17",
     "doi": "",
-    "pdf": "",
+    "pdf": "https://ccbe.feec.cat/docs/cec/Hemeroteca/Muntanya/2010/MUNT_2010_04_0888.pdf",
     "url": "",
     "title": {
       "ca": "N. Font i Sagué i el Club Muntanyenc (1907-1909)",
@@ -850,10 +850,10 @@
       "fr": "N. Font i Sagué i el Club Muntanyenc (1907-1909)"
     },
     "abstract": {
-      "ca": "S’estudia l’activitat espeleològica de Norbert Font i Sagué, inspirador del Club Muntanyenc, de la publicació Sota Terra, i de l’afició del seu deixeble Marià Faura i Sans, continuador de la seva tasca exploratòria de coves i avencs.",
-      "es": "Se estudia la actividad espeleológica de Norbert Font i Sagué, inspirador del Club Muntanyenc, de la publicación Sota Terra y de la afición de su discípulo Marià Faura i Sans, continuador de su labor exploratoria de cuevas y simas.",
-      "en": "The speleological activity of Norbert Font i Sagué is studied: he was the inspiration behind the Club Muntanyenc, the publication Sota Terra and the enthusiasm of his pupil Marià Faura i Sans, who continued his work of exploring caves and shafts.",
-      "fr": "On étudie l’activité spéléologique de Norbert Font i Sagué, inspirateur du Club Muntanyenc, de la publication Sota Terra et de la passion de son disciple Marià Faura i Sans, qui a poursuivi son travail d’exploration des grottes et des avens."
+      "ca": "S’estudia l’activitat espeleològica de Norbert Font i Sagué, inspirador del Club Muntanyenc, de la publicació Sota Terra, i de l’afició del seu deixeble Marià Faura i Sans, continuador de la seva tasca exploratòria de coves i avencs. S’adjunta la crònica de l’exploració de l’Avenc d’en Roca, publicada per Marià Faura i Sans a «La Veu de Catalunya».",
+      "es": "Se estudia la actividad espeleológica de Norbert Font i Sagué, inspirador del Club Muntanyenc, de la publicación Sota Terra y de la afición de su discípulo Marià Faura i Sans, continuador de su labor exploratoria de cuevas y simas. Se adjunta la crónica de la exploración del Avenc d’en Roca, publicada por Marià Faura i Sans en «La Veu de Catalunya».",
+      "en": "The speleological activity of Norbert Font i Sagué is studied: he was the inspiration behind the Club Muntanyenc, the publication Sota Terra and the enthusiasm of his pupil Marià Faura i Sans, who continued his work of exploring caves and shafts. The account of the exploration of the Avenc d’en Roca, published by Marià Faura i Sans in “La Veu de Catalunya”, is attached.",
+      "fr": "On étudie l’activité spéléologique de Norbert Font i Sagué, inspirateur du Club Muntanyenc, de la publication Sota Terra et de la passion de son disciple Marià Faura i Sans, qui a poursuivi son travail d’exploration des grottes et des avens. Le récit de l’exploration de l’Avenc d’en Roca, publié par Marià Faura i Sans dans « La Veu de Catalunya », est joint."
     },
     "keywords": [],
     "featured": false

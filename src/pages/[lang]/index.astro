@@ -13,9 +13,7 @@ const featured = pubs.filter((p) => p.featured).sort((a, b) => a.year - b.year);
   <section class="hero">
     <div class="wrap hero-grid">
       <div>
-        <span class="tag">{tr.role}</span>
         <h1>{tr.siteTitle}</h1>
-        <p class="lead">{tr.tagline}</p>
         <p>{tr.home.intro}</p>
         <p>
           <a class="btn" href={href(lang, 'publicacions')}>{tr.nav.publicacions}</a>
